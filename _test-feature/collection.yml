@@ -1,4 +1,5 @@
 collections:
   test-feature:
     output: true
-    order: []
+    order:
+      - Features.md
