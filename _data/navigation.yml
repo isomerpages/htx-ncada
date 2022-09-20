@@ -9,4 +9,7 @@ links:
   - title: Resources
     resource_room: true
   - title: Sample Features
-    collection: test-feature
+    url: /permalink
+    sublinks:
+      - title: Feature
+        url: Sample Feature/permalink
