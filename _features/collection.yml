@@ -1,5 +1,5 @@
 collections:
-  feature:
+  features:
     output: true
     order:
       - Features.md
