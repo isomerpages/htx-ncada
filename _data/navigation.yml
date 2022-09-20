@@ -8,8 +8,8 @@ links:
     collection: example-collection
   - title: Resources
     resource_room: true
-  - title: Sample Features
+  - title: Sample features
     url: /permalink
     sublinks:
-      - title: Features
-        url: /Sample-Features/features
+      - title: "NCADA Heritage Gallery "
+        url: "/sample-feature/NCADA-Heritage-Gallery "
