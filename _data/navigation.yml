@@ -11,5 +11,5 @@ links:
   - title: Sample Features
     url: /permalink
     sublinks:
-      - title: Test Features
-        url: /test-features/permalink/
+      - title: Features
+        url: /Sample-Features/features
