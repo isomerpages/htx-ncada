@@ -1,11 +1,4 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
   - title: Contact Us
     url: /contact-us/
@@ -15,3 +8,5 @@ links:
     collection: example-collection
   - title: Resources
     resource_room: true
+  - title: Sample Features
+    collection: test-feature
