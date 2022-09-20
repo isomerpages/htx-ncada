@@ -1,5 +1,5 @@
 collections:
-  test-feature:
+  feature:
     output: true
     order:
       - Features.md
