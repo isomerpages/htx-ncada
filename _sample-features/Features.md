@@ -3,7 +3,7 @@ title: Features
 permalink: /sample-feature/NCADA-Heritage-Gallery/
 description: ""
 ---
-6: Read from goggle drive - NCADA
+6: Read from google drive - NCADA
 
 
 
