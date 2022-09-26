@@ -4,14 +4,12 @@ permalink: /sample-feature/NCADA-Heritage-Gallery/
 description: ""
 ---
 6: Read from google drive - NCADA
-https://drive.google.com/file/d/1qKaVTXHiPNBw7aaOsEx5nT6H33QE62x1/view?usp=sharing
-
-https://drive.google.com/file/d/1VWy56iwIgDVyKOBpZdwX-lXThTe5wv_v/view?usp=sharing
 
 
-| ![](/images/2019ARpt.jpg) | |[2019-ncada-annual-report.pdf - Google Drive](https://drive.google.com /file/d/1qKaVTXHiPNBw7aaOsEx5nT6H33QE62x1/view) |
+
+| ![](/images/2019AR.jpg) | |[2019 Ncada Annual Report](https://drive.google.com/file/d/1qKaVTXHiPNBw7aaOsEx5nT6H33QE62x1/view) |
 | -------- | -------- | -------- |
-|  ![](/images/2020ARpt.jpg) | | [NCADA Annual Reports - Google Drive](https://drive.google.com/drive/folders/1-A3If11Hroh19my-Xl2gufoEhn9-MPd8)   |
+| ![](/images/2020AR.jpg)   | | [NCADA Annual Reports](https://drive.google.com/drive/folders/1-A3If11Hroh19my-Xl2gufoEhn9-MPd8)   |
 
 
 
