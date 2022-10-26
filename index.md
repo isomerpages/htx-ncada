@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: NCADA Council
           description: 2022/24 Term
-          url: /councilmembers/
+          url: /council-members/
         - title: "Our work "
           description: Campaigns, Surveys & Events
           url: /ourwork/
