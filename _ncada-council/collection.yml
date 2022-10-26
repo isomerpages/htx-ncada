@@ -1,4 +1,5 @@
 collections:
   ncada-council:
     output: true
-    order: []
+    order:
+      - example-page.md
