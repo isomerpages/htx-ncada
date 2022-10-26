@@ -2,14 +2,10 @@ logo: /images/isomer-logo.svg
 links:
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Collection
-    collection: example-collection
   - title: Resources
     resource_room: true
-  - title: Sample features
+  - title: Resources
     url: /permalink
     sublinks:
-      - title: "NCADA Heritage Gallery "
-        url: "/sample-feature/NCADA-Heritage-Gallery "
+      - title: Educational Resources
+        url: https://www.cnb.gov.sg/educational-resources
