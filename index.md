@@ -24,7 +24,6 @@ sections:
         - title: Join the Cause
           description: Grants & Advocacy
           url: /jointhecause/
-      background: /images/1920x720 (compressed) Building a Drug Free Society Banner.png
   - infopic:
       title: What's Your Fix?
       subtitle: Media Campaign
