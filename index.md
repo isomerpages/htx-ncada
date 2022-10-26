@@ -26,13 +26,12 @@ sections:
           url: /jointhecause/
       background: /images/1920x720 (compressed) Building a Drug Free Society Banner.png
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Finding Juliana
+      subtitle: NCADa media campaign 2022/23
+      description: Part one of our two-year 'What’s Your Fix?’ campaign.
+      button: Find out more
+      url: /findingjuliana/
   - resources:
-      title: Media
-      subtitle: Learn more
+      subtitle: Discover
       button: View More
 ---
