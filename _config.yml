@@ -3,7 +3,7 @@ url: https://ncada.org.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#00b2a9"
-  secondary-color: "#b1e1d0"
+  secondary-color: "#029894"
   media-colors:
     - title: media-color-one
       color: "#49939a"
