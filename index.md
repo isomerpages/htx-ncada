@@ -12,15 +12,16 @@ sections:
       button: About us
       url: /about-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: The NCADA Council
+          description: Our council members
           url: https://google.com
-        - title: Highlight B
+        - title: "Our work "
           description: Important highlight B is equally important
           url: https://gmail.com
         - title: Page A
           description: Page A is important too
           url: /privacy/
+      background: /images/(compressed) Building a Drug Free Society Banner.png
   - infobar:
       title: Infobar title
       subtitle: Subtitle
