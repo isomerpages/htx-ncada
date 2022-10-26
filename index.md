@@ -12,16 +12,19 @@ sections:
       button: About us
       url: /about-us/
       key_highlights:
-        - title: The NCADA Council
-          description: Our council members
-          url: https://google.com
+        - title: NCADA Council
+          description: 2022/24 Term
+          url: /councilmembers/
         - title: "Our work "
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
-      background: /images/(compressed) Building a Drug Free Society Banner.png
+          description: Campaigns, Surveys & Events
+          url: /ourwork/
+        - title: Publications
+          description: Annual Reports
+          url: /publications/
+        - title: Join the Cause
+          description: Grants & Advocacy
+          url: /jointhecause/
+      background: /images/1920x720 (compressed) Building a Drug Free Society Banner.png
   - infobar:
       title: Infobar title
       subtitle: Subtitle
