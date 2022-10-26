@@ -56,3 +56,11 @@ Association (SINDA)
 <br>Senior Consultant &
 Regional Chief (North),
 <br> Institute of Mental Health
+
+![Mr S B Viknesan](/images/Council%20Members/Mr%20S%20B%20Viknesan.png)
+**Mr S B Viknesan**
+<br> Senior Counsellor,
+<br> National Addictions
+Management Service
+(NAMS) @  Institute of
+Mental Health
