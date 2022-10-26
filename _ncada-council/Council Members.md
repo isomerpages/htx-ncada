@@ -64,3 +64,46 @@ Regional Chief (North),
 Management Service
 (NAMS) @  Institute of
 Mental Health
+
+![Ms Elaine Loo](/images/Council%20Members/Ms%20Elaine%20Loo.jpg)
+**Ms Elaine Loo**
+<br> Director, Membership & Strategy Implementation, National Council of Social Services
+
+![Mr Patrick Kho](/images/Council%20Members/Mr%20Patrick%20Kho.jpg)
+**Mr Patrick Kho**
+<br> Group Managing Director, Lian Huat Group
+
+![Ms Teo Ser Lee](/images/Council%20Members/Ms%20Teo%20Ser%20Lee.jpg)
+**Ms Teo Ser Lee**
+<br> Founder, Protocol Academy Pte Ltd
+
+![Ms Yee Siaw Ling](/images/Council%20Members/Ms%20Yee%20Siaw%20Ling.jpg)
+**Ms Yee Siaw Ling**
+<br>  Director, Central Youth
+Guidance Office, 
+<br> Ministry of Social and Family Development
+
+![Mr Lin Qinghui](/images/Council%20Members/Mr%20Lin%20Qinghui.jpg)
+**Mr Lin Qinghui**  <br> Senior Director, Policy
+Development Division,
+Ministry of Home Affairs 
+
+![Mr Tan Yap Kin](/images/Council%20Members/Mr%20Tan%20Yap%20Kin.png)
+**Mr Tan Yap Kin**
+<br> Executive Director,
+<br> Chinese Development Assistance Council (CDAC)
+
+![Ms Azlinah Arif](/images/Council%20Members/Ms%20Azlinah%20Arif.png)
+**Ms Azlinah Arif**
+<br> Deputy Director, School Ready
+<br>Yayasan MENDAKI
+
+**Ms Ong Yen Peng**
+<br> Deputy Director (Youth & Sports)
+<br> People's Association
+
+![Mr Kesson Lee](/images/Council%20Members/Mr%20Kesson%20Lee.png)
+**Mr Kesson Lee**
+<br> Commissioner for Narcotics
+ Hong Kong
+
