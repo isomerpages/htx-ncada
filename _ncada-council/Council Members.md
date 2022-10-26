@@ -24,6 +24,33 @@ Commissioner to Ghana
 **Mr Hudzaifah Alyaman Bin Adam**
 <br> Asset Manager, Warees Investments Pte Ltd
 
+![Dr Tracy Loh](/images/Council%20Members/Dr%20Tracy%20Loh2.png)
+**Dr Tracy Loh**
+<br> Senior Lecturer, Lee Kong Chian School of Business, Singapore Management University
+
+![Mr William Pushpam](/images/Council%20Members/Mr%20William%20Pushpam.jpg)
+**Mr William Pushpam**
+<br> Cluster Superintendent (Schools Division),
+<br>Ministry of Education
+
+![Mr Zhulkarnain Abdul Rahim](/images/Mr%20Zhulkarnain%20Abdul%20Rahim%20-%20Copy.jpg)
+**Mr Zhulkarnain Abdul Rahim**
+<br> Partner, Dentons Rodyk
+<br>
+Member of Parliament of Chua Chu Kang GRC
+
+![Mr Ahmad Firdaus Bin Daud](/images/Council%20Members/Mr%20Ahmad%20Firdaus%20Daud.png)
+**Mr Ahmad Firdaus Bin Daud**
+<br> Regional Counsel, Avaya Inc
+
+![Mr Ravindran Nagalingam](/images/Council%20Members/Mr%20Ravindran%20Nagalingam%20-%20Copy.jpg)
+**Mr Ravindran Nagalingam**
+<br> Chief Operating Officer
+(COO),
+<br> Singapore
+Indian Development
+Association (SINDA)
+
 ![Dr Jimmy Lee](/images/Council%20Members/Dr%20Jimmy%20Lee.jpg)
 **Dr Jimmy Lee**
 <br>Senior Consultant &
