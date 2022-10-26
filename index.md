@@ -33,13 +33,13 @@ sections:
       button: Find out more
       url: https://whatsyourfix.sg/
       image: /images/Finding Juliana 2022 KV High Res.png
-  - resources:
-      subtitle: Discover
-      button: View More
   - infopic:
       title: NCADA Annual Report 2020
-      subtitle: Latest Reporting
+      subtitle: Reporting
       button: Read now
       url: https://drive.google.com/file/d/1VWy56iwIgDVyKOBpZdwX-lXThTe5wv_v/view?usp=sharing
       image: /images/Z0JoqNP.png
+  - resources:
+      subtitle: Discover
+      button: View More
 ---
