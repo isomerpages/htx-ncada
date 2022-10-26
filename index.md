@@ -24,7 +24,7 @@ sections:
         - title: Join the Cause
           description: Grants & Advocacy
           url: /jointhecause/
-      background: /images/basfsdfg.png
+      background: /images/cdagfgf.png
   - infopic:
       title: What's Your Fix?
       subtitle: Media Campaign
@@ -43,4 +43,3 @@ sections:
       subtitle: Discover
       button: View More
 ---
-
