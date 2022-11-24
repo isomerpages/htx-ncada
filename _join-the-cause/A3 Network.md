@@ -16,14 +16,18 @@ description: ""
 | General track, 26 and up    | Youth track, 17 - 25     | Community-based advocacy  | Community-based advocacy    | </p>
 
 **History and Mission**
-<br> In 2016, NCADA 
+<p align="justify"> In 2016, NCADA 
 had the aim of developing a network of
-advocates who identify with and support a shared goal of a Drug Free Singapore. Advocates, who could generate community awareness and act as a third party voice for the drug-free cause.
+advocates who identify with and support a shared goal of a Drug-Free Singapore. Advocates, who could generate community awareness and act as a third party voice for the drug-free cause.
 
-
-	
 **What You'll Do**
-	
+<p align="justify"> An advocate's primary role is to speak out against the harms of drugs and promote a drug-free life in their personal circles -- whether as parents, friends, teachers, or colleagues. NCADA facilitates this by hosting periodic seminars and engagement sessions to develop our advocate's drug-related knowledge and advocacy capabilities. Where relevant and opportunities arise, advocates may also be invited to support NCADA in media campaigns and anti-drug events. Advocates are highly encouraged to kickstart ground-up projects (small-scale is ok!) within their communities or groups that can help spread the anti-drug message or support resilience against drugs.
 	
 **How do I join?**
-<br> The A3 Network
+<p align="justify">The A3 Network is part of the Home Team Volunteer Network. Interested applicants may apply for the respective schemes via the links below:
+	
+[A3 Adult Advocates](https://go.gov.sg/a3aavolunteer)
+<br> [ADA Programme](https://go.gov.sg/a3adavolunteer)
+<br> [Dadah itu Haram](https://go.gov.sg/a3dihvolunteer)
+
+<p align="justify"> Applicants will have to undergo a half-day onboarding prior to being officially enrolled into the A3 Network as an Anti-Drug Advocate.
