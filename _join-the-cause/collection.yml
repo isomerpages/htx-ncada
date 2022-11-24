@@ -2,6 +2,6 @@ collections:
   join-the-cause:
     output: true
     order:
-      - Example Title.md
+      - Overview.md
       - DrugFreeSG Fund.md
       - A3 Network.md
