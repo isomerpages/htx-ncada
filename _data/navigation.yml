@@ -1,7 +1,5 @@
 logo: /images/NCADA Logo (PNG).png
 links:
-  - title: Contact Us
-    url: /contact-us/
   - title: Resources
     url: https://htx-ncada-staging.netlify.app/resources
     sublinks:
