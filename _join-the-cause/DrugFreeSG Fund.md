@@ -5,7 +5,7 @@ description: NCADA Fund
 ---
 ### Supporting Ground-Up Initiatives
 
-<font size="4">**DrugFreeSG Fund**</font>
+<b>DrugFreeSG Fund</b>
 	
 <font size="3"><p align=justify> The DrugFreeSG Fund (DFSG) gives grants to support ground-up initiatives that contribute to the vision of a drug-free Singapore such as by
 	
