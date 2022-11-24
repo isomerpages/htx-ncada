@@ -1,4 +1,5 @@
 collections:
   join-the-cause:
     output: true
-    order: []
+    order:
+      - DrugFreeSG Fund.md
