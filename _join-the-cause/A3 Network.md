@@ -14,6 +14,16 @@ description: ""
 | A3 Adult Advocates | Anti-Drug Abuse Advocates (ADA) Programme | Dadah itu Haram Campaign | Bothaiporullai Ethirthu Nirpom Campaign|
 | -------- | -------- | -------- |-------- |
 | General track, 26 and up    | Youth track, 17 - 25     | Community-based advocacy  | Community-based advocacy    | </p>
+
+**History and Mission**
+<br> In 2016, NCADA 
+had the aim of developing a network of
+advocates who identify with, support and promote the
+drug free cause They would generate community
+awareness, and act as a third party voice for the drug
+free cause 
+	
+**What You'll Do**
 	
 **How do I join?**
-The A3 Network 
+<br> The A3 Network 
