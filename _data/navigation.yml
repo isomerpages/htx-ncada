@@ -3,7 +3,11 @@ links:
   - title: Contact Us
     url: /contact-us/
   - title: Resources
-    url: /permalink
+    url: https://htx-ncada-staging.netlify.app/resources
     sublinks:
-      - title: Educational Resources
+      - title: Anti-Drug Resources (CNB)
         url: https://www.cnb.gov.sg/educational-resources
+      - title: Social Service Directory (MSF)
+        url: https://www.msf.gov.sg/dfcs/familyservice/default.aspx
+      - title: Managing Addiction (NAMS)
+        url: https://www.nams.sg/our-services/Pages/default.aspx
