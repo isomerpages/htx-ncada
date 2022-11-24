@@ -5,7 +5,7 @@ description: ""
 ---
 <font size="5"> **Anti-Drug Abuse Advocacy (A3) Network**</font>
 
-**About the A3 Network**
+<b>**About the A3 Network**</b>
 
 <p align="justify">The Anti-Drug Abuse Advocacy (A3) Network is a volunteer network of individuals who identify with, support, and promote the anti-drug cause. The Network is jointly managed by NCADA and the Central Narcotics Bureau (CNB). It consists of four pathways: </p>
 
@@ -13,7 +13,9 @@ description: ""
 
 | A3 Adult Advocates | Anti-Drug Abuse Advocates (ADA) Programme | Dadah itu Haram Campaign | Bothaiporullai Ethirthu Nirpom Campaign|
 | -------- | -------- | -------- |-------- |
-| General track, 26 and up    | Youth track, 17 - 25     | Community-based advocacy  | Community-based advocacy    | </p>
+| General track, 26 and up    | Youth track, 17 - 25     | Community-based advocacy  | Community-based advocacy    | 
+
+</p>
 
 **History and Mission**
 <p align="justify"> In 2016, NCADA 
@@ -26,8 +28,8 @@ advocates who identify with and support a shared goal of a Drug-Free Singapore. 
 **How do I join?**
 <p align="justify">The A3 Network is part of the Home Team Volunteer Network. Interested applicants may apply for the respective schemes via the links below:
 	
-[A3 Adult Advocates](https://go.gov.sg/a3aavolunteer)
-<br> [ADA Programme](https://go.gov.sg/a3adavolunteer)
-<br> [Dadah itu Haram](https://go.gov.sg/a3dihvolunteer)
+[A3 Adult Advocates](https://go.gov.sg/a3aavolunteer)</br>
+ [ADA Programme](https://go.gov.sg/a3adavolunteer) </br>
+[Dadah itu Haram](https://go.gov.sg/a3dihvolunteer) </br>
 
 <p align="justify"> Applicants will have to undergo a half-day onboarding prior to being officially enrolled into the A3 Network as an Anti-Drug Advocate. </p>
