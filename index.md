@@ -9,14 +9,12 @@ notification: "Be wary of any SMSes claiming to be from NCADA seeking your
   or seek public donations. If in doubt, email secretariat@ncada.org.sg. "
 sections:
   - hero:
-      button: About us
-      url: /about-us/
       key_highlights:
         - title: NCADA Council
           description: 2022/24 Term
           url: /council-members/
-        - title: "Our work "
-          description: Campaigns, Surveys & Events
+        - title: About NCADA
+          description: Who We Are
           url: /ourwork/
         - title: Publications
           description: Annual Reports
