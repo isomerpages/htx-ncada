@@ -3,7 +3,7 @@ title: DrugFreeSG Fund
 permalink: /permalink/jointhecause/drugfreesgfund/
 description: NCADA Fund
 ---
-<font size="5"> Supporting Ground-Up Initiatives
+### Supporting Ground-Up Initiatives
 
 <font size="4">**DrugFreeSG Fund**</font>
 	
