@@ -8,4 +8,3 @@ description: NCADA Fund
 <font size="4">**DrugFreeSG Fund**</font>
 
 <big>![](/images/DFSG%20E-Poster%20(2022).png)</big>
-
