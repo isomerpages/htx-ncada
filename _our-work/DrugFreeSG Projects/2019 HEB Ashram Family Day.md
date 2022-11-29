@@ -32,4 +32,7 @@ Masagos Zulkifli, then Minister for the Environment and
 Water Resources. Overall, the event reached a total of
 430 guests and at least 140 youths.
 	
-	
+![](/images/DFSG%20Projects/heb%20ashram.png)	
+Caption: Guest-of-Honour Mr Masagos Zulkifli posing for a photo with
+a group of youth volunteers from the SINDA Youth Club at
+HEB-Ashram Family Day 2019. Photo by HEB-Ashram.
