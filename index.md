@@ -11,8 +11,8 @@ sections:
   - hero:
       key_highlights:
         - title: About NCADA
-          description: Who We Are
-          url: /ourwork/
+          description: Roles & Objectives
+          url: /about-ncada
         - title: NCADA Council
           description: 2022/24 Term
           url: /council-members/
