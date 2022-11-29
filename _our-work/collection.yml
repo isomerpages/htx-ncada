@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - DrugFreeSG Projects/.keep
-      - DrugFreeSG Projects.md
       - Overview.md
       - Media Campaign/.keep
       - Media Campaign/What's Your Fix (2022).md
