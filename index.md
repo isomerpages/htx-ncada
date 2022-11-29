@@ -19,6 +19,9 @@ sections:
         - title: Publications
           description: Annual Reports
           url: /publications/
+        - title: Our Work
+          description: Campaigns and Events
+          url: /our-work
       background: /images/cdagfgf.png
   - infopic:
       title: What's Your Fix?
