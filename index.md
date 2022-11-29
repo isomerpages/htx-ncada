@@ -13,15 +13,15 @@ sections:
         - title: About NCADA
           description: Roles, Objectives & Members
           url: /about-ncada
+        - title: Our Work
+          description: Campaigns & Events
+          url: /our-work
         - title: Join the Cause
           description: Grants & Advocacy
           url: /jointhecause/
         - title: Publications
           description: Annual Reports
           url: /publications/
-        - title: Our Work
-          description: Campaigns and Events
-          url: /our-work
       background: /images/cdagfgf.png
   - infopic:
       title: What's Your Fix?
