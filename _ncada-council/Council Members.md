@@ -5,11 +5,13 @@ description: ""
 ---
 ### 2022/24 Term
 
+![](/images/Members%20(2)/Mr%20Hawazi%20Daipi.jpg)
 1. **Mr Hawazi Daipi** - *Chairman*
 <br> Singapore’s Non-Resident
 Representative to the
 Palestinian Authority & High
 Commissioner to Ghana
+
 
 2. **Dr Chew Tuan Chiong** - *Vice-Chairman*
 <br> Chairman, Victoria AM Pte Limited
@@ -71,18 +73,22 @@ Guidance Office,
 Development Division,
 Ministry of Home Affairs 
 
+
 17. **Mr Tan Yap Kin**
 <br> Executive Director,
 <br> Chinese Development Assistance Council (CDAC)
+
 
 18. **Ms Azlinah Arif**
 <br> Deputy Director, School Ready
 <br>Yayasan MENDAKI
 
+![](/images/Members%20(2)/Ms%20Ong%20Yen%20Peng.jpg)
 19. **Ms Ong Yen Peng**
 <br> Deputy Director (Youth & Sports)
 <br> People's Association
 
+![](/images/Members%20(2)/Mr%20Kesson%20Lee.png)
 20. **Mr Kesson Lee**
 <br> Commissioner for Narcotics
  Hong Kong
