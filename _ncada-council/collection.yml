@@ -1,5 +1,4 @@
 collections:
   ncada-council:
     output: true
-    order:
-      - Council Members.md
+    order: []
