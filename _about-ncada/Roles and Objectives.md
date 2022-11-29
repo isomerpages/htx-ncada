@@ -29,4 +29,4 @@ description: roles and objectives of ncada
 *   Research
 
 
-<font size = 2> *As guided by the Rules of NCADA*
+<font size = 2> *As guided by the Rules of NCADA.*
