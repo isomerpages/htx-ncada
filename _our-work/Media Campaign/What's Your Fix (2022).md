@@ -6,13 +6,11 @@ third_nav_title: Media Campaign
 ---
 ### “What’s Your Fix?” 2023 – 2024 Media Campaign
 
-<p align="center"> <b>National Council Against Drug Abuse launches 2022-2023 Campaign to inspire a shared understanding around the drug-free cause
-
-![](file:///C:/Users/nadai/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
+<p align="center"> <b>National Council Against Drug Abuse launches 2022-2023 Campaign to inspire a shared understanding around the drug-free cause </b>
 
 SINGAPORE, 22 SEPTEMBER 2022
 	
-<br> The National Council Against Drug Abuse (NCADA) of Singapore officially launched _What’s Your Fix?_ - its 2022-2023 media campaign. This campaign aims to spark meaningful conversations on the lived realities of drugs, raise awareness on how members of society, especially youths, can be advocates for the anti-drug vision as well as support those who may be vulnerable to the influence of drugs. Through a series of engagement efforts and advocacy initiatives, this campaign hopes to inspire a shared understanding in the community around the vision and purpose of a drug-free society.
+The National Council Against Drug Abuse (NCADA) of Singapore officially launched _What’s Your Fix?_ - its 2022-2023 media campaign. This campaign aims to spark meaningful conversations on the lived realities of drugs, raise awareness on how members of society, especially youths, can be advocates for the anti-drug vision as well as support those who may be vulnerable to the influence of drugs. Through a series of engagement efforts and advocacy initiatives, this campaign hopes to inspire a shared understanding in the community around the vision and purpose of a drug-free society.
 
 The first phase of the _What’s Your Fix?_ campaign is “Finding Juliana” – a TikTok-exclusive series screening from 23 September 2022. The series will culminate with a virtual live event on TikTok on 15 October 2022. In addition, in 2023, _What’s Your Fix?_ will be screening a documentary series featuring advocates from the post-risk community whose stories inspired “Finding Juliana”, as well as a youth film development programme.
 
@@ -34,7 +32,7 @@ On the motivations for this approach, Dr Chew, Vice Chairman of NCADA, said, “
 
 Throughout the “Finding Juliana” series, members of the public will be able to take part in a series of virtual engagement activities and reflect on how they would react, not just when they’re looking for a friend, but when their friend is struggling with a problem bigger than themselves. These virtual engagement activities will be led by personalities such as Nicole Liel and Zhin Sadali and will build towards the TikTok live event on 15 October 2022.
 
-For more information on the _What’s Your Fix?_ campaign, visit [https://whatsyourfix.sg](https://whatsyourfix.sg). &nbsp;
+For more information on the _What’s Your Fix?_ campaign, visit [https://whatsyourfix.sg](https://whatsyourfix.sg).
 
 **About the National Council Against Drug Abuse (NCADA)**
 
@@ -48,14 +46,8 @@ The drug-free cause campaigns for a drug-free culture in Singapore. NCADA hopes 
 
 Stills from the TikTok series Finding Juliana, the first phase of the What’s Your Fix? campaign by NCADA
 
-![](file:///C:/Users/nadai/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)
-
-![](file:///C:/Users/nadai/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg)
 
 Photo from MOU signing to mark the partnership between NCADA and AOL
 
-![](file:///C:/Users/nadai/AppData/Local/Temp/msohtmlclip1/01/clip_image008.jpg)
 
 Photo from the Live TikTok Event on 15 October 2022, featuring TikTok influencers cum hosts Nicole Liel and Zhin Sadali, cast members Rishi Vadrevu (“Xavier”) and Tania Tan (“Juliana”), in conversation with former youth drug abusers Nicholas and Heidi, whose stories helped to inspire this series.
-
-![](file:///C:/Users/nadai/AppData/Local/Temp/msohtmlclip1/01/clip_image010.png)</b></p>
