@@ -1,0 +1,4 @@
+collections:
+  about-ncada:
+    output: true
+    order: []
