@@ -2,6 +2,7 @@ collections:
   join-the-cause:
     output: true
     order:
+      - DrugFreeSG Fund/.keep
       - Overview.md
       - Apply for the DrugFreeSG Fund.md
       - A3 Network.md
