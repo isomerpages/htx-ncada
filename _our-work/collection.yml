@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Overview.md
-      - DrugFreeSG Light Up/2021.md
       - DrugFreeSG Light Up/.keep
       - Media Campaign/.keep
