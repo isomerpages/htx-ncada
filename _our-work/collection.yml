@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - Overview.md
+      - Media Campaign/HIGH Media Campaign 2020.md
       - Media Campaign/.keep
       - Light Up 2021.md
