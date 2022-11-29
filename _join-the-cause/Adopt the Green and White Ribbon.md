@@ -5,7 +5,7 @@ description: green and white anti drug ribbon
 ---
 ### The Anti-Drug Ribbon
 
-![](/images/Members%20(2)/Anti%20Drug%20Ribbon.png)
+<small>![](/images/Members%20(2)/Anti%20Drug%20Ribbon.png)</small>
 
 **What is it?**  
   
