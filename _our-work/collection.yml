@@ -2,5 +2,6 @@ collections:
   our-work:
     output: true
     order:
+      - DrugFreeSG Light Up/DrugFreeSG Light Up.md
       - DrugFreeSG Light Up/.keep
       - Media Campaign/.keep
