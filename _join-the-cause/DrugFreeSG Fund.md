@@ -29,3 +29,6 @@ For more information, kindly email
 	secretariat@ncada.org.sg. </p> 
 	
 ![](/images/DFSG%20E-Poster%20(2022).png)
+	
+**Past Projects**
+<br>To view projects by past applicants, click here.
