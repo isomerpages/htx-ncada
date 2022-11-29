@@ -2,6 +2,7 @@ collections:
   our-work:
     output: true
     order:
+      - DrugFreeSG Projects/2022 Youth Ride by Al Iman Mosque.md
       - DrugFreeSG Projects/2022 Sepak Takraw Inter Regu by PERSES.md
       - DrugFreeSG Projects/2021 Take the Lead Challenge by Flair Artz
         International.md
