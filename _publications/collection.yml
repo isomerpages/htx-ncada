@@ -2,4 +2,5 @@ collections:
   publications:
     output: true
     order:
+      - Annual Report 2021/.keep
       - Publications.md
