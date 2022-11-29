@@ -2,6 +2,6 @@ collections:
   our-work:
     output: true
     order:
-      - Light Up 2021.md
       - Overview.md
       - Media Campaign/.keep
+      - Light Up 2021.md
