@@ -2,7 +2,8 @@ collections:
   our-work:
     output: true
     order:
-      - DrugFreeSG Projects/DrugFreeSG Projects.md
+      - DrugFreeSG Projects/Take the Lead Challenge by Flair Artz
+        International.md
       - DrugFreeSG Projects/.keep
       - Overview.md
       - Media Campaign/.keep
