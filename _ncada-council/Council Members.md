@@ -4,8 +4,8 @@ permalink: /council-members/
 description: ""
 ---
 ### 2022/24 Term
-
-![](/images/Members%20(2)/Council%20members%20(210%20×%20600%20mm).png)
+![](/images/Members%20(2)/Council%20members%20(210%20×%20600%20mm)%20(2).png)
+<br>
 1. **Mr Hawazi Daipi** - *Chairman*
 <br> Singapore’s Non-Resident
 Representative to the
