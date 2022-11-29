@@ -33,11 +33,11 @@ sections:
       image: /images/Finding Juliana 2022 KV High Res.png
       alt: Finding Juliana
   - infopic:
-      title: NCADA Annual Report 2020
-      subtitle: Reporting
+      title: NCADA Annual Report 2021
+      subtitle: Publication
       button: Read now
-      url: https://drive.google.com/file/d/1VWy56iwIgDVyKOBpZdwX-lXThTe5wv_v/view?usp=sharing
-      image: /images/Z0JoqNP.png
+      url: https://drive.google.com/file/d/1SEXhiwEurGR5mCP8h6oj-g8s7qSTIT6H/view?usp=share_link
+      image: /images/2AR2021 Cover.png
       alt: NCADA Annual Report 2020
   - resources:
       subtitle: Discover
