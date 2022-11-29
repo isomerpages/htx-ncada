@@ -1,4 +1,5 @@
 collections:
   our-work:
     output: true
-    order: []
+    order:
+      - Media Campaign/.keep
