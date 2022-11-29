@@ -4,3 +4,75 @@ permalink: /our-work/Media-Campaign/HIGH2020/
 description: high campaign
 third_nav_title: Media Campaign
 ---
+"HIGH" - 2020 MEDIA CAMPAIGN
+----------------------------
+
+### 19 March 2020
+
+<p align="justify"> <i>“Every HIGH ends in a low” </i>– Singapore’s first interactive film and a series of Safe Zone Discussions to spark conversations with youth on the truths behind drug abuse.
+  
+![Still from Singapore’s first interactive film, HIGH, which is produced by local director Royston Tan. HIGH follows the journey of main protagonist, Nick (pictured), and allows viewers to make choices on his behalf to uncover the various endings and possibilities within the story line.](https://www.ncada.org.sg/images/default-source/newsroom/high_01.tmb-medium.jpg?Culture=en&sfvrsn=b6d9963d_1 "HighSG still")  
+  
+<p align="justify"> Still from Singapore’s first interactive film, HIGH, which is produced by local director Royston Tan. HIGH follows the journey of main protagonist, Nick (pictured), and allows viewers to make choices on his behalf to uncover the various endings and possibilities within the story line.
+  
+
+<p align="justify"> The National Council Against Drug Abuse (NCADA) of Singapore officially launched <i>HIGH</i>, its 2020 media campaign today. Amidst liberalising attitudes towards drug abuse, this campaign aims to spark conversations and spread awareness of the destructive reality of drug abuse among the public, particularly the youth.
+
+<p align="justify"> This year’s campaign consists of Singapore’s first interactive short film and online activities to engage with the youth. Award-winning local director Royston Tan produced the short film, titled <i>HIGH</i>, in collaboration with NCADA. The film allows viewers to make choices on behalf of the protagonist to uncover the various endings and possibilities within the story line, and underscores the importance of making informed decisions. In light of the evolving global drug situation, this campaign hopes to explore the challenges and choices relating to drug abuse that youth may encounter.
+
+<p align="justify"> The film is hosted on its own microsite and features a variety of opportunities to converse and engage the youth. These educational and thought-provoking activities, carried out in an interactive online platform, aims to kickstart conversations with the youth on drug issues. After watching and experiencing the highs and lows of drug abuse through the film’s characters, youth can uncover for themselves the highs and lows of different drugs through the microsite’s chat-format FAQ session.
+
+<p align="justify"> To spark conversation amongst youth on the truths behind drug abuse, the microsite also enables viewers to share their film ending on their social media platforms and encourage their friends to do the same. Other activities on the site include taking part in a character quiz, and sharing their results with their friends online. Youth can also reach out and speak to NCADA for advice, or share their personal stories at HIGH’s Instagram page, [@highsg](http://www.instagram.com/highsg).
+
+<p align="justify"> The campaign was unveiled at a media preview on 18 March, and hopes to rally the youth and the public to talk about the drug issue in a more open and honest manner, while exploring the challenges that youth face in today’s liberal landscape.   
+
+<p align="justify"> To engage with the youth and drive awareness about the campaign, <i>HIGH</i> was screened at ITE College Central, ITE College East, and Singapore Polytechnic earlier in January, reaching a total of 5,162 students. Each film screening was followed by a Safe Zone Discussion (SZD), an interactive and thought-provoking platform for students to share their thoughts on the film, on drug abuse and drug advocacy. 
+
+<p align="justify"> At the Singapore Polytechnic session, a panel of experts from the National Addictions Management Service (NAMS) were invited to be part of the SZD and shared their experiences with the students. The NAMS panel which consisted of Mr Thomas Koh, a Peer Support Specialist, who helps and accompanies former abusers on their recovery journey, Dr Sandor Heng, a Senior Clinical Psychologist, and Dr Guo Song, a Senior Consultant addressed questions from the students on the medical and social aspects of drug abuse.  
+
+<p align="justify"> The stories and experiences shared by the students at the ITEs and Singapore Polytechnic sessions revealed that an increasing number of youth form their opinions on drug abuse through pop culture, though many are resolute that they will not try drugs because of health reasons and the potential impact of drugs on their family and loved ones. Students also shared factors they thought could lead someone to abuse drugs such as peer pressure, boredom and curiosity. Questions were also posed to the panel at Singapore Polytechnic on how to help friends and family members who are battling drug addiction.  
+
+<p align="justify"> NCADA Chairman, Mr Hawazi Daipi said, “Youth today are constantly faced with pro-drug narratives which are shaping their attitudes, to be more liberal, towards drugs. They are also exposed to all kinds of misinformation on effects and benefits of certain drugs. In this climate, we felt the need to engage with the youth in a deeper and more meaningful manner, to first understand how they form their opinions and attitudes towards drugs, and secondly to have open conversations with them on the realities and harms of drug abuse. With this campaign, we hope to engender greater cognizance of the larger context of pro-drug narratives, and the importance of building empathy and anti-drug advocacy amongst our youth.” 
+
+<p align="justify"> Adjunct Associate Professor Lee Cheng, Vice Chairman Medical Board (Clinical), Institute of Mental Health and Programme Director, NAMS, said, “Youths are much more vulnerable to getting addicted to drugs as their brains are still developing and more susceptible to making risky and emotionally-charged decisions. We believe using platforms that can better engage our youths, such as having dialogues and an interactive short film, will be useful in educating them to stay away from drugs.”
+
+<p align="justify"> Royston Tan is an award-winning Singaporean filmmaker with more than 30 short films in his repertoire, and HIGH is the latest addition to his filmography. It follows the story of Nick, a well-to-do young man who is invited into the world of drugs and hardcore partying by Sienna, a woman he meets on a dating app. Throughout the film, viewers may explore their curiosity with drugs, and discover the consequences of the choices they make. Please refer to Annex A for some stills from the film.
+
+<p align="justify"> To participate in the interactive film, please visit [www.high.sg](http://www.high.sg/). Viewers are encouraged to share the link with their family and friends, and support NCADA’s efforts for a drug-free Singapore. This campaign is co-funded by Tote Board.
+
+<p align="justify"> For a look at some of the students’ thoughts on the film and questions that they shared at the SZDs and those that were sent to @_highsg’s_ Instagram page, please refer to Annex B.
+
+<p align=center"> <b>NATIONAL COUNCIL AGAINST DRUG ABUSE (NCADA), SINGAPORE </b>
+
+**19 MARCH 2020**
+
+* * *
+
+**ANNEX A**  
+  
+<i> Stills from Singapore’s first interactive film, HIGH, directed by local award-winning director Royston Tan. The film is produced in collaboration with the National Council Against Drug Abuse, and aims to spark conversations amongst youth on the truths behind drug abuse. ![High - Still 2](https://www.ncada.org.sg/images/default-source/newsroom/high02.tmb-medium.png?Culture=en&sfvrsn=52da963d_1 "High - Still 2")![High - still 3](https://www.ncada.org.sg/images/default-source/newsroom/high03.tmb-medium.png?Culture=en&sfvrsn=40da963d_1 "High - still 3")![High - still 4](https://www.ncada.org.sg/images/default-source/newsroom/high04.tmb-medium.png?Culture=en&sfvrsn=4eda963d_1 "High - still 4")![High - still 5](https://www.ncada.org.sg/images/default-source/newsroom/high05.tmb-medium.png?Culture=en&sfvrsn=4cda963d_1 "High - still 5")[![High - still 6](https://www.ncada.org.sg/images/default-source/newsroom/high06.tmb-medium.png?Culture=en&sfvrsn=48da963d_1 "High - still 6")](https://www.ncada.org.sg/images/default-source/newsroom/high06.png?sfvrsn=48da963d_2)  
+  
+
+_Photos from the ITEs and Singapore Polytechnic sessions:_
+
+_![High - ITE Session 1](https://www.ncada.org.sg/images/default-source/newsroom/high07.tmb-medium.jpg?Culture=en&sfvrsn=54da963d_1 "High - ITE Session 1")  
+Radio presenter and host Joakim Gomez and local personality Johnathan Chua of 'Real Talk', a YouTube talk show by Millennials of Singapore hosted the pre-launch campaign activities at ITE_ _College East, ITE College Central and Singapore Polytechnic. Students were quick to share their stories and questions on the topic of drug abuse with the hosts.
+![High - ITE Session 2](https://www.ncada.org.sg/images/default-source/newsroom/high08.tmb-medium.jpg?Culture=en&sfvrsn=42da963d_1 "High - ITE Session 2")  
+
+_Joakim Gomez and Johnathan Chua with students at a film screening and SZD session at ITE College East_
+
+  
+![High - SP Session 1](https://www.ncada.org.sg/images/default-source/newsroom/high09.tmb-medium.jpg?Culture=en&sfvrsn=4ada963d_1 "High - SP session 1")  
+The panel of representatives from NAMS and the emcees at Singapore Polytechnic’s film screening and SZD. 
+
+* * *
+
+ANNEX B  
+![High - Questions](https://www.ncada.org.sg/images/default-source/newsroom/high10.tmb-medium.png?Culture=en&sfvrsn=50da963d_1 "High - Questions")  
+
+
+__Some of the personal stories and questions that the ITE College Central and Singapore Polytechnic students shared via Pigeonhole, an anonymous platform, during the SZDs.__ 
+
+![High - IG Question 1](https://www.ncada.org.sg/images/default-source/newsroom/high11.tmb-medium.png?Culture=en&sfvrsn=56da963d_1 "High - IG Question 1")![High - IG Question 2](https://www.ncada.org.sg/images/default-source/newsroom/high12.tmb-medium.png?Culture=en&sfvrsn=5fda963d_1 "High - IG Question 2")  
+
+Viewers can send in their drug-related questions for NCADA, which will be answered on @highsg’s Instagram page.
