@@ -11,7 +11,7 @@ sections:
   - hero:
       key_highlights:
         - title: About NCADA
-          description: Roles & Objectives
+          description: Roles, Objectives & Members
           url: /about-ncada
         - title: Join the Cause
           description: Grants & Advocacy
