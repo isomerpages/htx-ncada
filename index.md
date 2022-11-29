@@ -10,18 +10,18 @@ notification: "Be wary of any SMSes claiming to be from NCADA seeking your
 sections:
   - hero:
       key_highlights:
-        - title: NCADA Council
-          description: 2022/24 Term
-          url: /council-members/
         - title: About NCADA
           description: Who We Are
           url: /ourwork/
-        - title: Publications
-          description: Annual Reports
-          url: /publications/
+        - title: NCADA Council
+          description: 2022/24 Term
+          url: /council-members/
         - title: Join the Cause
           description: Grants & Advocacy
           url: /jointhecause/
+        - title: Publications
+          description: Annual Reports
+          url: /publications/
       background: /images/cdagfgf.png
   - infopic:
       title: What's Your Fix?
