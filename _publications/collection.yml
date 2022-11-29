@@ -2,4 +2,4 @@ collections:
   publications:
     output: true
     order:
-      - NCADA Annual Reports.md
+      - Publications.md
