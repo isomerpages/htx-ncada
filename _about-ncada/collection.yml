@@ -2,5 +2,5 @@ collections:
   about-ncada:
     output: true
     order:
-      - Roles and Objectives.md
       - Overview.md
+      - Roles and Objectives.md
