@@ -5,4 +5,4 @@ description: publications
 ---
 ### NCADA Annual Reports
 
-Navigate the sidebar to download our annual reports! 
+Navigate the sidebar to download our annual reports!
