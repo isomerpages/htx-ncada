@@ -13,9 +13,6 @@ sections:
         - title: About NCADA
           description: Roles & Objectives
           url: /about-ncada
-        - title: NCADA Council
-          description: 2022/24 Term
-          url: /council-members/
         - title: Join the Cause
           description: Grants & Advocacy
           url: /jointhecause/
