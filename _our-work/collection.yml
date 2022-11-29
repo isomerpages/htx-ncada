@@ -2,6 +2,7 @@ collections:
   our-work:
     output: true
     order:
+      - DrugFreeSG Projects/.keep
       - DrugFreeSG Projects.md
       - Overview.md
       - Media Campaign/.keep
