@@ -6,7 +6,7 @@ third_nav_title: DrugFreeSG Projects
 ---
 ## Kick E Habit Pertapis Halfway House Futsal Competition
 
-‘Kick e Habit’ Futsal Competition, a World
+<p align="justify"> ‘Kick e Habit’ Futsal Competition, a World
 Drug Free Day initiative organised by Pertapis
 Halfway House, was a one-day event held on
 30 June at the Home United Youth Football
