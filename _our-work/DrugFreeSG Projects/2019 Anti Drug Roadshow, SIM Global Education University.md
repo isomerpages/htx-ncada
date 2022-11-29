@@ -26,3 +26,4 @@ youths are inspired to be more proactive and participate
 in more anti-drug programmes in future. Overall, the
 event reached a total of 440 individuals.
 	
+![](/images/DFSG%20Projects/SMU.png)
