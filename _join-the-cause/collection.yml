@@ -2,8 +2,8 @@ collections:
   join-the-cause:
     output: true
     order:
-      - United Against Drugs Coalition (UADC).md
       - Overview.md
       - A3 Network.md
       - DrugFreeSG Fund.md
+      - United Against Drugs Coalition (UADC).md
       - Adopt the Green and White Ribbon.md
