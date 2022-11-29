@@ -5,6 +5,6 @@ description: overview our work
 ---
 ## Our Work
 
-NCADA carries out and supports various anti-drug campaigns and activities as part our focal areas in meeting our objectives of supporting resilience against drugs and community support.
+NCADA carries out media campaigns and supports various anti-drug projects organised and executed by our grant applicants, as part our objectives of supporting resilience against drugs and developing community advocacy.
 
 Find out more by navigating the sidebar!
