@@ -4,10 +4,9 @@ permalink: /our-work/DrugFreeSG-Projects/sim-global-roadshow/permalink/
 description: ""
 third_nav_title: DrugFreeSG Funded Projects
 ---
-
 ## Anti-Drug Roadshow @ SIM Global Education (GE) University
 
-<p align="justify"> The Anti-Drug Roadshow @ SIM GE was a one-day event
+The Anti-Drug Roadshow @ SIM GE was a one-day event
 held on 12 February 2019, at the SIM Student Hub in
 Clementi. Youth advocate, Aaron Mitchell Goh, led this
 initiative as he was passionate about sharing anti-drug
