@@ -3,7 +3,7 @@ title: A3 Network
 permalink: /join-the-cause/a3network/
 description: ""
 ---
-<font size="5"> **Anti-Drug Abuse Advocacy (A3) Network**</font>
+<font size="5"> <b>Anti-Drug Abuse Advocacy (A3) Network</b></font>
 
 <b>About the A3 Network</b>
 
