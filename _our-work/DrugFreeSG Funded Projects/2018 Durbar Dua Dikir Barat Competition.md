@@ -4,10 +4,9 @@ permalink: /our-work/DrugFreeSG-Projects/durbar-dua-dikir/
 description: ""
 third_nav_title: DrugFreeSG Funded Projects
 ---
-
 ## Durbar Dua Dikir Barat Competition
 
-<p align="justify"> Durbar Dua organised a Dikir Barat
+Durbar Dua organised a Dikir Barat
 competition titled ‘Piala Buluh Rindu 2018’,
 a well-known annual dikir barat competition.
 The 2018 event held on 17 November
@@ -26,5 +25,4 @@ subsequent family discussions on the antidrug
 message with their children.
 	
 ![](/images/DFSG%20Projects/durba%20dua%201.png)
-	<br>
-	![](/images/DFSG%20Projects/durba%20dua%202.png)
+![](/images/DFSG%20Projects/durba%20dua%202.png)
