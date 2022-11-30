@@ -4,5 +4,9 @@ permalink: /our-work/DrugFreeSG-Projects/sepak-takraw-perses/
 description: ""
 third_nav_title: DrugFreeSG Funded Projects
 ---
+## CNB-PERSES Sepak Takraw Inter-Regu 
 
+Organised by the Singapore Sepak Takraw Federation (PERSES) and supported by CNB's Dadah itu Haram Campaign, the Sepak Takraw Inter-Regu was organised to reach out to at-risk youths from the Malay-Muslim Community. The tournament took place in September 2022, and aimed to utilise Sepak Takraw as a positive outlet and platform for youths to develop positive traits such as sportsmanship, commitment, responsibility, teamwork, and resilience. Under the the guidance of Coaches who serve as positive role models, it was hoped that the preparation and experience of the competition would inculcate positive traits that can support the youths to counter negative habits, behaviours, and influence. 
+
+To support resilience against drugs and substance-use, the programme also included various Preventive Drug Education segments (e.g. dissemination of collaterals, broadcast of PDE messages, and PDE quizzes).
 
