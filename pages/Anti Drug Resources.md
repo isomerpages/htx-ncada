@@ -13,5 +13,5 @@ description: ""
 
 ![anti drug programmes](/images/Resource%20Banner/antidrugprog.png)[Find out more](https://www.cnb.gov.sg/educational-resources/core-programmes)
 
-##### Myths and Facts About Cannabis
-https://www.cnb.gov.sg/educational-resources/myths-and-facts-about-drugs/cannabis
+![myths and facts about cannabis](/images/Resource%20Banner/myths%20and%20facts%20about%20cannabis.png)[Find out more](https://www.cnb.gov.sg/educational-resources/myths-and-facts-about-drugs/cannabis)
+
