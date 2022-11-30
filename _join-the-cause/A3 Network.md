@@ -27,7 +27,7 @@ advocates who identify with and support a shared goal of a Drug-Free Singapore. 
 **How do I join?**
 <p align="justify">The A3 Network is part of the Home Team Volunteer Network. Interested applicants may apply for the respective schemes via the links below:
 	
-[A3 Adult Advocates](https://go.gov.sg/a3aavolunteer)
+<br>[A3 Adult Advocates](https://go.gov.sg/a3aavolunteer)
  <br> [ADA Programme](https://go.gov.sg/a3adavolunteer) </br>
 [Dadah itu Haram](https://go.gov.sg/a3dihvolunteer) </br>
 
