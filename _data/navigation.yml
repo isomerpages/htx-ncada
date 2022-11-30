@@ -1,15 +1,8 @@
 logo: /images/NCADA Logo (PNG).png
 links:
-  - title: Resources
-    url: https://htx-ncada-staging.netlify.app/resources
-    sublinks:
-      - title: Anti-Drug Resources (CNB)
-        url: https://www.cnb.gov.sg/educational-resources
-      - title: Social Service Directory (MSF)
-        url: https://www.msf.gov.sg/dfcs/familyservice/default.aspx
-      - title: Managing Addiction (NAMS)
-        url: https://www.nams.sg/our-services/Pages/default.aspx
   - title: Anti-Drug Resources
     url: /anti-drug-resources/
   - title: Seeking Help
+    url: /permalink
+  - title: Contact Us
     url: /permalink
