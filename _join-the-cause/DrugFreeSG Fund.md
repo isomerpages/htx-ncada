@@ -29,3 +29,5 @@ For more information, kindly email
 	secretariat@ncada.org.sg. </p> 
 	
 </font>
+
+![](/images/DFSG%20E-Poster%20(2022).png)
