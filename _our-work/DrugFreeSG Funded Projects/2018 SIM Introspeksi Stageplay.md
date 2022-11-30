@@ -4,10 +4,9 @@ permalink: /our-work/DrugFreeSG-Projects/sim-introspeksi/
 description: ""
 third_nav_title: DrugFreeSG Funded Projects
 ---
-
 ## SIM Introspeksi Stageplay
 
-<p align="justify"> ‘Introspeksi 2018 - Kalbu’ was a theatre production in
+‘Introspeksi 2018 - Kalbu’ was a theatre production in
 Malay by Singapore Institute of Management (SIM)
 students that delved into the implications of drug
 abuse in the modern society. Held on 28 and 29
@@ -18,4 +17,5 @@ their families. A total of 400 students, friends, and
 families attended and enjoyed the play and its antidrug
 message.
 	
-![](/images/DFSG%20Projects/SIM%20introspeksi.png) <br> ![](/images/DFSG%20Projects/introspeksi.png)
+![](/images/DFSG%20Projects/SIM%20introspeksi.png)
+![](/images/DFSG%20Projects/introspeksi.png)
