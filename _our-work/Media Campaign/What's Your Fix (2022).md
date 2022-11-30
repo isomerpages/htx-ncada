@@ -4,15 +4,15 @@ permalink: /our-work/Media-Campaign/whatsyourfix/
 description: whats your fix
 third_nav_title: Media Campaign
 ---
-### “What’s Your Fix?” 2023 – 2024 Media Campaign
+### “What’s Your Fix?” 2023 – 2024 Media Campaign - Part I
 
-<p align="center"> <b>National Council Against Drug Abuse launches 2022-2023 Campaign to inspire a shared understanding around the drug-free cause </b>
+##### National Council Against Drug Abuse launches 2022-2023 Campaign to inspire a shared understanding around the drug-free cause 
 
-SINGAPORE, 22 SEPTEMBER 2022
+**22 SEPTEMBER 2022**
 	
-The National Council Against Drug Abuse (NCADA) of Singapore officially launched _What’s Your Fix?_ - its 2022-2023 media campaign. This campaign aims to spark meaningful conversations on the lived realities of drugs, raise awareness on how members of society, especially youths, can be advocates for the anti-drug vision as well as support those who may be vulnerable to the influence of drugs. Through a series of engagement efforts and advocacy initiatives, this campaign hopes to inspire a shared understanding in the community around the vision and purpose of a drug-free society.
+The National Council Against Drug Abuse (NCADA) of Singapore officially launched *What’s Your Fix?* its 2022-2023 media campaign. This campaign aims to spark meaningful conversations on the lived realities of drugs, raise awareness on how members of society, especially youths, can be advocates for the anti-drug vision as well as support those who may be vulnerable to the influence of drugs. Through a series of engagement efforts and advocacy initiatives, this campaign hopes to inspire a shared understanding in the community around the vision and purpose of a drug-free society.
 
-The first phase of the _What’s Your Fix?_ campaign is “Finding Juliana” – a TikTok-exclusive series screening from 23 September 2022. The series will culminate with a virtual live event on TikTok on 15 October 2022. In addition, in 2023, _What’s Your Fix?_ will be screening a documentary series featuring advocates from the post-risk community whose stories inspired “Finding Juliana”, as well as a youth film development programme.
+The first phase of the *What’s Your Fix?* campaign is “Finding Juliana” – a TikTok-exclusive series screening from 23 September 2022. The series will culminate with a virtual live event on TikTok on 15 October 2022. In addition, in 2023, *What’s Your Fix?* will be screening a documentary series featuring advocates from the post-risk community whose stories inspired “Finding Juliana”, as well as a youth film development programme.
 
 Dr Chew Tuan Chiong, Vice Chairman of NCADA, said, “Central to this year’s campaign is our effort to engage the community. All of us, community groups, public agencies, media, corporates, parents, educators or students, we all have a part to play in shaping the society we live in, and the culture we hope the next generation inherits. And part of this vision is to inspire a new wave of advocacy for the drug-free cause, not only through education, but by building emotional understanding of the lived realities of drug abuse.”
 
@@ -34,20 +34,26 @@ Throughout the “Finding Juliana” series, members of the public will be able 
 
 For more information on the _What’s Your Fix?_ campaign, visit [https://whatsyourfix.sg](https://whatsyourfix.sg).
 
+*** 
 **About the National Council Against Drug Abuse (NCADA)**
 
 NCADA was formed in January 1995 as a citizen’s advisory council to the Ministry of Home Affairs on preventive drug measures and programmes in Singapore. A key objective for the Council is to spur collective ownership of Singapore’s drug-free vision, and to mobilise society for the drug-free cause.
 
-In NCADA, we recognise that holistic interdisciplinary support fixes intricate problems better. For example, the treatment of addiction itself often requires a bio-psycho-social approach.&nbsp; The involvement of families, schools, and the wider community, together with the government helps prevent intergenerational cycles of drug abuse. NCADA particularly focuses on upstream efforts because we believe that the deep-rooted consequences of drug abuse thwart young people from achieving their full potential in life.&nbsp;
+In NCADA, we recognise that holistic interdisciplinary support fixes intricate problems better. For example, the treatment of addiction itself often requires a bio-psycho-social approach.&nbsp; The involvement of families, schools, and the wider community, together with the government helps prevent intergenerational cycles of drug abuse. NCADA particularly focuses on upstream efforts because we believe that the deep-rooted consequences of drug abuse thwart young people from achieving their full potential in life.
 
 The drug-free cause campaigns for a drug-free culture in Singapore. NCADA hopes that more people become aware of how to help their friends and loved ones steer encounters with drugs.&nbsp; We also hope to encourage greater advocacy in order to build a drug-free environment for the next generation.
 
+***
+
 **Annex A**
 
-Stills from the TikTok series Finding Juliana, the first phase of the What’s Your Fix? campaign by NCADA
+*Stills from the TikTok series Finding Juliana, the first phase of the What’s Your Fix? campaign by NCADA.*
+![](/images/Finding%20Juliana/juliana2.jpg)![](/images/Finding%20Juliana/juliana1.png)
 
 
-Photo from MOU signing to mark the partnership between NCADA and AOL
+*Photo from MOU signing to mark the partnership between NCADA and AOL.*
+![](/images/Finding%20Juliana/MOU.jpg)
+![](/images/Finding%20Juliana/sdfdf.jpg)
 
-
-Photo from the Live TikTok Event on 15 October 2022, featuring TikTok influencers cum hosts Nicole Liel and Zhin Sadali, cast members Rishi Vadrevu (“Xavier”) and Tania Tan (“Juliana”), in conversation with former youth drug abusers Nicholas and Heidi, whose stories helped to inspire this series.
+*Photo from the Live TikTok Event on 15 October 2022, featuring TikTok influencers cum hosts Nicole Liel and Zhin Sadali, cast members Rishi Vadrevu (“Xavier”) and Tania Tan (“Juliana”), in conversation with former youth drug abusers Nicholas and Heidi, whose stories helped to inspire this series.*
+![](/images/Finding%20Juliana/wyf4.png)
