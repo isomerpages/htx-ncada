@@ -19,9 +19,9 @@ third_nav_title: Media Campaign
 
 <p><p align="justify">As part of the campaign, the three mentors will be conducting masterclasses relevant to their areas of expertise - entertainment, entrepreneurship and sports - and are inviting members of public to submit their audition clips online. The audition clips had to be submitted by 21 October 2018. </p> 
 
-<br>![](/images/FYA/2018-media-launch-1.png)
+![](/images/FYA/2018-media-launch-1.png)
 
-<p align="justify">Caption: Guest-of-Honour Senior Parliamentary Secretary Mr Amrin Amin (centre), with <i>Feed Your Ambition</i> mentors (from left to right) Garçons’ owner and F&B entrepreneur Enoch Teo, hip hop artist THELIONCITYBOY and Singapore’s champion boxer Muhamad Ridhwan. Joining them at the _Feed Your Ambition_ launch festival on 13 October 2018, was celebrity cum Anti-Drug Ambassador Aaron Aziz (far right). </p>
+<p align="justify">Caption: Guest-of-Honour Senior Parliamentary Secretary Mr Amrin Amin (centre), with <i>Feed Your Ambition</i> mentors (from left to right) Garçons’ owner and F&B entrepreneur Enoch Teo, hip hop artist THELIONCITYBOY and Singapore’s champion boxer Muhamad Ridhwan. Joining them at the <i>Feed Your Ambition</i> launch festival on 13 October 2018, was celebrity cum Anti-Drug Ambassador Aaron Aziz (far right). </p>
   
 ![](/images/FYA/2018-media-launch-2.png)
 ![](/images/FYA/2018-media-launch-3.jpg)
