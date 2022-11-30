@@ -4,10 +4,9 @@ permalink: /our-work/DFSG-Projects/take-the-lead/
 description: ""
 third_nav_title: DrugFreeSG Funded Projects
 ---
+## Take the Lead Dance Challence
 
-## Take the Lead
-
-<p align="justify"> Supported by NCADA’s DrugFreeSG Fund, the
+Supported by NCADA’s DrugFreeSG Fund, the
 Take the Lead Dance Challenge was organised
 from June to August 2021 by Flair Artz
 International (FAI). The project aimed to
@@ -29,8 +28,7 @@ The Take the Lead Dance Challenge concluded
 with four youths emerging with the winning titles
 of Top Dance Award (#1 Alden Chai, #2 Cheryl
 Him, #3 Lisa Chan), and Most Popular Award
-Estella See).
+(Estella See).
 Congratulations to all winners!
 	
 ![](/images/DFSG%20Projects/FAI%20Poster.png)
-	
