@@ -10,3 +10,6 @@ Organised by the Singapore Sepak Takraw Federation (PERSES) and supported by CNB
 
 To support resilience against drugs and substance-use, the programme also included various Preventive Drug Education segments (e.g. dissemination of collaterals, broadcast of PDE messages, and PDE quizzes).
 
+![](/images/DFSG%20Projects/307838154_658796115653799_7392370159434305279_n.jpg)
+
+![](/images/DFSG%20Projects/307764772_658796175653793_5551809164276181387_n.jpg)
