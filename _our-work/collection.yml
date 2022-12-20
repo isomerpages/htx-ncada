@@ -2,7 +2,6 @@ collections:
   our-work:
     output: true
     order:
-      - Asia Pacific Forum Against Drugs (APFAD).md
       - Overview.md
       - Media Campaign/.keep
       - Media Campaign/What's Your Fix (2022).md
@@ -22,4 +21,5 @@ collections:
         Competition.md
       - DrugFreeSG Funded Projects/2018 SIM Introspeksi Stageplay.md
       - DrugFreeSG Funded Projects/2018 Durbar Dua Dikir Barat Competition.md
+      - Asia Pacific Forum Against Drugs (APFAD).md
       - Light Up 2021.md
