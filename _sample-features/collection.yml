@@ -2,4 +2,5 @@ collections:
   sample-features:
     output: true
     order:
+      - Light Up 2021.md
       - Features.md
