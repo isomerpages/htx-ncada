@@ -5,6 +5,10 @@ description: overview our work
 ---
 ## Our Work
 
-NCADA carries out media campaigns and supports various anti-drug projects organised and executed by our grant applicants, as part our objectives of supporting resilience against drugs and developing community advocacy.
+NCADA carries out various work to support our efforts in building a DrugFreeSG. These include: 
+
+* Media Campaigns 
+* Funding of ground-up initiatives
+* Asia Pacific Forum Against Drugs
 
 Find out more by navigating the sidebar!
