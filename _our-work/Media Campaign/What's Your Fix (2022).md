@@ -8,7 +8,7 @@ third_nav_title: Media Campaign
 
 ##### National Council Against Drug Abuse launches 2022-2023 Campaign to inspire a shared understanding around the drug-free cause 
 
-**22 SEPTEMBER 2022**
+#### 22 SEPTEMBER 2022
 	
 The National Council Against Drug Abuse (NCADA) of Singapore officially launched *What’s Your Fix?* its 2022-2023 media campaign. This campaign aims to spark meaningful conversations on the lived realities of drugs, raise awareness on how members of society, especially youths, can be advocates for the anti-drug vision as well as support those who may be vulnerable to the influence of drugs. Through a series of engagement efforts and advocacy initiatives, this campaign hopes to inspire a shared understanding in the community around the vision and purpose of a drug-free society.
 
