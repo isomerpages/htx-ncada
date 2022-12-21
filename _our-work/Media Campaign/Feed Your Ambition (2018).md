@@ -4,8 +4,7 @@ permalink: /our-work/Media-Campaign/feedyourambition2018/
 description: feed your ambition
 third_nav_title: Media Campaign
 ---
-### “FEED YOUR AMBITION 2018” CAMPAIGN LAUNCH - CALL FOR SUBMISSIONS TO THE MENTORSHIP PROGRAMME 
-
+### “FEED YOUR AMBITION 2018” CAMPAIGN LAUNCH 
 
 #### 16 October 2018
 
