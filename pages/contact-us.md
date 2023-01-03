@@ -12,6 +12,6 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: "@ncadasg (Facebook)"
+      - other: "@ncadasg (Facebook & Instagram)"
     title: Social Media
 ---
