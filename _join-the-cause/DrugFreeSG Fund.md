@@ -26,5 +26,4 @@ Administered by NCADA on behalf of the Ministry of Home Affairs, grant applicati
 	
 Please allow for appropriate lead-time for discussion and processing of application. Ongoing projects will not be considered.
 	
-For more information, kindly email secretariat@ncada.org.sg. 
-
+For more information or to apply, kindly email secretariat@ncada.org.sg.
