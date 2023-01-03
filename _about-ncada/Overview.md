@@ -10,3 +10,5 @@ description: about ncada
 <p align="justify">  Together with the Home Team departments, relevant agencies and community partners, NCADA organises and coordinates anti-drug activities as well as assists other organisations, institutions, bodies and persons who are interested in tackling the drug problem. </p>
 
 <p align="justify"> NCADA also aims to promote preventive drug education programmes to educate the public on the drug menace and rally support for the government’s efforts against drug abuse. </p>
+
+*As guided by the Rules of NCADA 2009.*
