@@ -1,7 +1,8 @@
 ---
 layout: homepage
-title: Title
-description: An Isomer site of the Singapore Government
+title: National Council Against Drug Abuse
+description: The official website of the National Council Against Drug Abuse
+  (NCADA), Singapore.
 image: /images/isomer-logo.svg
 permalink: /
 notification: "Be wary of any SMSes claiming to be from NCADA seeking your
@@ -43,3 +44,4 @@ sections:
       subtitle: Discover
       button: View More
 ---
+
