@@ -29,7 +29,7 @@ Commissioner to Ghana
 <br>Ministry of Education
 
 7. **Mr Zhulkarnain Abdul Rahim**
-<br> Senior Partner, Dentons Rodyk
+<br> Senior Partner, Dentons Rodyk;
 Member of Parliament of Chua Chu Kang GRC
 
 8. **Mr Ahmad Firdaus Bin Daud**
@@ -79,8 +79,7 @@ Deputy Head of Department, Communications and New Media; Resident Fellow Ridge V
 Lianhe Zaobao
 
 17. **Ms Tan Chiah Hwee**
-<br> Executive Director,
-<br> Chinese Development Assistance Council (CDAC)
+<br>Director, Community Engagement and Development, Chinese Development Assistance Council (CDAC)
 
 18. **Ms Azlinah Arif**
 <br> Deputy Director, School Ready
