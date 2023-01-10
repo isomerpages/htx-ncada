@@ -18,3 +18,6 @@ description: green and white anti drug ribbon
 <p align= "justify"> The anti-drug ribbon was first introduced domestically during the launch of Singapore's national Anti-Drug Abuse Campaign in 1996, "Stay Clear -- Drug Abuse Causes Permanent Damage to Your Body and Mind", organised by NCADA.</p>
 
 <p align= "justify"> It was officially adopted as the anti-drug abuse symbol at the Asia-Pacific Forum Against Drugs (APFAD) held in Singapore. It was later adopted as the international symbol for preventive drug education and campaigns throughout ASEAN at the ASEAN Ministerial Meeting on Drug Matters (AMMD) in 2016.</p>
+
+**Get a Ribbon**
+<p align= "justify"> Email secretariat@ncada.org.sg and receive a ribbon-folding kit, free-of-charge!
