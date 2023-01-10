@@ -31,4 +31,4 @@ advocates who identify with and support a shared goal of a Drug-Free Singapore. 
 <p><a href="https://go.gov.sg/a3adavolunteer">ADA Programme</a></p>
 <p><a href="https://go.gov.sg/a3dihvolunteer">Dadah itu Haram</a></p>
 
-For applicants interested in the BEN Campaign, kindly email secretariat@ncada.org.sg and we will channel you accordingly.
+<p align="justify"> For applicants interested in the BEN Campaign, kindly email secretariat@ncada.org.sg and we will channel you accordingly. </p>
