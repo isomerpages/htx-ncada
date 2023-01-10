@@ -2,7 +2,6 @@ collections:
   our-work:
     output: true
     order:
-      - Perception Surveys/.keep
       - Overview.md
       - Media Campaign/.keep
       - Media Campaign/What's Your Fix (2022).md
