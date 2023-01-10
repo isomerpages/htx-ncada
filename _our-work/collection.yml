@@ -2,7 +2,6 @@ collections:
   our-work:
     output: true
     order:
-      - Perception Surveys/Overview.md
       - Perception Surveys/.keep
       - Overview.md
       - Media Campaign/.keep
