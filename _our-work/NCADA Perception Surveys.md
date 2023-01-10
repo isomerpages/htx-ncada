@@ -15,6 +15,4 @@ with Singapore’s personal data protection requirements.
 
 * Click [here](/files/NCADA%20Perception%20Survey%202015-16%20News%20Release.pdf) to read key findings from the 2015/16 Youth and Public Perception Survey. 
 
-* Click [here](/files/NCADA%20Youth%20Perception%20Survey%202013%20News%20Release.pdf) to read key findings from the 2013 Youth Perception Survey. 
-
- 
+* Click [here](/files/NCADA%20Youth%20Perception%20Survey%202013%20News%20Release.pdf) to read key findings from the 2013 Youth Perception Survey.
