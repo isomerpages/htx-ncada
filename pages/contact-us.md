@@ -9,9 +9,4 @@ contacts:
       - email: secretariat@ncada.org.sg
       - other: ""
     title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: ""
-      - other: "@ncadasg (Facebook & Instagram)"
-    title: Social Media
 ---
