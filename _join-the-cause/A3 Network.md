@@ -27,9 +27,8 @@ advocates who identify with and support a shared goal of a Drug-Free Singapore. 
 **How do I join?**
 <p align="justify">The A3 Network is part of the Home Team Volunteer Network. Interested applicants may apply for the respective schemes via the links below:
 	
-* <p><a href="https://go.gov.sg/a3aavolunteer">A3 Adult Advocates</a></p>
-* <p><a href="https://go.gov.sg/a3adavolunteer">ADA Programme</a></p>
-* <p><a href="https://go.gov.sg/a3dihvolunteer">Dadah itu Haram</a></p>
+<p><a href="https://go.gov.sg/a3aavolunteer">A3 Adult Advocates</a></p>
+<p><a href="https://go.gov.sg/a3adavolunteer">ADA Programme</a></p>
+<p><a href="https://go.gov.sg/a3dihvolunteer">Dadah itu Haram</a></p>
 
 For applicants interested in the BEN Campaign, kindly email secretariat@ncada.org.sg and we will channel you accordingly.
-
