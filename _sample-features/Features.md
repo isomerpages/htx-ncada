@@ -1,6 +1,6 @@
 ---
 title: Features
-permalink: /sample-feature/NCADA-Heritage-Gallery/
+permalink: /sample-feature/ncada-heritage-gallery/
 description: ""
 ---
 Read from google drive - NCADA

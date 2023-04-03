@@ -1,6 +1,6 @@
 ---
 title: Annual Report 2021
-permalink: /publications/Annual-Report-2021/permalink/
+permalink: /publications/annual-report-2021/permalink/
 description: ""
 ---
 

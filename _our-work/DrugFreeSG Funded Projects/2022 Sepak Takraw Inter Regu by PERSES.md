@@ -1,6 +1,6 @@
 ---
 title: 2022 Sepak Takraw Inter Regu by PERSES
-permalink: /our-work/DrugFreeSG-Projects/sepak-takraw-perses/
+permalink: /our-work/drugfreesg-projects/sepak-takraw-perses/
 description: ""
 third_nav_title: DrugFreeSG Funded Projects
 ---

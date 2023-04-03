@@ -1,6 +1,6 @@
 ---
 title: Declaration
-permalink: /our-work/APFAD-Conference/permalink/
+permalink: /our-work/apfad-conference/permalink/
 description: ""
 third_nav_title: APFAD Conference
 ---
