@@ -1,0 +1,29 @@
+collections:
+  our-work:
+    output: true
+    order:
+      - Overview.md
+      - Media Campaign/.keep
+      - Media Campaign/What's Your Fix (2022).md
+      - Media Campaign/HIGH (2020).md
+      - Media Campaign/Feed Your Ambition (2018).md
+      - NCADA Perception Surveys.md
+      - DrugFreeSG Funded Projects/.keep
+      - DrugFreeSG Funded Projects/2022 Youth Ride by Al Iman Mosque.md
+      - DrugFreeSG Funded Projects/2022 Sepak Takraw Inter Regu by PERSES.md
+      - DrugFreeSG Funded Projects/2022 Our Listening Ear by Inc Equality
+        Ventures.md
+      - DrugFreeSG Funded Projects/2021 Take the Lead Challenge by Flair Artz
+        International.md
+      - DrugFreeSG Funded Projects/2019 HEB Ashram Family Day.md
+      - DrugFreeSG Funded Projects/2019 Anti Drug Roadshow, SIM Global Education
+        University.md
+      - DrugFreeSG Funded Projects/2018 Pertapis Halfway House Futsal
+        Competition.md
+      - DrugFreeSG Funded Projects/2018 SIM Introspeksi Stageplay.md
+      - DrugFreeSG Funded Projects/2018 Durbar Dua Dikir Barat Competition.md
+      - APFAD Conference/.keep
+      - APFAD Conference/Declaration.md
+      - APFAD Conference/2019.md
+      - APFAD Conference/2017.md
+      - APFAD Conference/2015.md

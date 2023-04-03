@@ -1,0 +1,7 @@
+collections:
+  about-ncada:
+    output: true
+    order:
+      - Overview.md
+      - Roles and Objectives.md
+      - Council Members.md
