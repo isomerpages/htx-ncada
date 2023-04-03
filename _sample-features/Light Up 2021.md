@@ -1,6 +1,6 @@
 ---
 title: Light Up 2021
-permalink: /our-work/DrugFreeSG-Light-Up/
+permalink: /our-work/drugfreesg-light-up/
 description: "2021"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 2019 HEB Ashram Family Day
-permalink: /our-work/DrugFreeSG-Projects/heb-ashram-family/
+permalink: /our-work/drugfreesg-projects/heb-ashram-family/
 description: ""
 third_nav_title: DrugFreeSG Funded Projects
 ---
