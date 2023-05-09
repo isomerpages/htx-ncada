@@ -4,12 +4,12 @@ permalink: /about-ncada/council-members/
 description: council members
 ---
 ### 2022/24 Term
-![](/images/Council%20Members/Council%20members2%20(210%20×%20600%20mm).png)
+![](/images/Council%20Members/council%20members%20may2023.png)
 <br>
 1. **Mr Hawazi Daipi** - *Chairman*
 <br> Singapore’s Non-Resident
 Representative to the
-Palestinian Authority & High
+Palestinian Authority &amp; High
 Commissioner to Ghana
 
 2. **Dr Chew Tuan Chiong** - *Vice-Chairman*
@@ -33,7 +33,7 @@ Commissioner to Ghana
 Member of Parliament of Chua Chu Kang GRC
 
 8. **Mr Ahmad Firdaus Bin Daud**
-<br> Senior Counsel (Southeast Asia & Korea), Avaya Inc
+<br> Senior Counsel (Southeast Asia &amp; Korea), Avaya Inc
 
 9. **Mr Ravindran Nagalingam**
 <br> Adjunct Lecturer, School of Communications, RMIT University
@@ -50,7 +50,7 @@ Management Service
 Mental Health
 
 12. **Ms Elaine Loo**
-<br> Director, Membership & Strategy Implementation, National Council of Social Services
+<br> Director, Membership &amp; Strategy Implementation, National Council of Social Services
 
 13. **Mr Patrick Kho**
 <br> Group Managing Director, Lian Huat Group
@@ -58,9 +58,8 @@ Mental Health
 14. **Ms Teo Ser Lee**
 <br> Founder, Protocol Academy Pte Ltd
 
-15. **Ms Yee Siaw Ling**
-<br>  Director, Central Youth
-Guidance Office, 
+15. **Dr Alvin Tan**
+<br>  Director, Family Intervention
 <br> Ministry of Social and Family Development
 
 16. **Mr Lin Qinghui**  <br> Senior Director, Policy
@@ -86,7 +85,7 @@ Lianhe Zaobao
 <br>Yayasan MENDAKI
 
 19. **Ms Ong Yen Peng**
-<br> Deputy Director (Youth & Sports)
+<br> Deputy Director (Youth &amp; Sports)
 <br> People's Association
 
 20. **Ms V Vyjayanthimala**
