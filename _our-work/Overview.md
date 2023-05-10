@@ -12,4 +12,4 @@ NCADA carries out various work to support our efforts in building a DrugFreeSG. 
 * Funding of ground-up initiatives; and
 * the Asia Pacific Forum Against Drugs (AFPAD)
 
-Find out more by navigating the sidebar on the left!
+Find out more by navigating the sidebar!
