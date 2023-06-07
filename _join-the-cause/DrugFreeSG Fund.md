@@ -22,7 +22,7 @@ The DrugFreeSG Fund (DFSG) gives grants to support ground-up initiatives that co
 
 Beneficiaries of the grant projects should be Singaporeans, Permanent Residents or communities or groups based in Singapore. 
 
-Administered by NCADA on behalf of the Ministry of Home Affairs, grant application is open throughout the year, and grant reimbursement will be based on the applicants’ satisfactory performance in mutually agreed Key Performance Indicators (KPIs). 
+Administered by NCADA on behalf of the Ministry of Home Affairs, grant application is open throughout the year, and grant reimbursement will be based on the applicants’ satisfactory performance in mutually agreed Performance Targets and Indicators (KPIs). 
 	
 Please allow for appropriate lead-time for discussion and processing of application. Ongoing projects will not be considered.
 	
