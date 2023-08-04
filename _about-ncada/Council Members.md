@@ -4,8 +4,9 @@ permalink: /about-ncada/council-members/
 description: council members
 ---
 ### 2022/24 Term
-![](/images/Council%20Members/council%20members%20may2023.png)
+_________________________________
 <br>
+
 1. **Mr Hawazi Daipi** - *Chairman*
 <br> Singapore’s Non-Resident
 Representative to the
