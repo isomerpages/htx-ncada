@@ -9,4 +9,4 @@ Keeping Singapore safe from drugs is a collective effort and each of us can play
 
 Looking to support the anti-drug cause with ground-up initiatives, join us as an anti-drug advocate, or just want to take a pledge to live a drug-free life? 
 
-Navigate the sidebar for more information!
+Navigate the sidebar on the left for more information!

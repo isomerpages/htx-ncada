@@ -67,7 +67,7 @@ Development Division,
 Ministry of Home Affairs 
 
 17. **Dr Thomas Chong**
-<br> Associate Director, External Relations, James Cook University
+<br> Director, Engagement and Associate Professor, University of Newcastle
 
 18. **Dr Elmie Nekmat**
 <br> Associate Professor;
