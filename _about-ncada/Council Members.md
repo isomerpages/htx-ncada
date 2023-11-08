@@ -18,7 +18,7 @@ Commissioner to Ghana
 <br> Chairman, Victoria AM Pte Limited
 
 3. **Mr Tan Chong Huat** - *Vice-Chairman*
-<br> Senior Partner, RHTLsaw Asia LLP adn Executive Chairman, RHT Group of Companies
+<br> Senior Partner, RHTLaw Asia LLP and Executive Chairman, RHT Group of Companies
 
 3. **A/P Narayanan Ganapathy** 
 <br> Associate Professor of Sociology, and Vice Dean of Graduate Studies, Faculty of Arts Social Sciences, National University of Singapore
