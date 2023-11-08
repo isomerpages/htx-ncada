@@ -2,6 +2,7 @@
 title: Council Members
 permalink: /about-ncada/council-members/
 description: council members
+variant: markdown
 ---
 ### 2022/24 Term
 _________________________________
@@ -10,17 +11,20 @@ _________________________________
 1. **Mr Hawazi Daipi** - *Chairman*
 <br> Singapore’s Non-Resident
 Representative to the
-Palestinian Authority &amp; High
+Palestinian Authority; High
 Commissioner to Ghana
 
 2. **Dr Chew Tuan Chiong** - *Vice-Chairman*
 <br> Chairman, Victoria AM Pte Limited
 
+3. **Mr Tan Chong Huat** - *Vice-Chairman*
+<br> Senior Partner, RHTLsaw Asia LLP adn Executive Chairman, RHT Group of Companies
+
 3. **A/P Narayanan Ganapathy** 
-<br> Associate Professor of Sociology, and Associate Dean of Graduate Studies, Faculty of Arts Social Sciences, National University of Singapore
+<br> Associate Professor of Sociology, and Vice Dean of Graduate Studies, Faculty of Arts Social Sciences, National University of Singapore
 
 4. **Mr Hudzaifah Alyaman Bin Adam**
-<br> Asset Manager, Warees Investments Pte Ltd
+<br> AVP, Commercial Assets &amp; Funds, Warees Investments Pte Ltd
 
 5. **Dr Tracy Loh**
 <br> Senior Lecturer, Lee Kong Chian School of Business, Singapore Management University
@@ -34,24 +38,24 @@ Commissioner to Ghana
 Member of Parliament of Chua Chu Kang GRC
 
 8. **Mr Ahmad Firdaus Bin Daud**
-<br> Senior Counsel (Southeast Asia &amp; Korea), Avaya Inc
+<br> Regional Counsel, Avaya Inc
 
 9. **Mr Ravindran Nagalingam**
-<br> Adjunct Lecturer, School of Communications, RMIT University
+<br> COO, The Bone Marrow Donor Programme
 
 10. **Dr Jimmy Lee**
-<br>Senior Consultant,
+<br>Senior Consultant, North Region
 <br> Institute of Mental Health
 
 11. **Mr S B Viknesan**
 <br> Senior Counsellor,
 <br> National Addictions
 Management Service
-(NAMS) @  Institute of
+(NAMS), Institute of
 Mental Health
 
 12. **Ms Elaine Loo**
-<br> Director, Membership &amp; Strategy Implementation, National Council of Social Services
+<br> Director, Capability Funding/Sector Capability and Transformation Group; Group, Service Strategy &amp; Innovation/Service Planning and Funding Group, National Council of Social Services
 
 13. **Mr Patrick Kho**
 <br> Group Managing Director, Lian Huat Group
@@ -63,16 +67,14 @@ Mental Health
 <br>  Director, Family Intervention
 <br> Ministry of Social and Family Development
 
-16. **Mr Lin Qinghui**  <br> Senior Director, Policy
-Development Division,
+16. **Mr Lin Qinghui**  <br> Senior Director, Policy Development Division,
 Ministry of Home Affairs 
 
-17. **Dr Thomas Chong**
-<br> Director, Engagement and Associate Professor, University of Newcastle
+17. **A/P Thomas Chong**
+<br> Director Engagement, Program Coordinator, Special &amp; Inclusive Education, University of Newcastle, Australia
 
-18. **Dr Elmie Nekmat**
-<br> Associate Professor;
-Deputy Head of Department, Communications and New Media; Resident Fellow Ridge View Residential College, NUS
+18. **A/P Elmie Nekmat**
+<br> Communications and New Media; Resident Fellow Ridge View Residential College, National University of Singapore
 
 19. **Mr Peter Ong**
 <br> Associate Editor,
