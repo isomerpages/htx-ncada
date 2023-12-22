@@ -2,8 +2,8 @@ collections:
   publications:
     output: true
     order:
-      - Annual Report 2022/.keep
       - Overview.md
+      - Annual Report 2022/.keep
       - Annual Report 2021.md
       - Annual Report 2020.md
       - Annual Report 2019.md
