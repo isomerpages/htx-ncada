@@ -8,17 +8,11 @@ variant: markdown
 _________________________________
 <br>
 
-1. **Mr Hawazi Daipi** - *Chairman*
-<br> Singapore’s Non-Resident
-Representative to the
-Palestinian Authority; High
-Commissioner to Ghana
+1. **Mr Tan Chong Huat** - *Chairman*
+<br> Senior Partner, RHTLaw Asia LLP and Executive Chairman, RHT Group of Companies
 
 2. **Dr Chew Tuan Chiong** - *Vice-Chairman*
 <br> Chairman, Victoria AM Pte Limited
-
-3. **Mr Tan Chong Huat** - *Vice-Chairman*
-<br> Senior Partner, RHTLaw Asia LLP and Executive Chairman, RHT Group of Companies
 
 3. **A/P Narayanan Ganapathy** 
 <br> Associate Professor of Sociology, and Vice Dean of Graduate Studies, Faculty of Arts Social Sciences, National University of Singapore
