@@ -23,7 +23,7 @@ sections:
         - title: Publications
           description: Annual Reports
           url: /publications/
-      background: /images/cdagfgf.png
+      background: /images/KEEPING_A_DRUG_FREE_SOCIETY.png
   - infopic:
       title: What's Your Fix?
       subtitle: Media Campaign
