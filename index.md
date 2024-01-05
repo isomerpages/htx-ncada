@@ -39,6 +39,7 @@ sections:
       button: Read now
       url: https://www.ncada.org.sg/files/NCADA_Annual_Report_2022.pdf
       image: /images/AR_2022_image.PNG
+      alt: Annual Report
   - resources:
       subtitle: Discover
       button: View More
