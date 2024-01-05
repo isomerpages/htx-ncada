@@ -34,12 +34,11 @@ sections:
       image: /images/Finding Juliana 2022 KV High Res.png
       alt: Finding Juliana
   - infopic:
-      title: NCADA Annual Report 2021
+      title: NCADA Annual Report 2022
       subtitle: Publication
       button: Read now
-      url: https://drive.google.com/file/d/1SEXhiwEurGR5mCP8h6oj-g8s7qSTIT6H/view?usp=share_link
-      image: /images/2AR2021 Cover.png
-      alt: NCADA Annual Report 2020
+      url: https://www.ncada.org.sg/files/NCADA_Annual_Report_2022.pdf
+      image: /images/AR_2022_image.PNG
   - resources:
       subtitle: Discover
       button: View More
