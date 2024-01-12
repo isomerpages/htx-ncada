@@ -4,28 +4,19 @@ permalink: /about-ncada/rolesandobjectives/
 description: roles and objectives of ncada
 variant: markdown
 ---
-### Roles and Objectives
+### Roles and Strategic Thrusts
 
-##### The Council’s roles are to serve as an effective conduit between the Government and the public by championing:
+##### The Council’s roles are to:
 
-*   Advocacy on policies and measures against drug abuse
-*   Community engagements and outreach to public to
-promote Singapore’s zero drug tolerance stance with the
-support of community partners
+*   Promote national drug-free measures
+*   Serve as a conduit between the Government and the Community for drug prevention efforts
+*   Support community engagements for the drug-free cause
 
-  
-
-##### The Council’s objectives are to:
-
-*   Increase visibility of NCADA and build members’ credibility, as advisory council and community enabler to champion the drug-free movement
-*   Provide strategic advice and input on key messaging to effectively advocate for the drug free cause
-*   Deploy resources strategically towards areas of need and impact for Target Audiences; enable integrations to maximise outcome and sustainability for community
-  
 
 ##### The Council’s focal areas are:
 
-*   Publicity & Communications
-*   Advocacy & Community Engagement
+*   Publicity & Communications – To achieve impactful and sustained communications through the creation of awareness for the drug-free cause and the generation of shared commitment for a drug-free Singapore.
+*   Advocacy & Community Engagement – To rally and expand support for the drug-free cause and measures through strategic partnerships and the building of advocacy and community resources.
 
 
 *As guided by the Rules of NCADA 2009.*
