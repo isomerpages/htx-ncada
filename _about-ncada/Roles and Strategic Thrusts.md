@@ -17,6 +17,3 @@ variant: markdown
 
 *   Publicity & Communications – To achieve impactful and sustained communications through the creation of awareness for the drug-free cause and the generation of shared commitment for a drug-free Singapore.
 *   Advocacy & Community Engagement – To rally and expand support for the drug-free cause and measures through strategic partnerships and the building of advocacy and community resources.
-
-
-*As guided by the Rules of NCADA 2009.*
