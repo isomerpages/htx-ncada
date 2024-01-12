@@ -2,6 +2,6 @@ collections:
   about-ncada:
     output: true
     order:
-      - Overview.md
-      - Roles and Objectives.md
+      - NCADA’s Mission.md
+      - Roles and Strategic Thrusts.md
       - Council Members.md
