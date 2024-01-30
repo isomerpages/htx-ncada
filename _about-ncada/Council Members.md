@@ -61,7 +61,7 @@ Mental Health
 <br>  Director, Family Intervention
 <br> Ministry of Social and Family Development
 
-16. **Mr Lin Qinghui**  <br> Senior Director, Policy Development Division,
+16. **Mr Sanjay Nanwani**  <br> Senior Director, Policy Development Division,
 Ministry of Home Affairs 
 
 17. **A/P Thomas Chong**
