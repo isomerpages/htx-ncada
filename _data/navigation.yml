@@ -1,0 +1,16 @@
+logo: /images/NCADA Logo (PNG).png
+links:
+  - title: About NCADA
+    collection: about-ncada
+  - title: Our Work
+    collection: our-work
+  - title: Join the Cause
+    collection: join-the-cause
+  - title: Publications
+    collection: publications
+  - title: Anti-Drug Resources
+    url: /anti-drug-resources/
+  - title: Seeking Help
+    url: /seeking-help
+  - title: Contact Us
+    url: /contact-us/
