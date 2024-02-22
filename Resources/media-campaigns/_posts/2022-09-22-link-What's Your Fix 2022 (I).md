@@ -1,6 +1,6 @@
 ---
 title: What's Your Fix 2022 (I)
-permalink: https://htx-ncada-staging.netlify.app/our-work/media-campaign/whatsyourfix/
+permalink: /our-work/media-campaign/whatsyourfix/
 date: 2022-09-22
 layout: link
 description: ""
