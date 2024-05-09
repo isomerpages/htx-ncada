@@ -3,7 +3,7 @@ layout: homepage
 title: National Council Against Drug Abuse
 description: The official website of the National Council Against Drug Abuse
   (NCADA), Singapore.
-image: /images/NCADA Logo (PNG).png
+image: /images/NCADA_PNG_logo_RGB_2.png
 permalink: /
 notification: Be wary of any SMSes claiming to be from NCADA seeking your
   confidential information or donations. NCADA does not send SMSes to the public
