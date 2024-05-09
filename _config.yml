@@ -1,6 +1,6 @@
 title: National Council Against Drug Abuse
 url: https://ncada.org.sg
-favicon: /images/NCADA Logo (PNG).png
+favicon: /images/NCADA_PNG_logo_RGB_2.png
 colors:
   primary-color: "#00b2a9"
   secondary-color: "#029894"
@@ -53,7 +53,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d3s2mqgkqocybw.amplifyapp.com/
 prod: https://master.d3s2mqgkqocybw.amplifyapp.com/
-shareicon: /images/NCADA Logo (PNG).png
+shareicon: /images/NCADA_PNG_logo_RGB_2.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
