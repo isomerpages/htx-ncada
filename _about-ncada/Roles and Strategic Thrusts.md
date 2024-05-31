@@ -9,8 +9,9 @@ variant: markdown
 ##### The Council’s roles are to:
 
 *   Promote national drug-free measures
-*   Serve as a conduit between the Government and the Community for drug prevention efforts
 *   Support community engagements for the drug-free cause
+*   Serve as a conduit between the Government and the community for drug prevention efforts
+
 
 
 ##### The Council’s focal areas are:
