@@ -5,4 +5,5 @@ variant: tiptap
 description: ""
 third_nav_title: DrugFreeSG Advocacy Newsletter
 ---
-<p></p>
+<p><a href="/files/Jan_2024__Final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Jan 2024</a>
+</p>
