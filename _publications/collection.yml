@@ -2,8 +2,8 @@ collections:
   publications:
     output: true
     order:
-      - DrugFreeSG Advocacy Newsletter/DrugFreeSG Advocacy Newsletter 2024.md
       - DrugFreeSG Advocacy Newsletter/.keep
+      - DrugFreeSG Advocacy Newsletter/DrugFreeSG Advocacy Newsletter 2024.md
       - Overview.md
       - Annual Report 2022.md
       - Annual Report 2021.md
