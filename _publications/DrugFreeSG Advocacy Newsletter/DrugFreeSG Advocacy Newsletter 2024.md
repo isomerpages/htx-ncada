@@ -11,4 +11,7 @@ third_nav_title: DrugFreeSG Advocacy Newsletter
 </p>
 <p><a href="/files/Mar_2024_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">Mar 2024</a>
 </p>
-<p></p>
+<p><a href="/files/Apr_2024_Final_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Apr 2024</a>
+</p>
+<p><a href="/files/May_2024_Final_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">May 2024</a>
+</p>
