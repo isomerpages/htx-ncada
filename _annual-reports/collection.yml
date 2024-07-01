@@ -1,5 +1,5 @@
 collections:
-  publications:
+  annual-reports:
     output: true
     order:
       - Overview.md
