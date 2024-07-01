@@ -21,7 +21,7 @@ sections:
           description: Grants & Advocacy
           url: /jointhecause/
         - title: Publications
-          description: Annual Reports
+          description: Annual Reports and Newsletters
           url: /publications/
       background: /images/KEEPING_A_DRUG_FREE_SOCIETY.png
   - infopic:
