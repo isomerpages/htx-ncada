@@ -1,0 +1,10 @@
+collections:
+  annual-reports:
+    output: true
+    order:
+      - Overview.md
+      - Annual Report 2023.md
+      - Annual Report 2022.md
+      - Annual Report 2021.md
+      - DrugFreeSG Advocacy Newsletter/.keep
+      - DrugFreeSG Advocacy Newsletter/2024.md
