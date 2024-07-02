@@ -69,35 +69,26 @@ Lianhe Zaobao
  Hong Kong
  
  20. **Mr Sanjay Nanwani**  
-Senior Director, Policy Development Division,
-Ministry of Home Affairs 
+Senior Director, Policy Development Division, Ministry of Home Affairs 
 
 21. **Mr S B Viknesan**
-<br> Senior Counsellor,
-<br> National Addictions
-Management Service
-(NAMS), Institute of
-Mental Health
+<br> Senior Counsellor, National Addictions Management Service
+(NAMS), Institute of Mental Health
 
 22. **Mr William Pushpam**
-<br> Cluster Superintendent (Schools Division),
-<br>Ministry of Education
+<br> Cluster Superintendent (Schools Division), Ministry of Education
 
 23. **Ms Ong Yen Peng**
-<br> Deputy Director (Youth &amp; Sports)
-<br> People's Association
+<br> Deputy Director (Youth &amp; Sports), People's Association
 
 24. **Dr Alvin Tan**
-<br>  Director, Family Intervention
-<br> Ministry of Social and Family Development
+<br>  Director, Family Intervention, Ministry of Social and Family Development
 
 25. **Ms Azlinah Arif**
-<br> Deputy Director, School Ready
-<br>Yayasan MENDAKI
+<br> Deputy Director, School Ready, Yayasan MENDAKI
 
 26. **Ms V Vyjayanthimala**
-<br> Deputy Director, Family Development Division, Singapore Indian Development
-Association (SINDA)
+<br> Deputy Director, Family Development Division, Singapore Indian Development Association (SINDA)
 
 27. **Ms Tan Chiah Hwee**
 <br>Director, Community Engagement and Development, Chinese Development Assistance Council (CDAC)
