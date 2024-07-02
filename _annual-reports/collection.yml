@@ -2,8 +2,8 @@ collections:
   annual-reports:
     output: true
     order:
-      - Annual Report 2023.md
       - Overview.md
+      - Annual Report 2023.md
       - Annual Report 2022.md
       - Annual Report 2021.md
       - Annual Report 2020.md
