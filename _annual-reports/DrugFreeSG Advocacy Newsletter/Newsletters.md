@@ -1,5 +1,5 @@
 ---
-title: "2024"
+title: Newsletters
 permalink: /drugfreesg-advocacy-newsletter-2024/
 variant: tiptap
 description: ""
