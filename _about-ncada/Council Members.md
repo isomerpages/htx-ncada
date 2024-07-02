@@ -65,8 +65,7 @@ Lianhe Zaobao
 <br> Group Chief Executive Officer, SMRT Corporation Ltd
 
 19. **Mr Kesson Lee**
-<br> Commissioner for Narcotics
- Hong Kong
+<br> Commissioner for Narcotics Hong Kong
  
  20. **Mr Sanjay Nanwani**  
 Senior Director, Policy Development Division, Ministry of Home Affairs 
@@ -94,4 +93,4 @@ Senior Director, Policy Development Division, Ministry of Home Affairs
 <br>Director, Community Engagement and Development, Chinese Development Assistance Council (CDAC)
 
 28. **Dr Lal Nelson**
-<br> Consultant (Research)  <br>Ministry of Home Affairs, Singapore
+<br> Consultant (Research), Ministry of Home Affairs, Singapore
