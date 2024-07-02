@@ -28,8 +28,8 @@ sections:
       title: NCADA Annual Report 2023
       subtitle: Publication
       button: Read now
-      url: https://www.ncada.org.sg/files/NCADA_Annual_Report_2022.pdf
-      image: /images/AR_2022_image.PNG
+      url: https://www.ncada.org.sg/files/NCADA_Annual_Report_2023.pdf
+      image: /images/NCADA_AR_2023_Screenshot.jpg
       alt: Annual Report
   - resources:
       subtitle: Discover
