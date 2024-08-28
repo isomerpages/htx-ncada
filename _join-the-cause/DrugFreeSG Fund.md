@@ -27,4 +27,4 @@ Administered by NCADA on behalf of the Ministry of Home Affairs, grant applicati
 	
 Please allow for appropriate lead-time for discussion and processing of application. Ongoing projects will not be considered.
 	
-To apply, kindly fill up the form via [this link](https://www.go.gov.sg/dfsgapplicationform).
+For more information on the DFSG Fund, you may visit [this link](/files/DFSG_Fund_2024_v2_.pdf). To apply, kindly fill up the form via [this link](https://www.go.gov.sg/dfsgapplicationform).
