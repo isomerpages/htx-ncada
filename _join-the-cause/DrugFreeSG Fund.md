@@ -2,6 +2,7 @@
 title: DrugFreeSG Fund
 permalink: /permalink/jointhecause/drugfreesgfund/
 description: NCADA Fund
+variant: markdown
 ---
 ### Supporting Ground-Up Initiatives
 
@@ -26,4 +27,4 @@ Administered by NCADA on behalf of the Ministry of Home Affairs, grant applicati
 	
 Please allow for appropriate lead-time for discussion and processing of application. Ongoing projects will not be considered.
 	
-For more information or to apply, kindly email secretariat@ncada.org.sg.
+To apply, kindly fill up the form via [this link](https://www.go.gov.sg/dfsgapplicationform).
