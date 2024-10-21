@@ -2,17 +2,28 @@
 title: NCADA Perception Surveys
 permalink: /our-work/ncada-perception-surveys/
 description: ""
+variant: markdown
 ---
 ### NCADA Drug Perception Survey
 
-NCADA conducts the Drug Perception Survey to understand public attitudes towards drugs, drug-taking and the anti-drug laws and policies in Singapore. In particular, the study aims to measure how perceptions have changed over time. 
+     
+NCADA conducts the National Drug Perception Survey regularly to understand public attitudes towards drugs, drug-taking and the anti-drug initiatives in Singapore.&nbsp;
 
-The survey is commissioned to a third-party market research company. The commissioned
-researcher would conduct the survey according to industry standards and in compliance
-with Singapore’s personal data protection requirements.
+The survey is commissioned to a third-party market research company. The commissioned researcher would conduct the survey according to industry standards and in compliance with Singapore’s personal data protection requirements.
 
-* Click [here](https://drive.google.com/file/d/1VWy56iwIgDVyKOBpZdwX-lXThTe5wv_v/view) to read key findings from the 2019/20 National Drug Perception Survey. 
+NCADA commissioned a revised National Drug Perception Survey to examine the following:
+        
 
-* Click [here](/files/NCADA%20Perception%20Survey%202015-16%20News%20Release.pdf) to read key findings from the 2015/16 Youth and Public Perception Survey. 
+(a)&nbsp; Public’s attitudes towards drugs and drug-taking;
 
-* Click [here](/files/NCADA%20Youth%20Perception%20Survey%202013%20News%20Release.pdf) to read key findings from the 2013 Youth Perception Survey.
+(b)&nbsp; Public’s perceptions of the drug policies in Singapore;
+
+(c)&nbsp; Public’s views towards Preventive Drug Education efforts.
+
+_Methodology_
+
+The latest revised survey was conducted in 2023. Slightly more than 4,500 people were surveyed, using a representative sampling of Singapore’s population. There are two components to the Drug Perception Survey:
+
+(a)&nbsp; Quantitative survey with about 3,000 youths (aged 13 to 29) and about 1,500 adults (aged 30 and above); and
+
+(b)&nbsp; Qualitative in-depth interviews with 60 youth and adult respondents.
