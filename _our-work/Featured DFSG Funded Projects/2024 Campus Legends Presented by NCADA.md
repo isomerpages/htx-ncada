@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Featured DFSG Funded Projects
 ---
-<p><strong>Campus Legends presented by NCADA</strong>
-</p>
+<h4>Campus Legends presented by NCADA</h4>
 <p>For the first time in its 6<sup>th</sup> season, Campus Legends, the premier
 inter-tertiary esports</p>
 <p>tournament organised by the Singapore Cybersports &amp; Online Gaming
