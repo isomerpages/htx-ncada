@@ -31,7 +31,4 @@ sections:
       url: https://www.ncada.org.sg/files/NCADA_Annual_Report_2023.pdf
       image: /images/NCADA_AR_2023_Screenshot.jpg
       alt: Annual Report
-  - resources:
-      subtitle: Discover
-      button: View More
 ---
