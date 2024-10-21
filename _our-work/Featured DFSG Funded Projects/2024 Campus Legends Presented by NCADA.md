@@ -7,11 +7,10 @@ third_nav_title: Featured DFSG Funded Projects
 ---
 <h4>Campus Legends presented by NCADA</h4>
 <p>For the first time in its 6<sup>th</sup> season, Campus Legends, the premier
-inter-tertiary esports</p>
-<p>tournament organised by the Singapore Cybersports &amp; Online Gaming
-Association (SCOGA), partnered with NCADA to spotlight the Drug-Free cause
-in Singapore, with the aim of rallying the gaming community towards advocacy
-for a drug-free generation.</p>
+inter-tertiary esports tournament organised by the Singapore Cybersports
+&amp; Online Gaming Association (SCOGA), partnered with NCADA to spotlight
+the Drug-Free cause in Singapore, with the aim of rallying the gaming community
+towards advocacy for a drug-free generation.</p>
 <p>&nbsp;Under the banner “We Game as One”, the campaign sought to build
 a deeper awareness of how youths can do their part in keeping their friends
 safe from the harms of drug abuse.</p>
