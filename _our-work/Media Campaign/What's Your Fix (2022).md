@@ -21,5 +21,3 @@ The final phase of the campaign started with the call for film pitches from yout
 Adopting a multi-channel approach, the campaign was supported by companion content delivered over complementary media touchpoints: teasers and full episodes were published on our campaign TikTok and microsite platforms, with engagement drivers like social media contests and polls, as well as a media preview event and story pitches to various media outlets carried out.
 
 For more information on the _What’s Your Fix?_ campaign, visit [https://whatsyourfix.sg](https://whatsyourfix.sg).
-
-
