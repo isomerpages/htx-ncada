@@ -2,7 +2,7 @@
 title: 2018 Pertapis Halfway House Futsal Competition
 permalink: /our-work/drugfreesg-projects/pertapis-football/
 description: ""
-third_nav_title: DrugFreeSG Funded Projects
+third_nav_title: Featured DFSG Funded Projects
 ---
 ## Kick E Habit Pertapis Halfway House Futsal Competition
 

@@ -2,7 +2,7 @@
 title: 2019 HEB Ashram Family Day
 permalink: /our-work/drugfreesg-projects/heb-ashram-family/
 description: ""
-third_nav_title: DrugFreeSG Funded Projects
+third_nav_title: Featured DFSG Funded Projects
 ---
 # HEB-Ashram Family Day (2019)
 

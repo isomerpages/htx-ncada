@@ -2,7 +2,7 @@
 title: 2021 Take the Lead Challenge by Flair Artz International
 permalink: /our-work/dfsg-projects/take-the-lead/
 description: ""
-third_nav_title: DrugFreeSG Funded Projects
+third_nav_title: Featured DFSG Funded Projects
 ---
 ## Take the Lead Dance Challence
 

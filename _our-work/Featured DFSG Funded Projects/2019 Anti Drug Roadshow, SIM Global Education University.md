@@ -2,7 +2,7 @@
 title: 2019 Anti Drug Roadshow, SIM Global Education University
 permalink: /our-work/drugfreesg-projects/sim-global-roadshow/permalink/
 description: ""
-third_nav_title: DrugFreeSG Funded Projects
+third_nav_title: Featured DFSG Funded Projects
 ---
 ## Anti-Drug Roadshow @ SIM Global Education (GE) University
 

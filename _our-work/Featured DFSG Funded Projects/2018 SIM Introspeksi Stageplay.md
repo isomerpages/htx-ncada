@@ -2,7 +2,7 @@
 title: 2018 SIM Introspeksi Stageplay
 permalink: /our-work/drugfreesg-projects/sim-introspeksi/
 description: ""
-third_nav_title: DrugFreeSG Funded Projects
+third_nav_title: Featured DFSG Funded Projects
 ---
 ## SIM Introspeksi Stageplay
 
