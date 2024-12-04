@@ -1,5 +1,5 @@
 collections:
-  join-the-cause:
+  partner-with-us:
     output: true
     order:
       - Overview.md
