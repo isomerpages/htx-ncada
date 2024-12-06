@@ -2,6 +2,7 @@ collections:
   partner-with-us:
     output: true
     order:
+      - "Partnership Opportunities: Getting Started on a Project.md"
       - DrugFreeSG Cause.md
       - "Partnership Opportunities: Advocate for the #DrugFreeSG Cause.md"
       - Overview.md
