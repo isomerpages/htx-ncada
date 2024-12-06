@@ -2,8 +2,8 @@ collections:
   partner-with-us:
     output: true
     order:
-      - Partnership Opportunities.md
       - DrugFreeSG Cause.md
+      - Partnership Opportunities.md
       - Overview.md
       - A3 Network.md
       - DrugFreeSG Fund.md
