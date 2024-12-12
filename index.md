@@ -17,9 +17,9 @@ sections:
         - title: Our Work
           description: Campaigns & Events
           url: /our-work
-        - title: Join the Cause
+        - title: Partner With Us
           description: Grants & Advocacy
-          url: /jointhecause/
+          url: /partnerwithus/
         - title: Publications
           description: Annual Reports and Newsletters
           url: /publications/
