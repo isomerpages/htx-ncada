@@ -20,3 +20,4 @@ variant: markdown
 The event involved a 12km cycling route along the Little Guilin and Pang Sua Pond, with anti-drug talks from religious and personal-experience perspectives as well as sharing to raise awareness on the harms of drugs incorporated into the programme. The event was also attended by Minister of State, Ministry of Home Affairs & Ministry of National Development Associate Professor Muhammad Faishal Ibrahim.
 
 Read the article on Berita Harian [here](https://berita.mediacorp.sg/singapura/acara-berbasikal-sebar-mesej-dadah-itu-haram-711391).
+![](/images/Example_of_Al_Iman_Dadah_itu_Haram_Youth_Ride_2022.png)
