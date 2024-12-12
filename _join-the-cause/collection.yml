@@ -1,8 +1,0 @@
-collections:
-  join-the-cause:
-    output: true
-    order:
-      - Overview.md
-      - A3 Network.md
-      - DrugFreeSG Fund.md
-      - Adopt the Green and White Ribbon.md

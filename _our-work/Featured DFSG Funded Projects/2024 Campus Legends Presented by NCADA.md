@@ -6,28 +6,36 @@ description: ""
 third_nav_title: Featured DFSG Funded Projects
 ---
 <h4>Campus Legends presented by NCADA</h4>
-<p>For the first time in its 6<sup>th</sup> season, Campus Legends, the premier
-inter-tertiary esports tournament organised by the Singapore Cybersports
-&amp; Online Gaming Association (SCOGA), partnered with NCADA to spotlight
-the Drug-Free cause in Singapore, with the aim of rallying the gaming community
-towards advocacy for a drug-free generation.</p>
-<p>&nbsp;Under the banner “We Game as One”, the campaign sought to build
-a deeper awareness of how youths can do their part in keeping their friends
-safe from the harms of drug abuse.</p>
-<p>The advocacy campaign with NCADA aimed to address this by provoking paradigm
-shifts on the drug issue. It will discuss the relevance of the drug-free
-cause to our generation of youths.</p>
-<p>&nbsp;As part of NCADA’s collaboration with Campus Legends, a Parents
-Seminar was held on 3 August 2024. The seminar’s theme was “Our children
-are more vulnerable to drug abuse today. What can we do as parents?”&nbsp;</p>
-<p>&nbsp;Panelists helped to make sense of various vulnerabilities and realities
-faced by children today, and talked about the key stresses and how parents
-might help their children cope. The discussion also focused on how drug
-addiction affects the developing brain of adolescents and what parents
-can do for early prevention.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/for_website.jpg">
 </div>
-<p>&nbsp;</p>
+<p>&nbsp;<strong>Project Organiser:</strong> Singapore Cybersports &amp; Online
+Gaming Association (SCOGA)</p>
+<p><strong>Project Overview &amp; Aim: </strong>Campus Legends is an annual
+Inter-Tertiary Esports Tournament, organised under SCOGA’s initiative to
+engage, educate and empower youths to excel through Esports. For the Campus
+Legends Season 6, SCOGA collaborated with the National Council Against
+Drug Abuse (NCADA) with the aim of rallying the gaming community towards
+advocacy for a Drug-Free generation.</p>
+<p>&nbsp;Under the banner “We Game as One”, the advocacy campaign sought
+to build a deeper awareness of how youths can do their part in keeping
+their friends safe from the harms of drug abuse. This is facilitated through
+provoking paradigm shifts on the drug issue via discussions on the relevance
+of the Drug-Free cause to our generation of youths.</p>
+<p>&nbsp;As part of the collaboration with NCADA, Campus Legends held a Parents
+Seminar with the following theme:</p>
+<p>&nbsp;<strong><em>“Our children are more vulnerable to drug abuse today. What can we do as parents?”</em></strong>
+</p>
+<p>Campus Legends invited the Guest-of-Honour, Minister of State, Ministry
+of Home Affairs &amp; Ministry of National Development, Associate Professor
+Muhammad Faishal Ibrahim who also served as one of the panelist. The panel
+discussion helped parents make sense of various vulnerabilities and realities
+faced by children today, and explored the key stresses as well as how parents
+may help their children. The discussion also focused on how drug addiction
+affects the developing brain of adolescents and what parents can do for
+early prevention.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CL2.png">
+</div>
 <p></p>
