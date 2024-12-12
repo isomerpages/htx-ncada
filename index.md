@@ -19,7 +19,7 @@ sections:
           url: /our-work
         - title: Partner With Us
           description: Grants & Advocacy
-          url: /partnerwithus/
+          url: /drugfreesg-cause/
         - title: Publications
           description: Annual Reports and Newsletters
           url: /publications/
