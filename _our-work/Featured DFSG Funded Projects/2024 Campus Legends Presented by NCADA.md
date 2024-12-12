@@ -35,3 +35,7 @@ may help their children. The discussion also focused on how drug addiction
 affects the developing brain of adolescents and what parents can do for
 early prevention.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CL2.png">
+</div>
+<p></p>
