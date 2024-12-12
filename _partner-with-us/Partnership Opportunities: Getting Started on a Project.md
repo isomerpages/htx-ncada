@@ -105,7 +105,9 @@ for any unavailable documentation</p>
 <p><strong>IF YOU HAVE A PROJECT IN MIND AND ARE LOOKING FOR SUPPORT, APPLY HERE!</strong>
 </p>
 <p>Put in an application for the DFSG Fund via this <a href="https://go.gov.sg/dfsgapplicationform" rel="noopener nofollow" target="_blank">link</a>, to kickstart a discussion
-about your ideas!</p>
+about your ideas! For more information on the DFSG Fund, you may refer
+to our information package via this <a href="/files/DFSG_Fund__Final_.pdf" rel="noopener nofollow" target="_blank">link.</a>
+</p>
 <p><em>Note: Please submit the application form at least 12 weeks prior to the planned date of your project execution. Kindly allow for appropriate lead-time for discussion and processing of grant application (usually between 4 to 8 weeks, depending on the complexity of project and funding amount requested</em>
 </p>
 <p>For queries related to the DFSG Fund, kindly contact us at <a rel="noopener noreferrer nofollow" target="_blank">secretariat@ncada.org.sg</a>.</p>
