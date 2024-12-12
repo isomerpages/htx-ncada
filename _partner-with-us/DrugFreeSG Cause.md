@@ -21,9 +21,6 @@ cause and our united stand against drugs. The colours of the ribbon represent
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Anti Drug Ribbon (PNG).png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Anti Drug Ribbon (PNG).png">
-</div>
 <p>Interested to join the #DrugFreeSG cause? Here’s how you can partner with
 NCADA!</p>
 <div class="isomer-image-wrapper">
