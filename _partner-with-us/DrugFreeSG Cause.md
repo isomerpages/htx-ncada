@@ -17,7 +17,7 @@ abuse and to resolutely support the drug-free cause.</p>
 throughout ASEAN to spread a common message among youth and communities
 to be resilient against drug abuse. In Singapore, it represents the anti-drug
 cause and our united stand against drugs. The colours of the ribbon represent
-’Health’, ’Vitality’ and ’Strength’.</p>
+'Health', 'Vitality’ and 'Strength’.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Anti Drug Ribbon (PNG).png">
 </div>
