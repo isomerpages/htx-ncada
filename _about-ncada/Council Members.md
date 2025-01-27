@@ -41,7 +41,7 @@ _________________________________
 11. **Mr Firdaus D'Cruz**
 <br> Chief Executive Officer, Pertapis
 
-12. **Ms Hazlina Abdul Rahim**
+12. **Ms Hazlina Abdul Halim**
 <br> Chief Executive Officer, Make-A-Wish Singapore
 
 13. **Mr Kesson Lee**
