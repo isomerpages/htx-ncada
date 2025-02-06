@@ -17,7 +17,7 @@ description: ""
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="/files/MR_New_Council_2025_2027.pdf" rel="noopener nofollow" target="_blank">NCADA Welcomes New Council to Champion a Drug-Free Singapore for 2025–2027  </a>
+<p><a href="/files/MR_New_Council_2025_2027.pdf" rel="noopener nofollow" target="_blank">NCADA Welcomes New Council to Champion a Drug-Free Singapore for 2025–2027</a>
 </p>
 </th>
 </tr>
