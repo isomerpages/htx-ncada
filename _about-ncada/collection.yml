@@ -2,7 +2,7 @@ collections:
   about-ncada:
     output: true
     order:
-      - NCADA’s Mission.md
+      - About NCADA.md
       - Roles and Strategic Thrusts.md
       - Council Members.md
       - Newsroom.md
