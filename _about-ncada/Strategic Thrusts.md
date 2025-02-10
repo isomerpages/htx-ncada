@@ -1,18 +1,10 @@
 ---
-title: Roles and Strategic Thrusts
+title: Strategic Thrusts
 permalink: /about-ncada/rolesandobjectives/
 description: roles and objectives of ncada
 variant: markdown
 ---
-### Roles and Strategic Thrusts
-
-##### The Council’s roles are to:
-
-*   Promote national drug-free measures
-*   Support community engagements for the drug-free cause
-*   Serve as a conduit between the Government and the community for drug prevention efforts
-
-
+### Strategic Thrusts
 
 ##### The Council’s focal areas are:
 
