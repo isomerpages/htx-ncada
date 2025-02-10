@@ -4,9 +4,6 @@ permalink: /about-ncada/
 description: about ncada
 variant: markdown
 ---
-### National Council Against Drug Abuse
+### National Council Against Drug Abuse (NCADA)
 
-The National Council Against Drug Abuse (NCADA) was formed in January 1995. As the advisory council to the Minister and the Ministry of Home Affairs, NCADA's mission is to serve as an effective conduit between the Government and the public by championing –
-
-1. Advocacy on policies and measures against drug abuse
-2. Community engagements and outreach to public to promote Singapore’s zero drug tolerance stance with the support of community partners
+NCADA was formed in January 1995 as a citizen’s advisory council to the Ministry of Home Affairs on preventive drug measures and programmes in Singapore. The Council advises the Government on measures and strategies to curb drug abuse in Singapore. Its role is also to harness community support for anti-drug programmes and complement the promotion of preventive drug efforts, programmes, and research to inform the public on the dangers of drug addiction.
