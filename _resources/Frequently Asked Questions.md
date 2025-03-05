@@ -20,7 +20,7 @@ Drug Perception Survey. The survey provides insights on the public’s attitudes
 towards drugs, its support for Singapore’s drug-free stance, and other
 evolving issues.</p>
 <p>The 2023 survey found that more than 9 in 10 Singapore residents, both
-adults and youths, agree, that maintaining a drug-free environment is in
+adults and youths, agree that maintaining a drug-free environment is in
 the best interest of Singapore. Nevertheless, there was also a trend of
 growing permissiveness towards drugs among youths, which is of concern
 to NCADA.&nbsp;</p>
@@ -62,7 +62,6 @@ where vaporisers have been used for the consumption of controlled drugs
 such as cannabis and other illicit psychoactive substances. In addition,
 emerging scientific evidence have reported on the increased risk of future
 drug abuse in adolescents who vape.</p>
-<p>&nbsp;</p>
 <p>We are glad that the Ministry of Health, Health Promotion Board, Health
 Sciences Authority, and the Ministry of Education have adopted a multipronged
 approach to tackle youth vaping in Singapore. With growing prevalence of
