@@ -2,5 +2,5 @@ collections:
   resources:
     output: true
     order:
-      - Frequently Asked Questions.md
       - Anti Drug Resources.md
+      - Frequently Asked Questions.md
