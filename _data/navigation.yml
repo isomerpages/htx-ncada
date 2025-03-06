@@ -8,8 +8,8 @@ links:
     collection: partner-with-us
   - title: Publications
     collection: annual-reports
-  - title: Anti-Drug Resources
-    url: /anti-drug-resources/
+  - title: Resources
+    collection: resources
   - title: Seeking Help
     url: /seeking-help
   - title: Contact Us
