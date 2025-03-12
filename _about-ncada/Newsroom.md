@@ -4,7 +4,7 @@ permalink: /newsroom/
 variant: tiptap
 description: ""
 ---
-<h4>Media Releases</h4>
+<h4>Media Mentions</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -13,23 +13,21 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 Feb 2025</p>
+<p>12 Mar 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/MR_New_Council_2025_2027.pdf" rel="noopener nofollow" target="_blank">NCADA Welcomes New Council to Champion a Drug-Free Singapore for 2025–2027</a>
-</p>
+<p><a href="https://www.melisten.sg/podcast/playlist/CNA938-Rewind-2813576/Role-of-youth-advocates-in-tackling-the-issue-of-young-drug-abusers-in-Singapore--2836131" rel="noopener nofollow" target="_blank">Role of youth advocates in tackling the issue of young drug abusers in Singapore</a> (CNA938)</p>
 </td>
 </tr>
-</tbody>
-</table>
-<p></p>
-<h4>Media Mentions</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8 Mar 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.channelnewsasia.com/today/big-read/rising-youth-drug-use-advocacy-4978231" rel="noopener nofollow" target="_blank">As the number of young drug abusers in Singapore continues to rise, youth advocates say it's time to fight back smarter</a> (Channel
+NewsAsia TODAY)</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>24 Feb 2025</p>
@@ -54,7 +52,26 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.channelnewsasia.com/watch/more-drug-abusers-under-age-20-arrested-last-year-youngest-was-13-cnb-4933731" rel="noopener nofollow" target="_blank">More drug abusers under the age of 20 arrested last year, youngest was 13: CNB</a> (Channel
-News Asia)</p>
+NewsAsia)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h4>Media Releases</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Feb 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/MR_New_Council_2025_2027.pdf" rel="noopener nofollow" target="_blank">NCADA Welcomes New Council to Champion a Drug-Free Singapore for 2025–2027</a>
+</p>
 </td>
 </tr>
 </tbody>
