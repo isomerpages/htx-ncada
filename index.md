@@ -25,10 +25,10 @@ sections:
           url: /publications/
       background: /images/KEEPING_A_DRUG_FREE_SOCIETY.png
   - infopic:
-      title: NCADA Annual Report 2023
+      title: NCADA Annual Report 2024
       subtitle: Publication
       button: Read now
-      url: https://www.ncada.org.sg/files/NCADA_Annual_Report_2023.pdf
-      image: /images/NCADA_AR_2023_Screenshot.jpg
+      url: https://www.ncada.org.sg/files/NCADA_Annual_Report_Final_compressed.pdf
+      image: /images/Cover_page.png
       alt: Annual Report
 ---
