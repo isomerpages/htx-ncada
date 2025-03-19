@@ -28,7 +28,7 @@ sections:
       title: NCADA Annual Report 2024
       subtitle: Publication
       button: Read now
-      url: https://www.ncada.org.sg/files/NCADA_Annual_Report_Final_compressed.pdf
+      url: https://www.ncada.org.sg/files/NCADA_Annual_Report_2024_Final_compressed.pdf
       image: /images/Cover_page.png
       alt: Annual Report
 ---
