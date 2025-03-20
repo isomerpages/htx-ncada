@@ -46,26 +46,3 @@ to the influence of drugs.</p>
 signs and offering support early. They can make use of resources by CNB
 and NCADA, including CNB’s Preventive Drug Education Toolkit, to help them
 frame conversations about the harsh realities of drug abuse in Singapore.</p>
-<p></p>
-<ol start="3" data-tight="true" class="tight">
-<li>
-<p><strong>What is NCADA's position on vaping?</strong>
-</p>
-</li>
-</ol>
-<p>Vaping – of nicotine and nicotine-replacement products – is not an area
-of focus within the mandate of the National Council Against Drug Abuse
-(NCADA) primarily because nicotine, while harmful to health, is not a controlled
-drug. NCADA fundamentally advocates for a society that is not dependent
-on any&nbsp;harmful or&nbsp;addictive substance. We are aware of cases
-where vaporisers have been used for the consumption of controlled drugs
-such as cannabis and other illicit psychoactive substances. In addition,
-emerging scientific evidence have reported on the increased risk of future
-drug abuse in adolescents who vape.</p>
-<p>We are glad that the Ministry of Health, Health Promotion Board, Health
-Sciences Authority, and the Ministry of Education have adopted a multipronged
-approach to tackle youth vaping in Singapore. With growing prevalence of
-vaping among youths, NCADA supports the intent of Singapore’s ban on vapes,
-which is to protect the public from the harms of emerging tobacco products.
-This also&nbsp;aligns with NCADA’s harm prevention approach to substance
-abuse.&nbsp;</p>
