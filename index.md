@@ -25,6 +25,16 @@ sections:
           url: /publications/
       background: /images/KEEPING_A_DRUG_FREE_SOCIETY.png
   - infopic:
+      title: Addicted - The Cannabis Trap
+      subtitle: Newsroom
+      id: infopic
+      description: In this CNA documentary, NCADA members share insights from their
+        anti-drug advocacy work with youths and counselling experience.
+      button: Watch
+      url: https://www.channelnewsasia.com/watch/addicted/cannabis-trap-5146341
+      image: /images/cna2505.png
+      alt: NCADA members on Addicted
+  - infopic:
       title: NCADA Annual Report 2024
       subtitle: Publication
       button: Read now
