@@ -21,7 +21,7 @@ sections:
           description: Grants & Advocacy
           url: /drugfreesg-cause/
         - title: Publications
-          description: Annual Reports and Newsletters
+          description: Annual Reports
           url: /publications/
       background: /images/KEEPING_A_DRUG_FREE_SOCIETY.png
   - infopic:
