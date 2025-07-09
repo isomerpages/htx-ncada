@@ -72,7 +72,7 @@ View Residential College, National University of Singapore</p>
 </li>
 <li>
 <p><strong>Mr Patrick Kho</strong>
-<br>Chairman and CEO, Arc Corporation</p>
+<br>Group Managing Director, Arc Corporation Pte Ltd</p>
 </li>
 <li>
 <p><strong>Mr Peter Ong</strong>
@@ -80,7 +80,7 @@ View Residential College, National University of Singapore</p>
 </li>
 <li>
 <p><strong>Mr S B Viknesan</strong>
-<br>Senior Counsellor, National Addictions Management Service (NAMS), Institute
+<br>Principal Counsellor, National Addictions Management Service (NAMS), Institute
 of Mental Health</p>
 </li>
 <li>
