@@ -72,7 +72,7 @@ View Residential College, National University of Singapore</p>
 </li>
 <li>
 <p><strong>Mr Patrick Kho</strong>
-<br>Group Managing Director, Lian Huat Group</p>
+<br>Chairman and CEO, Arc Corporation</p>
 </li>
 <li>
 <p><strong>Mr Peter Ong</strong>
