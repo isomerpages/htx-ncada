@@ -17,15 +17,15 @@ description: ""
 <p>Date</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Article</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Title</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Link</p>
 </td>
 </tr>
 <tr>
