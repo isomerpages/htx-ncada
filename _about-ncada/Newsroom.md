@@ -96,7 +96,7 @@ NewsAsia)</p>
 <p>25 Jun 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://cms.isomer.gov.sg/files/World_Drug_Day_2025_Message.pdf" rel="noopener nofollow" target="_blank">World Drug Day 2025 Message</a>
+<p><a href="/files/World_Drug_Day_2025_Message.pdf" rel="noopener nofollow" target="_blank">World Drug Day 2025 Message</a>
 </p>
 </td>
 </tr>
