@@ -13,10 +13,11 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7 Jul</p>
+<p>7 Jul 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.zaobao.com.sg/forum/views/story20250707-7085238" rel="noopener nofollow" target="_blank">Family dialogue is key to preventing drug abuse among youth</a> (Lianhe
+Zaobao)</p>
 </td>
 </tr>
 <tr>
@@ -90,6 +91,15 @@ NewsAsia)</p>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25 Jun 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://cms.isomer.gov.sg/files/World_Drug_Day_2025_Message.pdf" rel="noopener nofollow" target="_blank">World Drug Day 2025 Message</a>
+</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>6 Feb 2025</p>
