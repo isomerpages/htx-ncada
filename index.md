@@ -33,7 +33,7 @@ sections:
         anti-drug advocacy work with youths and counselling experience.
       button: Watch
       url: https://www.channelnewsasia.com/watch/addicted/cannabis-trap-5146341
-      image: /images/cna2505.png
+      image: /images/Screenshot_2025_07_18_171640.png
       alt: NCADA members on Addicted
   - infopic:
       title: NCADA Annual Report 2024
