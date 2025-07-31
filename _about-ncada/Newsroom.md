@@ -230,3 +230,18 @@ advocates say it's time to fight back smarter</div>
 <hr>
 <h4>Media Releases</h4>
 <p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.ncada.org.sg/files/MR_New_Council_2025_2027.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="NCADA Welcomes New Council to Champion a Drug-Free Singapore for 2025–2027" src="/images/Screenshot_2025_07_31_174814.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">NCADA Welcomes New Council to Champion a Drug-Free Singapore for 2025–2027</div><div class="isomer-card-link">Read here</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.ncada.org.sg/files/World_Drug_Day_2025_Message.pdf" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="World Drug Day 2025: Talking to your children about drugs isn’t easy, but it matters more than ever" src="/images/Screenshot_2025_07_31_175336.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">World Drug Day 2025:Talking to your children about drugs isn’t easy, but
+it matters more than ever</div>
+<div class="isomer-card-link">Read here</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<p></p>
