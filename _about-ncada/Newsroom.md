@@ -13,6 +13,51 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p>25 Jul 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.straitstimes.com/opinion/forum/forum-safeguarding-society-from-drug-scourge-a-collective-responsibility?fbclid=IwZXh0bgNhZW0CMTEAAR4cnyhNbH3744L5IfuqFyc_26-_yrlIpTlUAVJkKKfEbrJ6NHZEqNOTuizsHA_aem_Nt3Fb-lD83Guq6YnL-NRUA" rel="noopener noreferrer nofollow" target="_blank">Forum: Safeguarding society from drug scourge a collective responsibility | The Straits Times</a> (Straits
+Times)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21 Jul 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.channelnewsasia.com/singapore/etomidate-k-pods-vaping-cna-explains-5249546" rel="noopener noreferrer nofollow" target="_blank">CNA Explains: Why Singapore wants to ban etomidate</a> (Channel
+NewsAsia)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18 Jul 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.straitstimes.com/opinion/is-your-child-getting-drawn-to-drugs-dont-look-away-and-dont-give-up?fbclid=IwZXh0bgNhZW0CMTEAAR6JwJ-ChtwQOlAjF087q55dwlMP0wKEKKJo3UY2Bl08z79POYcxCsT0kgbNXg_aem_MgHmg2objg9-FUtrx8Ihhg" rel="noopener noreferrer nofollow" target="_blank">Is your child getting drawn to drugs? Don’t look away and don’t give up | The Straits Times</a> (Straits
+Times)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14 Jul 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.tamilmurasu.com.sg/singapore/drug-eradication-family-affection-outweighs-punishments?fbclid=IwY2xjawL4A9NleHRuA2FlbQIxMQABHspRdJ2ihac9zQKbmNV46UvA8NRarQ8xeswD9Ng7WbVlptZb-dzFVKnqWsYO_aem_hZT7p2c9vgAw6HEp2CeMEQ" rel="noopener noreferrer nofollow" target="_blank">போதைப்பொருள் பயன்பாட்டை ஒழிக்கக் குடும்பத்தினர் கலந்துரையாடுவது மிக அவசியம், சிங்க‌ப்பூர் செய்திகள் - தமிழ் முரசு Singapore News in Tamil, Tamil Murasu</a> (Tamil
+Murasu)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13 Jul 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.beritaharian.sg/wacana/perbualan-bersama-anak-kunci-cegah-salah-guna-dadah?fbclid=IwZXh0bgNhZW0CMTEAAR41tL1cxi0UhbGANU7usITYUFaicdq4Yv4NiZD9wKs8SuVJQEudLZMPbSQ7rw_aem_4kdLT1-nh87efN_n8cKytw" rel="noopener noreferrer nofollow" target="_blank">Perbualan bersama anak kunci cegah salah guna dadah , Berita Wacana - Beritaharian.sg</a> (Berita
+Harian)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>7 Jul 2025</p>
 </td>
 <td rowspan="1" colspan="1">
