@@ -228,19 +228,5 @@ advocates say it's time to fight back smarter</div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.straitstimes.com/opinion/forum/forum-safeguarding-society-from-drug-scourge-a-collective-responsibility?fbclid=IwZXh0bgNhZW0CMTEAAR4cnyhNbH3744L5IfuqFyc_26-_yrlIpTlUAVJkKKfEbrJ6NHZEqNOTuizsHA_aem_Nt3Fb-lD83Guq6YnL-NRUA" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Forum: Safeguarding society from drug scourge a collective responsibility" src="/images/Screenshot_2025_07_31_171431.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Forum: Safeguarding society from drug scourge a collective responsibility</div><div class="isomer-card-link">https://www.straitstimes.com/opinion/forum/forum-safeguarding-society-from-drug-scourge-a-collective-responsibility?fbclid=IwZXh0bgNhZW0CMTEAAR4cnyhNbH3744L5IfuqFyc_26-_yrlIpTlUAVJkKKfEbrJ6NHZEqNOTuizsHA_aem_Nt3Fb-lD83Guq6YnL-NRUA</div></div></a>
 </div>
 <hr>
-<h4>Media Releases</h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-</div>
+<h4>Media Releases </h4>
 <p></p>
