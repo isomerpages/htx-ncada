@@ -218,7 +218,7 @@ advocates say it's time to fight back smarter</div>
 <a rel="noopener noreferrer nofollow" href="https://www.facebook.com/capital958/videos/1306764767210400" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Facebook: Mediacorp CAPITAL 958 城市频道: 青少年该如何向毒品说：“不”" src="/images/Screenshot_2025_07_31_163656.png">
+<img style="width: 100%" height="auto" width="100%" alt="Facebook: Mediacorp CAPITAL 958 城市频道: 青少年该如何向毒品说：“不”" src="/images/Screenshot_2025_08_01_115900.png">
 </div>
 </div>
 <div class="isomer-card-body">
