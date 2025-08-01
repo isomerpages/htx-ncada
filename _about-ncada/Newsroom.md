@@ -38,7 +38,7 @@ description: ""
 <div class="isomer-card-title">陈聪发：预防青少年滥用毒品重在家庭对话</div>
 <div class="isomer-card-link">Read here:</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.melisten.sg/podcast/playlist/Family-Ties-2592636/The-power-of-parent-child-conversations--Dr-Adrian-Loh--Member-of-the-National-Council-Against-Drug-Abuse-and-Senior-Consultant-Psychiatrist--Promises-Healthcare---2963166" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The power of parent-child conversations" src="/images/Screenshot_2025_07_31_165535.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The power of parent-child conversations</div><div class="isomer-card-link">Read here:</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.melisten.sg/podcast/playlist/Family-Ties-2592636/The-power-of-parent-child-conversations--Dr-Adrian-Loh--Member-of-the-National-Council-Against-Drug-Abuse-and-Senior-Consultant-Psychiatrist--Promises-Healthcare---2963166" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The power of parent-child conversations" src="/images/Screenshot_2025_08_01_122010.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The power of parent-child conversations</div><div class="isomer-card-link">Read here:</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.channelnewsasia.com/watch/addicted/cannabis-trap-5146341" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
