@@ -10,7 +10,43 @@ description: Learn about the dangers of vaping, including kpods/etomidate-laced
 vapes, presents a serious concern for Singapore's youth. These devices,
 often marketed as 'trendy' alternatives, can contain harmful substances
 that pose significant health risks.</p>
+<h4>Health Risks of Vaping</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_08_19_160309.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_08_19_160448.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_08_19_160822.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_08_19_161005.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>For official regulations and health advisories on vaping, please refer
 to HSA and MOH websites: <a href="https://www.healthhub.sg/programmes/iquit/e-cig" rel="noopener nofollow" target="_blank">https://www.healthhub.sg/programmes/iquit/e-cig</a>
 </p>
