@@ -48,7 +48,6 @@ can contain harmful substances that pose significant health risks.</p>
 </tbody>
 </table>
 <h4>For Support</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_08_19_161109.png">
 </div>
