@@ -6,6 +6,7 @@ description: Learn about the dangers of vaping, including kpods/etomidate-laced
   vapes. Access resources to prevent vaping in Singapore.
 ---
 <h2><strong>Vaping: A Growing Concern</strong></h2>
+<h3>Overview</h3>
 <p>With the increasing prevalence of vaping among youth and the recent detection
 of etomidate in these devices, NCADA supports national efforts to create
 a vape-free Singapore. These devices, often marketed as 'trendy' alternatives,
@@ -14,8 +15,6 @@ can contain harmful substances that pose significant health risks.</p>
 support services, and resources for parents, visit the national Stop Vaping
 microsite: <a href="https://www.gov.sg/stopvaping?ref=inline-article" rel="noopener nofollow" target="_blank">https://www.gov.sg/stopvaping?ref=inline-article</a>
 </p>
-<h3>Overview</h3>
-<p>x</p>
 <h4>Health Risks of Vaping</h4>
 <table style="minWidth: 50px">
 <colgroup>
