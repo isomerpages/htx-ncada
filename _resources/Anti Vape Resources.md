@@ -57,7 +57,7 @@ can contain harmful substances that pose significant health risks.</p>
 support services, and resources for parents, visit the national Stop Vaping
 microsite: <a href="https://www.gov.sg/stopvaping?ref=inline-article" rel="noopener nofollow" target="_blank">https://www.gov.sg/stopvaping?ref=inline-article</a>
 </p>
-<p>For health information and quitting resources, visit HealthHub's e-cigarettes
-page, please refer to HealthHub's e-cigarettes page: <a href="https://www.healthhub.sg/programmes/iquit/e-cig" rel="noopener nofollow" target="_blank">https://www.healthhub.sg/programmes/iquit/e-cig</a>
+<p>For health information and quitting resources, please refer to HealthHub's
+e-cigarettes page: <a href="https://www.healthhub.sg/programmes/iquit/e-cig" rel="noopener nofollow" target="_blank">https://www.healthhub.sg/programmes/iquit/e-cig</a>
 </p>
 <p></p>
