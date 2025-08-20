@@ -61,3 +61,5 @@ microsite: <a href="https://www.gov.sg/stopvaping?ref=inline-article" rel="noope
 e-cigarettes page: <a href="https://www.healthhub.sg/programmes/iquit/e-cig" rel="noopener nofollow" target="_blank">https://www.healthhub.sg/programmes/iquit/e-cig</a>
 </p>
 <p></p>
+<p>Source: Health Promotion Board, 2025</p>
+<p></p>
