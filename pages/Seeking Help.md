@@ -73,12 +73,12 @@ behaviours, etc.)
 <br>Email: <a href="mailto:familyservices@thkmc.org.sg" rel="noopener noreferrer nofollow" target="_blank">familyservices@thkmc.org.sg</a>
 </p>
 <p><strong>Women in Recovery Association (WIRA)</strong>
-<br>Counselling and support service for women who are ex-offenders
+<br>Counselling and support service for women who are ex-offenders.
 <br>Call: 8339 7690
 <br>Email: <a href="mailto:admin@wira.org.sg" rel="noopener noreferrer nofollow" target="_blank">admin@wira.org.sg</a>
 </p>
 <p><strong>The Green House</strong>
-<br>Recovery centre for marginalised and vulnerable communities
+<br>Recovery centre for marginalised and vulnerable communities.
 <br>Website: <a href="https://thegreenhouse.sg/contact-us" rel="noopener nofollow" target="_blank">https://thegreenhouse.sg/contact-us</a>
 </p>
 <p><strong>Narcotics Anonymous Singapore</strong>
