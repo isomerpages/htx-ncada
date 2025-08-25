@@ -57,7 +57,6 @@ behaviours, etc.)
 <br>Website: <a href="https://www.wecare.org.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.wecare.org.sg/</a>
 </p>
 <p><strong>Allkin</strong>
-<br>Call: 6038 4420
 <br>Website: <a href="https://www.allkin.org.sg/connect/get-in-touch" rel="noopener nofollow" target="_blank">https://www.allkin.org.sg/connect/get-in-touch</a>
 </p>
 <p><strong>Fei Yue Community Services</strong>
