@@ -58,8 +58,7 @@ behaviours, etc.)
 </p>
 <p><strong>Allkin</strong>
 <br>Call: 6038 4420
-<br>Email: <a href="mailto:restorativeservice@allkin.org.sg" rel="noopener noreferrer nofollow" target="_blank">restorativeservice@allkin.org.sg</a> 
-<br>Website: <a href="https://www.allkin.org.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.allkin.org.sg/</a>
+<br>Website: <a href="https://www.allkin.org.sg/connect/get-in-touch" rel="noopener nofollow" target="_blank">https://www.allkin.org.sg/connect/get-in-touch</a>
 </p>
 <p><strong>Fei Yue Community Services</strong>
 <br>Call: 6050 1216 or 6546 7460
