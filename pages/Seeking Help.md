@@ -52,7 +52,7 @@ helpline.
 <p><strong>WE CARE Community Services Ltd</strong>
 <br>Community drop-in centre for addiction treatment (drugs, alcohol, compulsive
 behaviours, etc.)
-<br>Call: 3165 8017 (10am-6pm, Mon - Fri)
+<br>Call: 3165 8017 / 8391 3023<strong> </strong>(10am-6pm, Mon - Fri)
 <br>Email: <a href="mailto:help@wecare.org.sg" rel="noopener noreferrer nofollow" target="_blank">help@wecare.org.sg</a> 
 <br>Website: <a href="https://www.wecare.org.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.wecare.org.sg/</a>
 </p>
