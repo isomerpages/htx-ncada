@@ -32,7 +32,7 @@ helpline.
 </p>
 <h4>Community Support</h4>
 <p><strong>MSF Family Service Centres</strong>
-<br>Find an FSC near you: <a href="https://www.msf.gov.sg/dfcs/familyservice/default.aspx" rel="noopener noreferrer nofollow" target="_blank">https://www.msf.gov.sg/dfcs/familyservice/default.aspx</a>
+<br>Find an FSC near you: <a href="https://www.msf.gov.sg/our-services/directories" rel="noopener nofollow" target="_blank">https://www.msf.gov.sg/our-services/directories</a>
 </p>
 <p><strong>TOUCH Family Support</strong>
 <br>Enabling and empowering vulnerable families.
