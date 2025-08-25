@@ -83,5 +83,5 @@ behaviours, etc.)
 </p>
 <p><strong>Narcotics Anonymous Singapore</strong>
 <br>Call: 8405 8432
-<br>Email: <a href="mailto:publicinfo@nasingapore.org" rel="noopener noreferrer nofollow" target="_blank">publicinfo@nasingapore.org</a>
+<br>Email: <a href="publicinfo@nasingapore.org" rel="noopener nofollow" target="_blank">publicinfo@nasingapore.org</a>
 </p>
