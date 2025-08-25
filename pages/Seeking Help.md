@@ -61,7 +61,7 @@ behaviours, etc.)
 </p>
 <p><strong>Fei Yue Community Services</strong>
 <br>Call: 6050 1216 or 6546 7460
-<br>Website: <a href="https://fycs.org/" rel="noopener noreferrer nofollow" target="_blank">https://fycs.org/</a>
+<br>Website: <a href="https://fycs.org/contact/" rel="noopener nofollow" target="_blank">https://fycs.org/contact/</a>
 </p>
 <p><strong>Singapore Aftercare Association (SACA)</strong>
 <br>Call: 6294 2350 or 6294 2763
