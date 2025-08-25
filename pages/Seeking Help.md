@@ -78,9 +78,8 @@ behaviours, etc.)
 <br>Email: <a href="mailto:admin@wira.org.sg" rel="noopener noreferrer nofollow" target="_blank">admin@wira.org.sg</a>
 </p>
 <p><strong>The Green House</strong>
-<br>Recovery centre for marginalised and vulnerable communities.
-<br>Email: info@thegreenhouse.sg
-<br>Website : <a href="https://thegreenhouse.sg/" rel="noopener noreferrer nofollow" target="_blank">https://thegreenhouse.sg/</a>
+<br>Recovery centre for marginalised and vulnerable communities
+<br>Website: <a href="https://thegreenhouse.sg/contact-us" rel="noopener nofollow" target="_blank">https://thegreenhouse.sg/contact-us</a>
 </p>
 <p><strong>Narcotics Anonymous Singapore</strong>
 <br>Call: 8405 8432
