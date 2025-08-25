@@ -14,8 +14,8 @@ school-dropouts, delinquents, crisis counselling.
 <p><strong>Youthline</strong>
 <br>For young people with interpersonal, family, stress/depression/anxiety
 and sex-related problems.
-<br>Call: 6436 6612 (9am - 12am, daily)
-<br>Text: 8533 9460 (9am - 12am, daily)
+<br>Call: 3158 2156 / 6436 6612 (9am - 12am, daily)
+<br>Text: 3158 2164 / 8533 9460 (9am - 12am, daily)
 <br>Email: <a href="mailto:hello@youthline.sg" rel="noopener noreferrer nofollow" target="_blank">hello@youthline.sg</a> 
 <br>Website: <a href="https://youthline.sg/" rel="noopener noreferrer nofollow" target="_blank">https://youthline.sg/</a>
 </p>
