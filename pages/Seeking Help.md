@@ -42,7 +42,7 @@ helpline.
 <h4>Recovery and Addiction Support</h4>
 <p><strong>Singapore Anti-Narcotics Association</strong>
 <br><a href="https://www.sana.org.sg/step-up-centre/" rel="noopener noreferrer nofollow" target="_blank">https://www.sana.org.sg/step-up-centre/</a> 
-<br>Call: Tel : 6732 1122 (ext.5200) / 6385 0649
+<br>Call: Tel : 6732 1122 (ext.5200)
 <br>Email: <a href="mailto:stepup.sk@sana.org.sg" rel="noopener noreferrer nofollow" target="_blank">stepup.sk@sana.org.sg</a>
 </p>
 <p><strong>National Addictions Management Service</strong>
