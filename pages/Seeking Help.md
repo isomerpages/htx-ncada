@@ -46,7 +46,7 @@ helpline.
 <br>Email: <a href="sana@sana.org.sg" rel="noopener nofollow" target="_blank">sana@sana.org.sg</a>
 </p>
 <p><strong>National Addictions Management Service</strong>
-<br>All Addictions Helpline: 1771
+<br>National Mindline: 1771
 <br>Book an Appointment: <a href="https://www.nams.sg/contact-us/Pages/default.aspx" rel="noopener noreferrer nofollow" target="_blank">https://www.nams.sg/contact-us/Pages/default.aspx</a>
 </p>
 <p><strong>WE CARE Community Services Ltd</strong>
