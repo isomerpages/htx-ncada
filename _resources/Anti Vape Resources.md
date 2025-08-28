@@ -7,10 +7,10 @@ description: Learn about the dangers of vaping, including kpods/etomidate-laced
 ---
 <h2>Vaping: A Growing Concern</h2>
 <h3><strong>Overview</strong></h3>
-<p>With the increasing prevalence of vaping among youth and the recent detection
-of etomidate in these devices, NCADA supports national efforts to create
-a vape-free Singapore. These devices, often marketed as 'trendy' alternatives,
-can contain harmful substances that pose significant health risks.</p>
+<p>Recent trends have emerged of e-vaporisers becoming a delivery device
+for a range of even more harmful substances, like etomidate and controlled
+drugs. NCADA is concerned that these products are often deliberately designed
+to appeal to youth, with attractive packaging and marketing.</p>
 <h4><strong>Health Risks of Vaping</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
