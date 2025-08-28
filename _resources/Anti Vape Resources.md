@@ -13,7 +13,7 @@ drugs. NCADA is concerned that these products are often deliberately designed
 to appeal to youth, with attractive packaging and marketing.</p>
 <h4><strong>Health Risks of Vaping</strong></h4>
 <p>Learn more about the health harms of vaping through these resources from
-the Health Promotion Board [insert URL to their microsite].</p>
+the Health Promotion Board [<a href="https://www.gov.sg/stopvaping?ref=inline-article" rel="noopener noreferrer nofollow" target="_blank">Stop Vaping | gov.sg</a>].</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
