@@ -50,8 +50,6 @@ the Health Promotion Board [<a href="https://www.healthhub.sg/programmes/iquit/e
 </tr>
 </tbody>
 </table>
-<p><em>Source: Health Promotion Board, 2025</em>
-</p>
 <h4><strong>For Support</strong></h4>
 <p>For comprehensive information on vaping, including disposal locations,
 support services, and resources for parents, visit the national Stop Vaping
