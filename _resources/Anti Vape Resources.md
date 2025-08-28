@@ -9,8 +9,8 @@ description: Learn about the dangers of vaping, including kpods/etomidate-laced
 <h3><strong>Overview</strong></h3>
 <p>Recent trends have emerged of e-vaporisers becoming a delivery device
 for a range of even more harmful substances, like etomidate and controlled
-drugs. NCADA is concerned that these products are often deliberately designed
-to appeal to youth, with attractive packaging and marketing.</p>
+drugs. It is also concerning that these products are often deliberately
+designed to appeal to youth, with attractive packaging and marketing.</p>
 <h4><strong>Health Risks of Vaping</strong></h4>
 <p>Learn more about the health harms of vaping through these resources from
 the Health Promotion Board [<a href="https://www.healthhub.sg/programmes/iquit/e-cig/" rel="noopener nofollow" target="_blank">https://www.healthhub.sg/programmes/iquit/e-cig/</a>].</p>
