@@ -12,6 +12,8 @@ for a range of even more harmful substances, like etomidate and controlled
 drugs. NCADA is concerned that these products are often deliberately designed
 to appeal to youth, with attractive packaging and marketing.</p>
 <h4><strong>Health Risks of Vaping</strong></h4>
+<p>Learn more about the health harms of vaping through these resources from
+the Health Promotion Board [insert URL to their microsite].</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
