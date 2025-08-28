@@ -51,16 +51,9 @@ the Health Promotion Board [<a href="https://www.gov.sg/stopvaping?ref=inline-ar
 </tbody>
 </table>
 <h4><strong>For Support</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_08_19_161109.png">
-</div>
-<h4><strong>Additional Resources:</strong></h4>
 <p>For comprehensive information on vaping, including disposal locations,
 support services, and resources for parents, visit the national Stop Vaping
 microsite: <a href="https://www.gov.sg/stopvaping?ref=inline-article" rel="noopener nofollow" target="_blank">https://www.gov.sg/stopvaping?ref=inline-article</a>
-</p>
-<p>For health information and quitting resources, please refer to HealthHub's
-e-cigarettes page: <a href="https://www.healthhub.sg/programmes/iquit/e-cig" rel="noopener nofollow" target="_blank">https://www.healthhub.sg/programmes/iquit/e-cig</a>
 </p>
 <p></p>
 <p>Source: Health Promotion Board, 2025</p>
