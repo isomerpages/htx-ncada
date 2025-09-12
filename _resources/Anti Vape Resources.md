@@ -5,13 +5,13 @@ variant: tiptap
 description: Learn about the dangers of vaping, including kpods/etomidate-laced
   vapes. Access resources to prevent vaping in Singapore.
 ---
-<p>E-vaporisers and vaping are illegal in Singapore. Recent trends have emerged
-of e-vaporisers becoming a delivery device for a range of even more harmful
-substances, like etomidate and controlled drugs. It is also concerning
-that these products are often deliberately designed to appeal to youth,
-with attractive packaging and marketing.</p>
-<p><strong>Health Risks of Vaping</strong>
+<p>E-vaporisers and vaping are illegal in Singapore. Recent trends show these
+devices being used to deliver harmful substances like etomidate and other
+controlled drugs. These products are deliberately designed to appeal to
+youth through attractive packaging and marketing.</p>
+<p><strong>NCADA supports the Government's classification of etomidate as a Class C controlled drug to protect our youth from dangerous products like 'Kpods'. Despite their fruity flavours and trendy packaging, these products pose serious health risks including seizures, psychosis, and addiction.</strong>
 </p>
+<h4><strong>Health Risks of Vaping</strong></h4>
 <p>Learn more about the health harms of vaping through these resources from
 the Health Promotion Board: <a href="https://www.healthhub.sg/programmes/iquit/e-cig/" rel="noopener nofollow" target="_blank">https://www.healthhub.sg/programmes/iquit/e-cig/</a>.</p>
 <table style="minWidth: 50px">
