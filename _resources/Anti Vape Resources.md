@@ -11,7 +11,6 @@ controlled drugs. These products are deliberately designed to appeal to
 youth through attractive packaging and marketing.</p>
 <p><strong>NCADA applauds the move to classify etomidate as a Class C controlled drug under the Misuse of Drugs Act (MDA) as an interim measure, pending the Ministry of Health’s development of more appropriate legislation.</strong>
 </p>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.straitstimes.com/opinion/forum/forum-safeguarding-society-from-drug-scourge-a-collective-responsibility?fbclid=IwZXh0bgNhZW0CMTEAAR6u2-ergtFMbS1S_-X2mvRbeepcAswOSDEHzBvCrqx5zjlL0xkrxUVcDVkyHg_aem_4g88WKs-ic8oI7QoCjOR7g" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Say No to Vape" src="/images/Screenshot_2025_09_12_131442.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Forum: Safeguarding society from drug scourge a collective responsibility</div><div class="isomer-card-description">The recent rise in the abuse of drug-laced vapes and products such as “Kpods” is troubling. These products may appear harmless but contain harmful substances such as synthetic cannabinoids, cocaine, and pharmaceutical drugs like etomidate, which are not intended for recreational use.</div><div class="isomer-card-link">Read more</div></div></a>
 </div>
 <h4><strong>Health Risks of Vaping</strong></h4>
