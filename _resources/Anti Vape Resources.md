@@ -9,7 +9,7 @@ description: Learn about the dangers of vaping, including kpods/etomidate-laced
 devices being used to deliver harmful substances like etomidate and other
 controlled drugs. These products are deliberately designed to appeal to
 youth through attractive packaging and marketing.</p>
-<p><strong>NCADA supports the Government's classification of etomidate as a Class C controlled drug to protect our youth from these dangerous products. </strong>
+<p><strong>NCADA supports the Government's classification of etomidate as a Class C controlled drug to protect our youth from these dangerous products: </strong>
 </p>
 <h4><strong>Health Risks of Vaping</strong></h4>
 <p>Learn more about the health harms of vaping through these resources from
