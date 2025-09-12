@@ -5,7 +5,18 @@ variant: tiptap
 description: ""
 ---
 <h4>Media Mentions</h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.straitstimes.com/opinion/forum/forum-safeguarding-society-from-drug-scourge-a-collective-responsibility?fbclid=IwZXh0bgNhZW0CMTEAAR4cnyhNbH3744L5IfuqFyc_26-_yrlIpTlUAVJkKKfEbrJ6NHZEqNOTuizsHA_aem_Nt3Fb-lD83Guq6YnL-NRUA" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Forum: Safeguarding society from drug scourge a collective responsibility" src="/images/Screenshot_2025_07_31_171431.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Forum: Safeguarding society from drug scourge a collective responsibility</div><div class="isomer-card-link">Read here:</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.beritaharian.sg/wacana/pandangan/ncada-sokong-langkah-pemerintah-klasifikasi-etomidate-dadah-terkawal?fbclid=IwY2xjawMwoilleHRuA2FlbQIxMQABHscM3A3VeAxur6LWDnR1SY_EzexPtk6zwEhENNt0xuAqqJr9Tjvh6ysmOzrm_aem_wdd5SSu9Ki1kyjMA5z3QSg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Say no to vape" src="/images/Screenshot_2025_09_12_145223.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ncada sokong langkah pemerintah klasifikasi etomidate sebagai dadah terkawal</div><div class="isomer-card-link">Read here:</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.zaobao.com.sg/forum/talk/story20250731-7248700?fbclid=IwZXh0bgNhZW0CMTEAAR6DT6t1KQU522c0nZc4d8iPKb7MZKpFmnt8YfrLKlc7fvOn9KyZJYAnfBzDvw_aem_5mBowwfelSynpYAxHARK3g" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="in The Vape" src="/images/Screenshot_2025_09_12_144843.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">交流站：支持将依托咪酯列为受管制毒</div>
+<div class="isomer-card-link">Read here:</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.straitstimes.com/opinion/forum/forum-safeguarding-society-from-drug-scourge-a-collective-responsibility?fbclid=IwZXh0bgNhZW0CMTEAAR4cnyhNbH3744L5IfuqFyc_26-_yrlIpTlUAVJkKKfEbrJ6NHZEqNOTuizsHA_aem_Nt3Fb-lD83Guq6YnL-NRUA" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Forum: Safeguarding society from drug scourge a collective responsibility" src="/images/Screenshot_2025_07_31_171431.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Forum: Safeguarding society from drug scourge a collective responsibility</div><div class="isomer-card-link">Read here:</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.channelnewsasia.com/singapore/etomidate-k-pods-vaping-cna-explains-524954" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
