@@ -12,9 +12,9 @@ variant: markdown
 
 	
 	        
-The _What’s Your Fix?_ campaign  ran from 2022 to 2023. The first phase of the campaign kicked off on 23 Sep 2022 with a TikTok-exclusive series called #FindingJuliana, and a virtual livestream TikTok event in Oct 2022 with ex-abusers and key opinion leaders. This is the first time that CNB and NCADA had partnered with TikTok.
+The _What’s Your Fix?_ campaign  ran from 2022 to 2023. The first phase of the campaign kicked off on 23 Sep 2022 with a TikTok-exclusive series called [#FindingJuliana](https://www.tiktok.com/@whatsyourfixsg), and a virtual livestream TikTok event in Oct 2022 with ex-abusers and key opinion leaders. This is the first time that CNB and NCADA had partnered with TikTok.
 
-The second phase of the campaign saw the release of a documentary series titled _What’s Your Fix?: On the Mend_, hosted by one of the actors of #FindingJuliana and which featured young individuals who had abused drugs or had family who abused drugs, and had to deal with the consequences of drug abuse. #FindingJuliana was based in part on their stories.
+The second phase of the campaign saw the release of a documentary series titled [What’s Your Fix?: On the Mend](https://www.youtube.com/playlist?list=PLIfokjWNDqj7WHeOf-_9tvs7gdHeJlqCS), hosted by one of the actors of #FindingJuliana and which featured young individuals who had abused drugs or had family who abused drugs, and had to deal with the consequences of drug abuse. #FindingJuliana was based in part on their stories.
 
 ![](/images/Screenshot_2025_07_18_173500.png)
 
