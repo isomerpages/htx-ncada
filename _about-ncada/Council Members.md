@@ -16,12 +16,12 @@ variant: tiptap
 <br>Chairman, Victoria AM Pte Limited</p>
 </li>
 <li>
-<p><strong>Mr Ahmad Firdaus Bin Daud</strong>
-<br>APAC General Counsel, Avaya LLC</p>
+<p><strong>Dr Jimmy Lee </strong>- <em>2nd Vice-Chairman</em><strong> </strong>
+<br>Senior Consultant, Institute of Mental Health</p>
 </li>
 <li>
-<p><strong>Dr Jimmy Lee</strong>
-<br>Senior Consultant, Institute of Mental Health</p>
+<p><strong>Mr Ahmad Firdaus Bin Daud</strong>
+<br>APAC General Counsel, Avaya LLC</p>
 </li>
 <li>
 <p><strong>Mr Nicholas Gabriel Lim</strong>
