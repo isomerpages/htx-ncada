@@ -56,7 +56,7 @@ View Residential College, National University of Singapore</p>
 </li>
 <li>
 <p><strong>Ms Hazlina Abdul Halim</strong>
-<br>Chief Executive Officer, Make-A-Wish Singapore</p>
+<br>Member of Parliament for East Coast GRC</p>
 </li>
 <li>
 <p><strong>Dr Lal Nelson</strong>
