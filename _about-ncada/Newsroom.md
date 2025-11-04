@@ -5,7 +5,19 @@ variant: tiptap
 description: ""
 ---
 <h4>Media Mentions</h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.channelnewsasia.com/watch/drug-prevention-programmes-in-singapore-include-vaping-5336876?fbclid=IwY2xjawMwo3JleHRuA2FlbQIxMQABHqlWdx0zJwewayztnqnUq3siF2hGfyLeeG6eo6b4MzpcPirjllFSWzgVAYhl_aem_7fk909Z-YIqujfNp-tU5PA" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="NCADA Chairman Tan Chong Huat" src="/images/Screenshot_2025_09_12_145942.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Drug prevention programmes in Singapore to include vaping</div><div class="isomer-card-link">Read here:</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://aplussingapore.com/article/dr-chew-tuan-chiong-national-council-against-drug-abuse?fbclid=IwY2xjawN2cRRleHRuA2FlbQIxMQABHlbxZtNlO4DYahcilOIsqAtKmTjZ8kvG2q5eh2JaVk1CCSaebQSHdvE7lCh3_aem_J_ewC-IlBM-_E-Vyzv7YLg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr Chew Tuan Chiong Keeps Our Streets Drug Fre" src="/images/Screenshot_2025_11_04_133855.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Chew Tuan Chiong Keeps Our Streets Drug Free</div><div class="isomer-card-link">Read here:</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.channelnewsasia.com/watch/nine-in-10-youths-say-talks-parents-saved-them-drugs-5378041?fbclid=IwY2xjawN2b5VleHRuA2FlbQIxMQABHgY6Hpl5owFg0aw5dCcJwJtEwu-S5ThpnUWb1tMEHKJ19JaqqM9YyiPPuDsC_aem_938reTyE3M5GF8dJRcJSBQRead" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Nine in 10 youths say talks with parents saved them from dru" src="/images/Screenshot_2025_11_04_133545.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Nine in 10 youths say talks with parents saved them from drugThis is a
+title for your card</div>
+<div class="isomer-card-link">Read here:</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.channelnewsasia.com/watch/drug-prevention-programmes-in-singapore-include-vaping-5336876?fbclid=IwY2xjawMwo3JleHRuA2FlbQIxMQABHqlWdx0zJwewayztnqnUq3siF2hGfyLeeG6eo6b4MzpcPirjllFSWzgVAYhl_aem_7fk909Z-YIqujfNp-tU5PA" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="NCADA Chairman Tan Chong Huat" src="/images/Screenshot_2025_09_12_145942.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Drug prevention programmes in Singapore to include vaping</div><div class="isomer-card-link">Read here:</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.beritaharian.sg/wacana/pandangan/ncada-sokong-langkah-pemerintah-klasifikasi-etomidate-dadah-terkawal?fbclid=IwY2xjawMwoilleHRuA2FlbQIxMQABHscM3A3VeAxur6LWDnR1SY_EzexPtk6zwEhENNt0xuAqqJr9Tjvh6ysmOzrm_aem_wdd5SSu9Ki1kyjMA5z3QSg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
