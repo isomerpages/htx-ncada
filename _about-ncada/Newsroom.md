@@ -13,8 +13,7 @@ description: ""
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Nine in 10 youths say talks with parents saved them from drugThis is a
-title for your card</div>
+<div class="isomer-card-title">Nine in 10 youths say talks with parents saved them from drug</div>
 <div class="isomer-card-link">Read here:</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.channelnewsasia.com/watch/drug-prevention-programmes-in-singapore-include-vaping-5336876?fbclid=IwY2xjawMwo3JleHRuA2FlbQIxMQABHqlWdx0zJwewayztnqnUq3siF2hGfyLeeG6eo6b4MzpcPirjllFSWzgVAYhl_aem_7fk909Z-YIqujfNp-tU5PA" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="NCADA Chairman Tan Chong Huat" src="/images/Screenshot_2025_09_12_145942.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Drug prevention programmes in Singapore to include vaping</div><div class="isomer-card-link">Read here:</div></div></a>
