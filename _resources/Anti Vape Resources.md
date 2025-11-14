@@ -44,4 +44,12 @@ the Health Promotion Board: <a href="https://www.healthhub.sg/programmes/iquit/e
 support services, and resources for parents, visit the national Stop Vaping
 microsite: <a href="https://www.gov.sg/stopvaping?ref=inline-article" rel="noopener nofollow" target="_blank">https://www.gov.sg/stopvaping</a>
 </p>
+<p><strong>For Parents - Tips on Discussing Vaping</strong>
+</p>
+<p>Learn how to have open conversations with your child about vaping through
+casual, curious, and candid approaches. Access practical guidance and download
+the Parent's Guide on Vaping for conversation starters and tips: <a href="https://www.gov.sg/stopvaping-support-parents/" rel="noopener noreferrer nofollow" target="_blank">For Parents - Tips on Discussing Vaping with your Child | gov.sg</a> and
+<a href="https://familiesforlife.sg/pages/parents-guide-on-vaping" rel="noopener noreferrer nofollow" target="_blank">Parents Guide on Vaping</a>
+</p>
+<p></p>
 <p></p>
