@@ -60,11 +60,7 @@ View Residential College, National University of Singapore</p>
 </li>
 <li>
 <p><strong>Dr Lal Nelson</strong>
-<br>Consultant (Research), Ministry of Home Affairs, Singapore</p>
-</li>
-<li>
-<p><strong>Mr Ng Ser Song</strong>
-<br>Former Senior Advisor (Drugs &amp; Advocacy)</p>
+<br>Former Consultant (Research), Ministry of Home Affairs, Singapore</p>
 </li>
 <li>
 <p><strong>Mr Ngien Hoon Ping</strong>
