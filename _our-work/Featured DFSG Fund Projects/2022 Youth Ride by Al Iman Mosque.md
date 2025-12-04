@@ -2,7 +2,7 @@
 title: 2022 Youth Ride by Al Iman Mosque
 permalink: /our-work/drugfreesg-projects/youth-ride/
 description: ""
-third_nav_title: Featured DFSG Funded Projects
+third_nav_title: Featured DFSG Fund Projects
 variant: markdown
 ---
 ### Al-Iman Youth Ride

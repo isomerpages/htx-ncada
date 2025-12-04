@@ -1,6 +1,6 @@
 ---
-title: NCADA Perception Surveys
-permalink: /our-work/ncada-perception-surveys/
+title: Perception Surveys
+permalink: /our-work/perception-surveys/
 description: ""
 variant: markdown
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Partnership Opportunities: Getting Started on a Project"
-permalink: /partnership-opportunities-getting-started-on-a-project/
+title: Start a Project
+permalink: /start-a-project/
 variant: tiptap
 description: ""
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Partnership Opportunities: Advocate for the #DrugFreeSG Cause"
+title: Be an Advocate
 permalink: /partnership-opportunities/
 variant: tiptap
 description: ""

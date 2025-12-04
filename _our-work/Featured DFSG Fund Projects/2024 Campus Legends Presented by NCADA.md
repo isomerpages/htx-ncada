@@ -3,7 +3,7 @@ title: 2024 Campus Legends Presented by NCADA
 permalink: /campus-legends-presented-by-ncada/
 variant: tiptap
 description: ""
-third_nav_title: Featured DFSG Funded Projects
+third_nav_title: Featured DFSG Fund Projects
 ---
 <h4>Campus Legends presented by NCADA</h4>
 <div class="isomer-image-wrapper">
