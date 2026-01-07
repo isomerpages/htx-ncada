@@ -36,11 +36,11 @@ about drugs. If you focus on family dynamics, collaborate with us on initiatives
 that foster connection and discernment within families.</p>
 <p>We also welcome innovative projects that raise awareness of PDE and reach
 other audiences, such as community-based outreach or at-risk individuals.</p>
-<h4>Eligilibity Criteria</h4>
+<h4>Eligibility Criteria</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Applicant must be a registered organisation or Singaporean/Permanent Resident
-(PR) individuals</p>
+<p>Applicant must be a registered organisation or Singaporean / Permanent
+Resident (PR) individuals</p>
 </li>
 <li>
 <p>Not-for-profit project</p>
@@ -50,10 +50,47 @@ other audiences, such as community-based outreach or at-risk individuals.</p>
 Singapore</p>
 </li>
 <li>
-<p>Target audience/beneficiaries are Singapore citizens, PRs and/or communities
+<p>Target audience / beneficiaries are Singapore citizens, PRs and / or communities
 based in Singapore</p>
 </li>
 </ul>
+<h4>What Projects Can Be Supported?</h4>
+<p>When assessing applications, we consider:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Project objectives –</strong> Does the project generate positive
+publicity for the drug-free message? Will it increase understanding of
+key anti-drug messages or help develop anti-drug advocacy?</p>
+</li>
+<li>
+<p><strong>Target audience and reach – </strong>Is the project designed for
+a specific audience (youths, parents/families, community groups)? What
+is the scale of outreach and how will the project amplify its impact?</p>
+</li>
+<li>
+<p><strong>Implementation plan – </strong>Does the project have a clear and
+feasible execution plan with measurable outcomes?</p>
+</li>
+</ul>
+<p>Some examples of projects that we support are:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Dialogue sessions and workshops that promote awareness and equip participants
+with knowledge about drug prevention</p>
+</li>
+<li>
+<p>Community events and activities that engage target audiences in meaningful
+conversations about drug issues</p>
+</li>
+<li>
+<p>Educational resources and campaigns that promote understanding of PDE
+and the impacts of drug abuse</p>
+</li>
+<li>
+<p>Research projects that generate insights into effective PDE approaches</p>
+</li>
+</ul>
+<p>Past DFSG Fund projects can be found&nbsp;<a href="https://www.ncada.org.sg/campus-legends-presented-by-ncada/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h4>Funding Matters</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -140,43 +177,6 @@ event photos, media performance statistics) for performance assessment</p>
 <p>Please note that disbursements are based on actual expenditure and achievement
 of KPIs, and proration will be applied in the case of partial attainment
 of KPIs. Hence, we recommend setting realistic and achievable targets.</p>
-<h4>What We Look for in Applications</h4>
-<p>When assessing applications, we consider:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Project objectives –</strong> Does the project generate positive
-publicity for the drug-free message? Will it increase understanding of
-key anti-drug messages or help develop anti-drug advocacy?</p>
-</li>
-<li>
-<p><strong>Target audience and reach – </strong>Is the project designed for
-a specific audience (youths, parents/families, community groups)? What
-is the scale of outreach and how will the project amplify its impact?</p>
-</li>
-<li>
-<p><strong>Implementation plan – </strong>Does the project have a clear and
-feasible execution plan with measurable outcomes?</p>
-</li>
-</ul>
-<p>Some examples of projects that we support are:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Dialogue sessions and workshops that promote awareness and equip participants
-with knowledge about drug prevention</p>
-</li>
-<li>
-<p>Community events and activities that engage target audiences in meaningful
-conversations about drug issues</p>
-</li>
-<li>
-<p>Educational resources and campaigns that promote understanding of PDE
-and the impacts of drug abuse</p>
-</li>
-<li>
-<p>Research projects that generate insights into effective PDE approaches</p>
-</li>
-</ul>
-<p>Past DFSG Fund projects can be found&nbsp;<a href="https://www.ncada.org.sg/campus-legends-presented-by-ncada/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h4>Apply Now</h4>
 <p>Submit an application for the DFSG Fund via this <a href="https://go.gov.sg/dfsgfund26" rel="noopener nofollow" target="_blank">link</a>, to kickstart a discussion
 about your ideas!</p>
