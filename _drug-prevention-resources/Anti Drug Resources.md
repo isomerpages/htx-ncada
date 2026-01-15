@@ -4,7 +4,7 @@ permalink: /anti-drug-resources/
 description: ""
 variant: tiptap
 ---
-<h4>Content Resources</h4>
+<h3><strong>Content Resources</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="comm resource toolkit" src="/images/Resource%20Banner/commtoolkit.png">
 </div>
@@ -20,7 +20,7 @@ variant: tiptap
 </div>
 <p><a href="https://sso.agc.gov.sg/Act/MDA1973" rel="noopener noreferrer nofollow" target="_blank">Find out more from the Attorney General Chambers</a>
 </p>
-<h4>Partner Resources</h4>
+<h3><strong>Partner Resources</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="info on drugs and inhalants" src="/images/Resource%20Banner/info%20on%20drugs%20and%20inhalants.png">
 </div>
