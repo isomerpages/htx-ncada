@@ -24,7 +24,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="info on drugs and inhalants" src="/images/Resource%20Banner/info%20on%20drugs%20and%20inhalants.png">
 </div>
-<p><a href="https://www.sana.org.sg/info-on-drugs/" rel="noopener noreferrer nofollow" target="_blank">Find out more from the Singapore Anti Narcotics Association</a>
+<p><a href="https://www.nams.sg/helpseekers/Inhalant/Pages/default.aspx" rel="noopener noreferrer nofollow" target="_blank">Find out more from the Singapore Anti Narcotics Association</a>
 </p>
 <p><em>placeholder image</em>
 </p>
