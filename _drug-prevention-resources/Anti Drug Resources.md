@@ -26,3 +26,6 @@ variant: tiptap
 </div>
 <p><a href="https://www.sana.org.sg/info-on-drugs/" rel="noopener noreferrer nofollow" target="_blank">Find out more from the Singapore Anti Narcotics Association</a>
 </p>
+<p><em>placeholder image</em>
+</p>
+<p>Find out more from Architects of Life</p>
