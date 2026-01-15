@@ -28,4 +28,5 @@ variant: tiptap
 </p>
 <p><em>placeholder image</em>
 </p>
-<p>Find out more from Architects of Life</p>
+<p><a href="https://xofg.architectsoflife.sg/?_gl=1*gy24cg*_ga*MTgxMTU2MDgxMC4xNzY4NDcwNTAx*_ga_CFWSYXFVT2*czE3Njg0NzA1MDEkbzEkZzEkdDE3Njg0NzA1MjEkajQwJGwwJGgw" rel="noopener nofollow" target="_blank">Find out more from Architects of Life (X-Offenders For Good)</a>
+</p>
