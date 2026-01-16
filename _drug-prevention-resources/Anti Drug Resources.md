@@ -14,10 +14,9 @@ variant: tiptap
 <p><a href="https://sso.agc.gov.sg/Act/MDA1973" rel="noopener noreferrer nofollow" target="_blank">Find out more from the Attorney General Chambers</a>
 </p>
 <h3><strong>Strategic Partners</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="info on drugs and inhalants" src="/images/Resource%20Banner/info%20on%20drugs%20and%20inhalants.png">
-</div>
-<p><a href="https://www.nams.sg/helpseekers/Inhalant/Pages/default.aspx" rel="noopener noreferrer nofollow" target="_blank">Find out more from the Singapore Anti Narcotics Association</a>
+<p><em>placeholder image</em>
+</p>
+<p><a href="https://www.sana.org.sg/get-help/programmes/" rel="noopener noreferrer nofollow" target="_blank">Find out more from the Singapore Anti Narcotics Association</a>
 </p>
 <p><em>placeholder image</em>
 </p>
