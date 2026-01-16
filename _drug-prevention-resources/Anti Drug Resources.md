@@ -5,11 +5,13 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Educational Resources</strong></h3>
-<h4><em>CNB Resource Toolkit</em></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Green_and_Grey_Bold_World_Charity_Day_Email_Header.png">
+</div>
 <p><a href="https://www.cnb.gov.sg/resources/" rel="noopener noreferrer nofollow" target="_blank">Find out more from the Central Narcotics Bureau</a>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="misuse of drugs" src="/images/Resource%20Banner/misuseofdrugs.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Green_and_Grey_Bold_World_Charity_Day_Email_Header__2_.png">
 </div>
 <p><a href="https://sso.agc.gov.sg/Act/MDA1973" rel="noopener noreferrer nofollow" target="_blank">Find out more from the Attorney General Chambers</a>
 </p>
