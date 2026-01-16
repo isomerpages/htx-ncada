@@ -5,12 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Educational Resources</strong></h3>
+<h4><em>CNB Resource Toolkit </em></h4>
 <p><a href="https://www.cnb.gov.sg/resources/" rel="noopener noreferrer nofollow" target="_blank">Find out more from the Central Narcotics Bureau</a>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="myths and facts about cannabis" src="/images/Resource%20Banner/myths%20and%20facts%20about%20cannabis.png">
-</div>
-<p><a href="https://www.cnb.gov.sg/educational-resources/myths-and-facts-about-drugs/cannabis" rel="noopener noreferrer nofollow" target="_blank">Find out more from the Central Narcotics Bureau</a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="misuse of drugs" src="/images/Resource%20Banner/misuseofdrugs.png">
