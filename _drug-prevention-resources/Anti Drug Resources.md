@@ -10,7 +10,7 @@ variant: tiptap
 </div>
 <p><strong>The </strong><a href="https://www.cnb.gov.sg/resources/?page=1" rel="noopener nofollow" target="_blank">Central Narcotics Bureau website </a><strong>offers comprehensive, evidence-based resources to support Singapore’s anti-drug initiatives. Designed for educators, parents, community leaders, and grant applicants, these materials support prevention programmes and vital conversations across all ages.</strong>
 </p>
-<p>Explore Resources by age group:</p>
+<p>Explore resources by age group:</p>
 <p>- Children (5–12): Skits, activity books and storybooks.</p>
 <p>- Teens (13–19): Comics, drug awareness guides, and workshops.</p>
 <p>- Adults: Multilingual parent guides, educator toolkits, and DrugFreeSG
