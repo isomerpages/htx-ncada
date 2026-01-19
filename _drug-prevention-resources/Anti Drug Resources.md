@@ -36,6 +36,6 @@ ex‑offenders and at‑risk youth in Singapore.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_01_16_133345.png">
 </div>
-<p><a href="https://www.wecare.org.sg/" rel="noopener nofollow" target="_blank">Find out more from WeCare</a>
-</p>
+<p>Explore <a href="https://www.wecare.org.sg/" rel="noopener nofollow" target="_blank">WE CARE Community Services</a>’
+programmes supporting addiction recovery and family guidance in Singapore.</p>
 <p></p>
