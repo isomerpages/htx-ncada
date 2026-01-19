@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h3><strong>Educational Resources</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Green_and_Grey_Bold_World_Charity_Day_Email_Header_190126.png">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Green_and_Grey_Bold_World_Charity_Day_Email_Header_190126.png">
 </div>
 <p><strong>The </strong><a href="https://www.cnb.gov.sg/resources/?page=1" rel="noopener nofollow" target="_blank">Central Narcotics Bureau website</a><strong> offers comprehensive, evidence-based resources to support Singapore’s anti-drug initiatives. Designed for educators, parents, community leaders, and grant applicants, these materials support prevention programmes and vital conversations across all ages.</strong>
 </p>
@@ -16,7 +16,7 @@ variant: tiptap
 <p>- Adults: Multilingual parent guides, educator toolkits, and DrugFreeSG
 Champions training materials.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Green_and_Grey_Bold_World_Charity_Day_Email_Header__2_.png">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Green_and_Grey_Bold_World_Charity_Day_Email_Header__2_.png">
 </div>
 <p><strong>The </strong><a href="https://sso.agc.gov.sg/Act/MDA1973#top" rel="noopener nofollow" target="_blank">Misuse of Drugs Act (MDA)</a><strong> is Singapore’s principal statute on controlled substances. It codifies offences, sentencing, enforcement powers, and rehabilitative measures.</strong>
 </p>
@@ -24,17 +24,17 @@ Champions training materials.</p>
 laws.</p>
 <h3><strong>Strategic Partners</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_01_16_132842.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Screenshot_2026_01_16_132842.png">
 </div>
 <p>Explore <a href="https://www.sana.org.sg/get-help/programmes/" rel="noopener nofollow" target="_blank">SANA’s programmes</a> supporting
 drug recovery and prevention in Singapore.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_01_16_133139.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Screenshot_2026_01_16_133139.png">
 </div>
 <p>Explore <a href="https://xofg.architectsoflife.sg/?_gl=1*gy24cg*_ga*MTgxMTU2MDgxMC4xNzY4NDcwNTAx*_ga_CFWSYXFVT2*czE3Njg0NzA1MDEkbzEkZzEkdDE3Njg0NzA1MjEkajQwJGwwJGgw" rel="noopener nofollow" target="_blank">Architects of Life’s initiatives</a> empowering
 ex‑offenders and at‑risk youth in Singapore.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_01_16_133345.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Screenshot_2026_01_16_133345.png">
 </div>
 <p>Explore <a href="https://www.wecare.org.sg/" rel="noopener nofollow" target="_blank">WE CARE Community Services</a>’
 programmes supporting addiction recovery and family guidance in Singapore.</p>
