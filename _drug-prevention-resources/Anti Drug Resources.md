@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h3><strong>Educational Resources</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Green_and_Grey_Bold_World_Charity_Day_Email_Header.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Green_and_Grey_Bold_World_Charity_Day_Email_Header_190126.png">
 </div>
 <p><a href="https://www.cnb.gov.sg/resources/" rel="noopener noreferrer nofollow" target="_blank">Find out more from the Central Narcotics Bureau</a>
 </p>
