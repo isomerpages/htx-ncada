@@ -22,7 +22,6 @@ Champions training materials.</p>
 </p>
 <p>For grant applicants seeking authoritative insight into Singapore’s drug
 laws.</p>
-<p></p>
 <h3><strong>Strategic Partners</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_01_16_132842.png">
