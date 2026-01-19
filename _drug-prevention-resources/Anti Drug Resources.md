@@ -10,7 +10,7 @@ variant: tiptap
 </div>
 <p><strong>The </strong><a href="https://www.cnb.gov.sg/resources/?page=1" rel="noopener nofollow" target="_blank">Central Narcotics Bureau website</a><strong> offers comprehensive, evidence-based resources to support Singapore’s anti-drug initiatives. Designed for educators, parents, community leaders, and grant applicants, these materials support prevention programmes and vital conversations across all ages.</strong>
 </p>
-<p>Explore resources by age group:</p>
+<p><u>Explore resources by age group</u>:</p>
 <p>- Children (5–12): Skits, activity books and storybooks.</p>
 <p>- Teens (13–19): Comics, drug awareness guides, and workshops.</p>
 <p>- Adults: Multilingual parent guides, educator toolkits, and DrugFreeSG
@@ -26,16 +26,16 @@ laws.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Screenshot_2026_01_16_132842.png">
 </div>
-<p>Explore <a href="https://www.sana.org.sg/get-help/programmes/" rel="noopener nofollow" target="_blank">SANA’s programmes</a> supporting
-drug recovery and prevention in Singapore.</p>
+<p><strong>Explore <a href="https://www.sana.org.sg/get-help/programmes/" rel="noopener nofollow" target="_blank">SANA’s programmes</a> supporting drug recovery and prevention in Singapore.</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Screenshot_2026_01_16_133139.png">
 </div>
-<p>Explore <a href="https://xofg.architectsoflife.sg/?_gl=1*gy24cg*_ga*MTgxMTU2MDgxMC4xNzY4NDcwNTAx*_ga_CFWSYXFVT2*czE3Njg0NzA1MDEkbzEkZzEkdDE3Njg0NzA1MjEkajQwJGwwJGgw" rel="noopener nofollow" target="_blank">Architects of Life’s initiatives</a> empowering
-ex‑offenders and at‑risk youth in Singapore.</p>
+<p><strong>Explore <a href="https://xofg.architectsoflife.sg/?_gl=1*gy24cg*_ga*MTgxMTU2MDgxMC4xNzY4NDcwNTAx*_ga_CFWSYXFVT2*czE3Njg0NzA1MDEkbzEkZzEkdDE3Njg0NzA1MjEkajQwJGwwJGgw" rel="noopener nofollow" target="_blank">Architects of Life’s initiatives</a> empowering ex‑offenders and at‑risk youth in Singapore.</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Screenshot_2026_01_16_133345.png">
 </div>
-<p>Explore <a href="https://www.wecare.org.sg/" rel="noopener nofollow" target="_blank">WE CARE Community Services</a>’
-programmes supporting addiction recovery and family guidance in Singapore.</p>
+<p><strong>Explore <a href="https://www.wecare.org.sg/" rel="noopener nofollow" target="_blank">WE CARE Community Services</a>’ programmes supporting addiction recovery and family guidance in Singapore.</strong>
+</p>
 <p></p>
