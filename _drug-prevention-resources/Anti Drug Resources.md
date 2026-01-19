@@ -18,7 +18,7 @@ Champions training materials.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Green_and_Grey_Bold_World_Charity_Day_Email_Header__2_.png">
 </div>
-<p><strong>The Misuse of Drugs Act (MDA) is Singapore’s principal statute on controlled substances. It codifies offences, sentencing, enforcement powers, and rehabilitative measures.</strong>
+<p><strong>The </strong><a href="https://sso.agc.gov.sg/Act/MDA1973#top" rel="noopener nofollow" target="_blank">Misuse of Drugs Act (MDA)</a><strong> is Singapore’s principal statute on controlled substances. It codifies offences, sentencing, enforcement powers, and rehabilitative measures.</strong>
 </p>
 <p>For grant applicants seeking authoritative insight into Singapore’s drug
 laws.</p>
@@ -26,13 +26,13 @@ laws.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_01_16_132842.png">
 </div>
-<p><a href="https://www.sana.org.sg/get-help/programmes/" rel="noopener noreferrer nofollow" target="_blank">Find out more from the Singapore Anti Narcotics Association</a>
-</p>
+<p>Explore <a href="https://www.sana.org.sg/get-help/programmes/" rel="noopener nofollow" target="_blank">SANA’s programmes</a> supporting
+drug recovery and prevention in Singapore.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_01_16_133139.png">
 </div>
-<p><a href="https://xofg.architectsoflife.sg/?_gl=1*gy24cg*_ga*MTgxMTU2MDgxMC4xNzY4NDcwNTAx*_ga_CFWSYXFVT2*czE3Njg0NzA1MDEkbzEkZzEkdDE3Njg0NzA1MjEkajQwJGwwJGgw" rel="noopener nofollow" target="_blank">Find out more from Architects of Life (X-Offenders For Good)</a>
-</p>
+<p>Explore <a href="https://xofg.architectsoflife.sg/?_gl=1*gy24cg*_ga*MTgxMTU2MDgxMC4xNzY4NDcwNTAx*_ga_CFWSYXFVT2*czE3Njg0NzA1MDEkbzEkZzEkdDE3Njg0NzA1MjEkajQwJGwwJGgw" rel="noopener nofollow" target="_blank">Architects of Life’s initiatives</a> empowering
+ex‑offenders and at‑risk youth in Singapore.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_01_16_133345.png">
 </div>
