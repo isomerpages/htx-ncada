@@ -20,8 +20,7 @@ Champions training materials.</p>
 </div>
 <p><strong>The </strong><a href="https://sso.agc.gov.sg/Act/MDA1973#top" rel="noopener nofollow" target="_blank">Misuse of Drugs Act (MDA)</a><strong> is Singapore’s principal statute on controlled substances. It codifies offences, sentencing, enforcement powers, and rehabilitative measures.</strong>
 </p>
-<p>For grant applicants seeking authoritative insight into Singapore’s drug
-laws.</p>
+<p>For those seeking authoritative insight into Singapore’s drug laws.</p>
 <h3><strong>Strategic Partners</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Screenshot_2026_01_16_132842.png">
