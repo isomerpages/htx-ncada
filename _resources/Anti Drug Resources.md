@@ -16,7 +16,7 @@ variant: tiptap
 <p>- Adults: Multilingual parent guides, educator toolkits, and DrugFreeSG
 Champions training materials.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Green_and_Grey_Bold_World_Charity_Day_Email_Header__2_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Green_and_Grey_Bold_World_Charity_Day_Email_Header_2201_v2_.png">
 </div>
 <p><strong>The </strong><a href="https://sso.agc.gov.sg/Act/MDA1973#top" rel="noopener nofollow" target="_blank">Misuse of Drugs Act (MDA)</a><strong> is Singapore’s principal statute on controlled substances. It codifies offences, sentencing, enforcement powers, and rehabilitative measures.</strong>
 </p>
