@@ -22,6 +22,8 @@ Champions training materials.</p>
 </p>
 <p>For those seeking authoritative insight into Singapore’s drug laws.</p>
 <h3><strong>Strategic Partners</strong></h3>
+<p><em>NCADA works closely with a wide range of partners to advance prevention and community support. Highlighted below are some of the organisations contributing to this shared mission.</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Screenshot_2026_01_16_132842.png">
 </div>
