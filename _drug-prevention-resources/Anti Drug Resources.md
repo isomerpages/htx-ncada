@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h3><strong>Educational Resources</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Green_and_Grey_Bold_World_Charity_Day_Email_Header_190126.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Green_and_Grey_Bold_World_Charity_Day_Email_Header2201.png">
 </div>
 <p><strong>The </strong><a href="https://www.cnb.gov.sg/resources/?page=1" rel="noopener nofollow" target="_blank">Central Narcotics Bureau website</a><strong> offers comprehensive, evidence-based resources to support Singapore’s anti-drug initiatives. Designed for educators, parents, community leaders, and grant applicants, these materials support prevention programmes and vital conversations across all ages.</strong>
 </p>
