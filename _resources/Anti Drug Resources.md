@@ -39,4 +39,3 @@ Champions training materials.</p>
 </div>
 <p><strong>Explore <a href="https://www.wecare.org.sg/" rel="noopener nofollow" target="_blank">WE CARE Community Services</a>’ programmes supporting addiction recovery and family guidance in Singapore.</strong>
 </p>
-<p></p>
