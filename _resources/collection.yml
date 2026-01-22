@@ -1,5 +1,5 @@
 collections:
-  drug-prevention-resources:
+  resources:
     output: true
     order:
       - Anti Drug Resources.md
