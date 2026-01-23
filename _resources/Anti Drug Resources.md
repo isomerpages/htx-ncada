@@ -2,13 +2,40 @@
 title: Anti Drug Resources
 permalink: /anti-drug-resources/
 description: ""
+variant: tiptap
 ---
-![info on drugs and inhalants](/images/Resource%20Banner/info%20on%20drugs%20and%20inhalants.png)
-[Find out more from the Singapore Anti Narcotics Association](https://www.sana.org.sg/info-on-drugs/)
-
-![misuse of drugs](/images/Resource%20Banner/misuseofdrugs.png)[Find out more from the Attorney General Chambers ](https://sso.agc.gov.sg/Act/MDA1973)
-
-![comm resource toolkit](/images/Resource%20Banner/commtoolkit.png)
-[Find out more from the Central Narcotics Bureau](https://www.cnb.gov.sg/educational-resources/for-communities)
-
-![myths and facts about cannabis](/images/Resource%20Banner/myths%20and%20facts%20about%20cannabis.png)[Find out more from the Central Narcotics Bureau](https://www.cnb.gov.sg/educational-resources/myths-and-facts-about-drugs/cannabis)
+<h3><strong>Educational Resources</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Green_and_Grey_Bold_World_Charity_Day_Email_Header2201.png">
+</div>
+<p><strong>The </strong><a href="https://www.cnb.gov.sg/resources/?page=1" rel="noopener nofollow" target="_blank">Central Narcotics Bureau website</a><strong> offers comprehensive, evidence-based resources to support Singapore’s anti-drug initiatives. Designed for educators, parents, community leaders, and all those seeking information on prevention, these materials support programmes and vital conversations across all ages.</strong>
+</p>
+<p><u>Explore resources by age group</u>:</p>
+<p>- Children (5–12): Skits, activity books and storybooks.</p>
+<p>- Teens (13–19): Comics, drug awareness guides, and workshops.</p>
+<p>- Adults: Multilingual parent guides, educator toolkits, and DrugFreeSG
+Champions training materials.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Green_and_Grey_Bold_World_Charity_Day_Email_Header_2201_v2_.png">
+</div>
+<p><strong>The </strong><a href="https://sso.agc.gov.sg/Act/MDA1973#top" rel="noopener nofollow" target="_blank">Misuse of Drugs Act (MDA)</a><strong> is Singapore’s principal statute on controlled substances. It codifies offences, sentencing, enforcement powers, and rehabilitative measures.</strong>
+</p>
+<p>For those seeking authoritative insight into Singapore’s drug laws.</p>
+<h3><strong>Strategic Partners</strong></h3>
+<p><em>NCADA works closely with a wide range of partners to advance prevention and community support. Highlighted below are some of the organisations contributing to this shared mission.</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Screenshot_2026_01_16_132842.png">
+</div>
+<p><strong>Explore <a href="https://www.sana.org.sg/get-help/programmes/" rel="noopener nofollow" target="_blank">SANA’s programmes</a> supporting drug recovery and prevention in Singapore.</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Screenshot_2026_01_16_133139.png">
+</div>
+<p><strong>Explore <a href="https://xofg.architectsoflife.sg/?_gl=1*gy24cg*_ga*MTgxMTU2MDgxMC4xNzY4NDcwNTAx*_ga_CFWSYXFVT2*czE3Njg0NzA1MDEkbzEkZzEkdDE3Njg0NzA1MjEkajQwJGwwJGgw" rel="noopener nofollow" target="_blank">Architects of Life’s initiatives</a> empowering ex‑offenders and at‑risk youth in Singapore.</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Screenshot_2026_01_16_133345.png">
+</div>
+<p><strong>Explore <a href="https://www.wecare.org.sg/" rel="noopener nofollow" target="_blank">WE CARE Community Services</a>’ programmes supporting addiction recovery and family guidance in Singapore.</strong>
+</p>
