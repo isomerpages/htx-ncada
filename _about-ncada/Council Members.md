@@ -89,7 +89,7 @@ of Mental Health</p>
 </li>
 <li>
 <p><strong>Mr Matthew Wee</strong>
-<br>Deputy Commissioner (Operations and Rehabilitation) of Prisons</p>
+<br>Commissioner of Prisons</p>
 </li>
 <li>
 <p><strong>Ms Ong Yen Peng</strong>
