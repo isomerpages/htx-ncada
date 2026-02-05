@@ -24,7 +24,7 @@ sections:
         - title: Publications
           description: Annual Reports
           url: /publications/
-      background: /images/KEEPING_A_DRUG_FREE_SOCIETY.png
+      background: /images/keeping_banner.jpg
   - infopic:
       title: Addicted - The Cannabis Trap
       subtitle: Newsroom
