@@ -24,7 +24,7 @@ sections:
         - title: Publications
           description: Annual Reports
           url: /publications/
-      background: /images/KEEPING_A_DRUG_FREE_SOCIETY.png
+      background: /images/keeping_banner.jpg
   - infopic:
       title: Addicted - The Cannabis Trap
       subtitle: Newsroom
@@ -33,7 +33,7 @@ sections:
         anti-drug advocacy work with youths and counselling experience.
       button: Watch
       url: https://www.channelnewsasia.com/watch/addicted/cannabis-trap-5146341
-      image: /images/Screenshot_2025_07_18_171640.png
+      image: /images/cna3as.jpg
       alt: NCADA members on Addicted
   - infopic:
       title: NCADA Annual Report 2024
