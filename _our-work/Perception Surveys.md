@@ -4,7 +4,7 @@ permalink: /our-work/perception-surveys/
 description: ""
 variant: tiptap
 ---
-<h3>NCADA Drug Perception Survey</h3>
+<h3>National Drug Perception Survey</h3>
 <p>NCADA conducts the National Drug Perception Survey (NPS) regularly to
 understand public attitudes towards drugs, drug-taking and the anti-drug
 initiatives in Singapore.&nbsp;</p>
