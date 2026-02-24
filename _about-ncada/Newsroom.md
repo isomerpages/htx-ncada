@@ -5,6 +5,20 @@ variant: tiptap
 description: ""
 ---
 <h4>Media Mentions</h4>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.mewatch.sg/watch/Feb-2026-CH-5-News-Tonight-729202" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2026_02_24_175435.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Channel 5 News Tonight: 2025 Drug Statistics</div>
+<div class="isomer-card-link">Watch here:</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.zaobao.com.sg/forum/views/story20251129-7887448?fbclid=IwY2xjawQKUrlleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEemJjPl5sHHWxldTlay2Cy-4o3oI-rAPEb4wL23zZCqw3L7dZbjgT6UJptbm4_aem_79x3gI0rvd21SYRZaxrljw" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2026_02_24_174955.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">王彼得：小梅根命运图景中 最大一片阴暗是毒品</div><div class="isomer-card-link">Read here:</div></div></a>
+</div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://aplussingapore.com/article/dr-chew-tuan-chiong-national-council-against-drug-abuse?fbclid=IwY2xjawN2cRRleHRuA2FlbQIxMQABHlbxZtNlO4DYahcilOIsqAtKmTjZ8kvG2q5eh2JaVk1CCSaebQSHdvE7lCh3_aem_J_ewC-IlBM-_E-Vyzv7YLg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr Chew Tuan Chiong Keeps Our Streets Drug Fre" src="/images/Screenshot_2025_11_04_133855.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Chew Tuan Chiong Keeps Our Streets Drug Free</div><div class="isomer-card-link">Read here:</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.channelnewsasia.com/watch/nine-in-10-youths-say-talks-parents-saved-them-drugs-5378041?fbclid=IwY2xjawN2b5VleHRuA2FlbQIxMQABHgY6Hpl5owFg0aw5dCcJwJtEwu-S5ThpnUWb1tMEHKJ19JaqqM9YyiPPuDsC_aem_938reTyE3M5GF8dJRcJSBQRead" class="isomer-card">
 <div class="isomer-card-image">
