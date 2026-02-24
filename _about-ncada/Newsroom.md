@@ -6,7 +6,7 @@ description: ""
 ---
 <h4>Media Mentions</h4>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.channelnewsasia.com/listen/cna938-rewind/big-question-why-are-our-young-seeking-drugs-5939276" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2026_02_24_180541.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CNA938 Rewind - The Big Question: Why are our young seeking drugs?</div><div class="isomer-card-link">Listen here:</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.mewatch.sg/watch/Feb-2026-CH-5-News-Tonight-729202" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
