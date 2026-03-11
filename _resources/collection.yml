@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Research & Evidence.md
       - Anti Drug Resources.md
       - Anti Vape Resources.md
       - Frequently Asked Questions.md
