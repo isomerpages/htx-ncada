@@ -6,7 +6,7 @@ description: ""
 ---
 <h4>Media Mentions</h4>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.channelnewsasia.com/singapore/youth-drug-abuse-parents-communication-600112" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="A person grabbing the hand of someone reaching out for a package of drugs. (Photo: iStock/Yaraslau Mikheyeu)" src="/images/Screenshot_2026_03_19_145448.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">As more youths get arrested for drugs, is the onus on parents to start conversations early?</div><div class="isomer-card-link">Read here:</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.channelnewsasia.com/singapore/youth-drug-abuse-parents-communication-600112" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="A person grabbing the hand of someone reaching out for a package of drugs. (Photo: iStock/Yaraslau Mikheyeu)" src="/images/hand_drugg.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">As more youths get arrested for drugs, is the onus on parents to start conversations early?</div><div class="isomer-card-link">Read here:</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.sassymamasg.com/parenting-ncada-tips-building-trust-with-children/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
