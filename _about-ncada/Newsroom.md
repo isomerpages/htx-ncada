@@ -64,7 +64,7 @@ For The Tough Questions</div>
 <div class="isomer-card-title">Forum: Safeguarding society from drug scourge a collective responsibility</div>
 <div class="isomer-card-link">Read here:</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.channelnewsasia.com/singapore/etomidate-k-pods-vaping-cna-explains-524954" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="CNA Explains: Why Singapore wants to ban etomidat" src="/images/Screenshot_2025_07_31_170923.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CNA Explains: Why Singapore wants to ban etomidate</div><div class="isomer-card-link">Read here:</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.channelnewsasia.com/singapore/etomidate-k-pods-vaping-cna-explains-5249546" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="CNA Explains: Why Singapore wants to ban etomidate" src="/images/Screenshot_2025_07_31_170923.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CNA Explains: Why Singapore wants to ban etomidate</div><div class="isomer-card-link">Read here:</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.straitstimes.com/opinion/is-your-child-getting-drawn-to-drugs-dont-look-away-and-dont-give-up?fbclid=IwZXh0bgNhZW0CMTEAAR6JwJ-ChtwQOlAjF087q55dwlMP0wKEKKJo3UY2Bl08z79POYcxCsT0kgbNXg_aem_MgHmg2objg9-FUtrx8Ihh" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
