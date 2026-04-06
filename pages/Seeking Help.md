@@ -79,7 +79,7 @@ behaviours, etc.)
 </p>
 <p><strong>The Green House</strong>
 <br>Recovery centre for marginalised and vulnerable communities.
-<br>Website: <a href="https://thegreenhouse.sg/contact-us" rel="noopener nofollow" target="_blank">https://thegreenhouse.sg/contact-us</a>
+<br>Website: <a href="https://thegreenhouse.sg/contact" rel="noopener nofollow" target="_blank">https://thegreenhouse.sg/contact</a>
 </p>
 <p><strong>Narcotics Anonymous Singapore</strong>
 <br>Call: 8405 8432
