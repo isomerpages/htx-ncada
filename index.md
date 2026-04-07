@@ -5,10 +5,10 @@ description: The official website of the National Council Against Drug Abuse
   (NCADA), Singapore.
 image: /images/NCADA_PNG_logo_RGB_2.png
 permalink: /
-notification: Government officials will NEVER ask you to transfer money or
-  disclose bank log-in details over a phone call. Call the 24/7 ScamShield
-  Helpline at 1799 if you are unsure if something is a scam. Learn more at Scam
-  Shield website.
+notification: The NCADA website is participating in the Government Bug Bounty
+  Programme (1 Apr - 26 May 2026) and you may experience temporary slowness or
+  access issues. We apologise for any inconvenience as we enhance our system
+  security.
 sections:
   - hero:
       key_highlights:
