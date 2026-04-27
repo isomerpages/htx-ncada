@@ -88,12 +88,12 @@ of Mental Health</p>
 <br>Senior Director, Family Intervention, Ministry of Social and Family Development</p>
 </li>
 <li>
-<p><strong>Mr Matthew Wee</strong>
-<br>Deputy Commissioner (Operations and Rehabilitation) of Prisons</p>
-</li>
-<li>
 <p><strong>Ms Ong Yen Peng</strong>
 <br>Deputy Director (Youth &amp; Sports), People's Association</p>
+</li>
+<li>
+<p><strong>Mr Rockey Francisco Junior</strong>
+<br>Deputy Commissioner of Prisons (Operations and Rehabilitation)</p>
 </li>
 <li>
 <p><strong>Mr Sanjay Nanwani</strong>
@@ -110,7 +110,7 @@ of Mental Health</p>
 </ol>
 <p><u>Secretary</u>
 </p>
-<ol start="26" data-tight="true" class="tight">
+<ol start="25" data-tight="true" class="tight">
 <li>
 <p><strong>Ms Audrey Ang</strong>
 <br>Director, Communications Division, Central Narcotics Bureau</p>
