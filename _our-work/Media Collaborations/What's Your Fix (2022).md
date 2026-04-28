@@ -2,7 +2,7 @@
 title: What's Your Fix (2022)
 permalink: /our-work/media-campaign/whatsyourfix/
 description: whats your fix
-third_nav_title: Media Campaign
+third_nav_title: Media Collaborations
 variant: tiptap
 ---
 <h3>“What’s Your Fix?” 2022 – 2023 Media Campaign</h3>

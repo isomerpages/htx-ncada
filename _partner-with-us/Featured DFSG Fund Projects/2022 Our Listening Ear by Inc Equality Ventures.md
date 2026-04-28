@@ -2,8 +2,8 @@
 title: 2022 Our Listening Ear by Inc Equality Ventures
 permalink: /our-work/drugfreesg-projects/our-listening-ear/
 description: ""
-third_nav_title: Featured DFSG Fund Projects
 variant: markdown
+third_nav_title: Featured DFSG Fund Projects
 ---
 ## Our Listening Ear
 

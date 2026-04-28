@@ -2,7 +2,7 @@
 title: Feed Your Ambition (2018)
 permalink: /our-work/media-campaign/feedyourambition2018/
 description: feed your ambition
-third_nav_title: Media Campaign
+third_nav_title: Media Collaborations
 ---
 ### “FEED YOUR AMBITION 2018” CAMPAIGN LAUNCH 
 
