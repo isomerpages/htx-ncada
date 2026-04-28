@@ -2,6 +2,7 @@ collections:
   partner-with-us:
     output: true
     order:
+      - 2022 Our Listening Ear by Inc Equality Ventures.md
       - 2022 Sepak Takraw Inter Regu by PERSES.md
       - 2022 Youth Ride by Al Iman Mosque.md
       - 2023 NTU Lion Dance Competition.md
