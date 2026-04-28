@@ -2,6 +2,7 @@ collections:
   partner-with-us:
     output: true
     order:
+      - 2022 Youth Ride by Al Iman Mosque.md
       - 2023 NTU Lion Dance Competition.md
       - 2024 Campus Legends Presented by NCADA.md
       - DrugFreeSG Cause.md
