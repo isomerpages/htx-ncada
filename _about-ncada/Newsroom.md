@@ -6,30 +6,41 @@ description: ""
 ---
 <h4>Media Mentions</h4>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.channelnewsasia.com/singapore/youth-drug-abuse-parents-communication-6001121" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="A person grabbing the hand of someone reaching out for a package of drugs. (Photo: iStock/Yaraslau Mikheyeu)" src="/images/hand_drugg.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">As more youths get arrested for drugs, is the onus on parents to start conversations early?</div><div class="isomer-card-link">Read here:</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.sassymamasg.com/parenting-ncada-tips-building-trust-with-children/" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.zaobao.com.sg/news/singapore/story20260418-8914869" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="CNB's law enforcement operation in January 2026, seizing more than 4 kilograms of marijuana" src="/images/Screenshot_2026_04_28_155834.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">本地反毒努力收效 更多青少年明白大麻有害</div><div class="isomer-card-link">Read here:</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.channelnewsasia.com/singapore/youth-drug-abuse-parents-communication-6001121" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A picture of a family" src="/images/Screenshot_2026_03_18_161217.png">
+<img style="width: 100%" height="auto" width="100%" alt="A person grabbing the hand of someone reaching out for a package of drugs. (Photo: iStock/Yaraslau Mikheyeu)" src="/images/hand_drugg.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">“Can I Tell You Something?” Here’s How To Be Your Child’s Go-To Person
-For The Tough Questions</div>
+<div class="isomer-card-title">As more youths get arrested for drugs, is the onus on parents to start
+conversations early?</div>
 <div class="isomer-card-link">Read here:</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.channelnewsasia.com/listen/cna938-rewind/big-question-why-are-our-young-seeking-drugs-5939276" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2026_02_24_180541.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CNA938 Rewind - The Big Question: Why are our young seeking drugs?</div><div class="isomer-card-link">Listen here:</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.mewatch.sg/watch/Feb-2026-CH-5-News-Tonight-729202" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://www.sassymamasg.com/parenting-ncada-tips-building-trust-with-children/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="A picture of a family" src="/images/Screenshot_2026_03_18_161217.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">“Can I Tell You Something?” Here’s How To Be Your Child’s Go-To Person For The Tough Questions</div><div class="isomer-card-link">Read here:</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.channelnewsasia.com/listen/cna938-rewind/big-question-why-are-our-young-seeking-drugs-5939276" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2026_02_24_175435.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2026_02_24_180541.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Channel 5 News Tonight: 2025 Drug Statistics</div>
-<div class="isomer-card-link">Watch here:</div>
+<div class="isomer-card-title">CNA938 Rewind - The Big Question: Why are our young seeking drugs?</div>
+<div class="isomer-card-link">Listen here:</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.zaobao.com.sg/forum/views/story20251129-7887448?fbclid=IwY2xjawQKUrlleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEemJjPl5sHHWxldTlay2Cy-4o3oI-rAPEb4wL23zZCqw3L7dZbjgT6UJptbm4_aem_79x3gI0rvd21SYRZaxrljw" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2026_02_24_174955.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">王彼得：小梅根命运图景中 最大一片阴暗是毒品</div><div class="isomer-card-link">Read here:</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.mewatch.sg/watch/Feb-2026-CH-5-News-Tonight-729202" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2026_02_24_175435.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Channel 5 News Tonight: 2025 Drug Statistics</div><div class="isomer-card-link">Watch here:</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.zaobao.com.sg/forum/views/story20251129-7887448?fbclid=IwY2xjawQKUrlleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEemJjPl5sHHWxldTlay2Cy-4o3oI-rAPEb4wL23zZCqw3L7dZbjgT6UJptbm4_aem_79x3gI0rvd21SYRZaxrljw" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2026_02_24_174955.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">王彼得：小梅根命运图景中 最大一片阴暗是毒品</div>
+<div class="isomer-card-link">Read here:</div>
+</div>
+</a>
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://aplussingapore.com/article/dr-chew-tuan-chiong-national-council-against-drug-abuse?fbclid=IwY2xjawN2cRRleHRuA2FlbQIxMQABHlbxZtNlO4DYahcilOIsqAtKmTjZ8kvG2q5eh2JaVk1CCSaebQSHdvE7lCh3_aem_J_ewC-IlBM-_E-Vyzv7YLg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr Chew Tuan Chiong Keeps Our Streets Drug Fre" src="/images/Screenshot_2025_11_04_133855.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Chew Tuan Chiong Keeps Our Streets Drug Free</div><div class="isomer-card-link">Read here:</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.channelnewsasia.com/watch/nine-in-10-youths-say-talks-parents-saved-them-drugs-5378041?fbclid=IwY2xjawN2b5VleHRuA2FlbQIxMQABHgY6Hpl5owFg0aw5dCcJwJtEwu-S5ThpnUWb1tMEHKJ19JaqqM9YyiPPuDsC_aem_938reTyE3M5GF8dJRcJSBQRead" class="isomer-card">
