@@ -15,9 +15,9 @@ sections:
         - title: About NCADA
           description: Roles, Objectives & Members
           url: /about-ncada
-        - title: Our Work
-          description: Campaigns & Events
-          url: /our-work
+        - title: In the News
+          description: Media Mentions
+          url: /newsroom
         - title: Partner With Us
           description: Grants & Advocacy
           url: /drugfreesg-cause/
@@ -26,7 +26,7 @@ sections:
           url: /publications/
       background: /images/keeping_banner.jpg
   - infobar:
-      title: About NCADA
+      title: About National Council Against Drug Abuse
       subtitle: Who We Are
       id: infobar
       description: NCADA is a citizens' advisory council that seeks to harness
