@@ -25,21 +25,13 @@ sections:
           description: Annual Reports
           url: /publications/
       background: /images/keeping_banner.jpg
-  - infopic:
-      title: Addicted - The Cannabis Trap
-      subtitle: Newsroom
-      id: infopic
-      description: In this CNA documentary, NCADA members share insights from their
-        anti-drug advocacy work with youths and counselling experience.
-      button: Watch
-      url: https://www.channelnewsasia.com/watch/addicted/cannabis-trap-5146341
-      image: /images/cna3as.jpg
-      alt: NCADA members on Addicted
-  - infopic:
-      title: NCADA Annual Report 2024
-      subtitle: Publication
-      button: Read now
-      url: https://www.ncada.org.sg/files/NCADA_Annual_Report_2024_Final_compressed.pdf
-      image: /images/Cover_page.png
-      alt: Annual Report
+  - infobar:
+      title: About NCADA
+      subtitle: Who We Are
+      id: infobar
+      description: NCADA is a citizens' advisory council that seeks to harness
+        community support for preventive drug measures and programmes in
+        Singapore.
+      button: Learn More
+      url: /about-ncada
 ---
