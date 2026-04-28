@@ -4,4 +4,5 @@ permalink: /events-activities/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<p><strong>Watch this space! </strong>
+</p>
