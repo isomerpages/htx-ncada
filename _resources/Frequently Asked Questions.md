@@ -82,3 +82,7 @@ harmful substances later on.</p>
 on any harmful or addictive substance. We are also encouraged by efforts
 from public agencies to tackle youth vaping through public education and
 enforcement.</p>
+<p>For comprehensive information on vaping, including disposal locations,
+support services, and resources for parents, visit the national Stop Vaping
+microsite: <a href="https://www.gov.sg/stopvaping?ref=inline-article" rel="noopener nofollow" target="_blank">https://www.gov.sg/stopvaping</a>
+</p>
