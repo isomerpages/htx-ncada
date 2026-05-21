@@ -76,13 +76,16 @@ guide them toward drug-free choices.</p>
 </p>
 <p>While nicotine is not a controlled drug, NCADA is concerned about the
 rising use of vapes among youths. Vapes have been used to take drugs like
-cannabis, and studies show that teens who vape are more likely to try other
-harmful substances later on.</p>
-<p>We support Singapore’s ban on vapes as a way to protect people from dependence
-on any harmful or addictive substance. We are also encouraged by efforts
-from public agencies to tackle youth vaping through public education and
-enforcement.</p>
-<p>For comprehensive information on vaping, including disposal locations,
-support services, and resources for parents, visit the national Stop Vaping
-microsite: <a href="https://www.gov.sg/stopvaping?ref=inline-article" rel="noopener nofollow" target="_blank">https://www.gov.sg/stopvaping</a>
-</p>
+cannabis and other harmful substances, and studies show that teens who
+vape are more likely to try other harmful substances later on.</p>
+<p>We support Singapore's efforts to ban vapes and stronger enforcement against
+the abuse of psychoactive substances through vaporisers. We are encouraged
+by the continued efforts of public agencies to tackle youth vaping through
+public education and enforcement.</p>
+<p>For anti-vaping resources and support on quitting vapes, visit <a href="http://www.gov.sg/stopvaping" rel="noopener noreferrer nofollow" target="_blank">www.gov.sg/stopvaping</a> or
+call HPB's QuitLine at 1800 438 2000. To report illegal vaping-related
+activities, visit <a href="http://www.go.gov.sg/reportvape" rel="noopener noreferrer nofollow" target="_blank">www.go.gov.sg/reportvape</a> or call
+the Tobacco Regulation Branch at 6684 2036 / 6684 2037 (0700-2400 hrs daily,
+including weekends and public holidays).</p>
+<hr>
+<p></p>
