@@ -3,8 +3,7 @@ collections:
     output: true
     order:
       - Events & Activities/.keep
-      - Events & Activities/NCADA DrugFreeSG 'Resilient Youth & Families'
-        Forum.md
+      - Events & Activities/NCADA DrugFreeSG Forum.md
       - Overview.md
       - Media Collaborations/Partnerships.md
       - Media Collaborations/.keep
