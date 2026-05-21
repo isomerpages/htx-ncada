@@ -2,12 +2,12 @@ collections:
   our-work:
     output: true
     order:
-      - Events & Activities/.keep
-      - Events & Activities/NCADA DrugFreeSG Forum.md
       - Overview.md
-      - Media Collaborations/Partnerships.md
       - Media Collaborations/.keep
+      - Media Collaborations/Partnerships.md
       - Media Collaborations/What's Your Fix (2022).md
       - Media Collaborations/HIGH (2020).md
       - Media Collaborations/Feed Your Ambition (2018).md
+      - Events & Activities/.keep
+      - Events & Activities/NCADA DrugFreeSG Forum.md
       - Perception Surveys.md
