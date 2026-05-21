@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Events & Activities/.keep
-      - Events & Activities/Events & Activities.md
       - Events & Activities/NCADA DrugFreeSG 'Resilient Youth & Families'
         Forum.md
       - Overview.md
