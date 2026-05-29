@@ -28,11 +28,72 @@ Social Sciences (SUSS)</p>
 youth advocate Mr Dervin Lua</p>
 </li>
 <li>
-<p>Breakout group discussions where participants shared insights and solutions
-that will strengthen community efforts in supporting youth and families
-in drug prevention</p>
+<p>Breakout group discussions where participants shared insights and possible
+solutions to strengthen community efforts in supporting youth and families
+in drug prevention, which can be supported by the <a href="https://www.ncada.org.sg/start-a-project/" rel="noopener nofollow" target="_blank">DrugFreeSG Fund</a>
+</p>
 </li>
 </ul>
+<p>Key ideas surfaced at the Forum include:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Theme: Youth Influences &amp; At-risk Youths</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Theme: Families &amp; Parental Conversations</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Provide early intervention and pre-exposure prevention through deeper
+research into at-risk youth</p>
+</li>
+<li>
+<p>segments for targeted interventions</p>
+</li>
+<li>
+<p>Channel at-risk youths to upstream non-clinical interventions</p>
+</li>
+<li>
+<p>Encourage youths to consider healthier options such as sports and help
+them be more discerning</p>
+</li>
+<li>
+<p>Connect youths with role models such as social workers</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Build parents' capability and confidence through increased parental involvement
+and complementing</p>
+</li>
+<li>
+<p>preventive drug education efforts in schools</p>
+</li>
+<li>
+<p>Create urgency for parents to be more proactive in having age-appropriate
+anti-drug conversations</p>
+</li>
+<li>
+<p>Build trust and relationships between parents and children, including
+face-to-face interactions</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p>If you are keen to address the above, visit <a href="https://www.ncada.org.sg/start-a-project/" rel="noopener noreferrer nofollow" target="_blank">Start a Project</a>!</p>
 <p>Watch the event highlights:</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" style="border:none;overflow:hidden" height="314" width="560" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2Freel%2F4187572408042951%2F&amp;show_text=false&amp;width=560&amp;t=0"></iframe>
