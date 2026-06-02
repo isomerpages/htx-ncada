@@ -106,9 +106,9 @@ conversations early?</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">The power of parent-child conversations</div>
-<div class="isomer-card-link">Read here:</div>
+<div class="isomer-card-link">Listen here:</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.channelnewsasia.com/watch/addicted/cannabis-trap-5146341" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Addicted - The Cannabis Trap" src="/images/Screenshot_2025_07_31_165326.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Addicted - The Cannabis Trap</div><div class="isomer-card-link">Read here:</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=HPlAGRCOMks" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Addicted - The Cannabis Trap" src="/images/Screenshot_2025_07_31_165326.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Addicted - The Cannabis Trap</div><div class="isomer-card-link">Watch here:</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.melisten.sg/podcast/playlist/CNA938-Rewind-2813576/Role-of-youth-advocates-in-tackling-the-issue-of-young-drug-abusers-in-Singapore--2836131" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -118,7 +118,7 @@ conversations early?</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Role of youth advocates in tackling the issue of young drug abusers in
 Singapore</div>
-<div class="isomer-card-link">Read here:</div>
+<div class="isomer-card-link">Listen here:</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.channelnewsasia.com/today/big-read/rising-youth-drug-use-advocacy-4978231" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="As the number of young drug abusers in Singapore continues to rise, youth advocates say it's time to fight back smarter" src="/images/Screenshot_2025_07_31_164708.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">As the number of young drug abusers in Singapore continues to rise, youth advocates say it's time to fight back smarter</div><div class="isomer-card-link">Read here:</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://omny.fm/shows/moneyfm-morning-show/morning-shot-why-is-there-drug-exposure-in-singapo" class="isomer-card">
@@ -129,9 +129,9 @@ Singapore</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Why is there drug exposure in Singapore despite tough laws?</div>
-<div class="isomer-card-link">Read here:</div>
+<div class="isomer-card-link">Listen here:</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/capital958/videos/1306764767210400" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Facebook: Mediacorp CAPITAL 958 城市频道: 青少年该如何向毒品说：“不”" src="/images/Screenshot_2025_08_01_115900.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mediacorp CAPITAL 958 城市频道: 青少年该如何向毒品说：“不”</div><div class="isomer-card-link">Read here:</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/capital958/videos/1306764767210400" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Facebook: Mediacorp CAPITAL 958 城市频道: 青少年该如何向毒品说：“不”" src="/images/Screenshot_2025_08_01_115900.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mediacorp CAPITAL 958 城市频道: 青少年该如何向毒品说：“不”</div><div class="isomer-card-link">Watch here:</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.channelnewsasia.com/watch/more-drug-abusers-under-age-20-arrested-last-year-youngest-was-13-cnb-4933731" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -141,7 +141,7 @@ Singapore</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">More drug abusers under the age of 20 arrested last year, youngest was
 13: CNB</div>
-<div class="isomer-card-link">Read here:</div>
+<div class="isomer-card-link">Watch here:</div>
 </div>
 </a>
 </div>
