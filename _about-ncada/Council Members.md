@@ -21,12 +21,11 @@ variant: tiptap
 </li>
 <li>
 <p><strong>Mr Ahmad Firdaus Bin Daud</strong>
-<br>APAC General Counsel, Avaya LLC</p>
+<br>Of Counsel, ARLC Legal</p>
 </li>
 <li>
 <p><strong>Mr Nicholas Gabriel Lim</strong>
-<br>Head of Programme for Youth Work and Professional Life Coaching, Singapore
-University of Social Sciences</p>
+<br>Managing Partner, Amicus Curiae Psychological and Coaching Services</p>
 </li>
 <li>
 <p><strong>Dr Tracy Loh</strong>
@@ -72,7 +71,7 @@ View Residential College, National University of Singapore</p>
 </li>
 <li>
 <p><strong>Mr Peter Ong</strong>
-<br>Associate Editor, Lianhe Zaobao</p>
+<br>Editorial Consultant, Lianhe Zaobao</p>
 </li>
 <li>
 <p><strong>Mr S B Viknesan</strong>
